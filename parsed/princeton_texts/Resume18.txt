@@ -1,0 +1,62 @@
+Die (Catherine) Wu
+Princeton, NJ wootieh@outlook.com | (+86) 136 0112 4500|
+EDUCATION
+Princeton University New Jersey, United States
+Bachelor of Arts, major in Finance, Guanghua School of Management Aug. 2021
+Peking University Beijing, China
+Bachelor of Arts, major in Finance, Guanghua School of Management Sept. 2017 - Jun. 2021
+● Cumulative GPA: 3.92/4.00 (Rank: 2/211)
+● Courses: Stochastic Analysis, Game theory, Mathematical Method in Finance, Econometrics, Advanced Mathematics, Probability and Statistics, Linear
+Algebra, Corporate Finance, Financial Statement Analysis, Time Series Analysis, Numerical Method, Macro Economics, Data Structure and Algorithm
+● Honors: National Award, Wusi Scholarship(2/211), Fengqi Scholarship(1/211), ICBC Star Scholarship (3/211), Merit Student of Peking University
+University of California, Berkeley Berkeley, United States
+BESAP Exchange Program, Department of Economics Aug.2019–Jan.2020
+● Cumulative GPA: 4.00/4.00
+● Courses: Ordinary Differential Equations, Intermediate Financial Economics Econometrics(PhD level)
+WORK EXPERIENCE
+Spring Capital Beijing, China
+Incoming Analyst Intern Jun.2021
+Citadel Securities Hongkong, China
+Trading Intern Jun.2020-Aug.2020
+● Designed a systematic trading monitoring system in Python to detect high-frequency tick data analysis on market volatility, trading frequency and one-direction
+trading; Enhanced the efficiency of all functions via matrix usage and the system was applied to optimize order timing
+● Reproduced the company’s live trading status using company’s high frequency data and order data. Developed a system for the lifecycle of an order to monitor
+multiple dimensions of order flow and instruct the company’s trading desk
+● Conducted in-depth research on Malaysian and Indonesian stock markets and delivered insights to facilitate trading in these markets
+TaiKang Asset Management Co. Ltd Beijing, China
+Analyst Intern Jan.2020
+● Established a risk control system based on 50ETF option trading and gave a presentation to the manager to illustrate how the system worked on the trading floor
+● Conducted in-depth research on soybean-soy soil-soybean meal future. Used cointegration test to analyze their price relationship and built a GARCH model for
+prediction and verifying the efficiency of the market.
+CICC Beijing, China
+Intern, Sales and Trading Jul.2019-Aug.2019
+● Took charge of tracking daily volatility of bond market; analyzed key dynamics elevating or weighing down yields; wrote daily commentary on the fluctuation
+of yield to maturity at both the short and the long end
+● Conducted research on Bank of Jiangsu’s convertible bonds and drafted a 30-page report based on analysis of the essential driving force of prices
+o Implemented a convertible bond pricing model by leveraging binomial tree in equity pricing and comparable analysis in bond pricing
+o Analyzed the decision-making of Bank of Jiangsu’s stockholders regarding capital raising and the terms of convertible bonds
+RESEARCH EXPERIENCE
+Peking University, Research Project on Foreign Exchange of the People's Bank of China Beijing, China
+Team leader, Advised by Prof. Michael Pettis
+● Conducted research by using CFETS SAFE BoP data, estimated FX inflow and outflow data through the country and studied the discrepancy
+● Devloped thorough understanding of the statistic system in China and discovered hidden intervention by PBoC
+Peking University, Transition Dynamics underlying Chinese Housing Return Premium Beijing, China
+Research Assistant, advised by Prof. Yu Zhang Jul.2019-Apr.2020
+● Assisted in developing the DSGE model to explain the dynamics of Chinese housing return premium; introduced the Arrow Security technique to improve the
+tractability and practicality of the model
+● Drafted an executive summary of cutting edge technical research; detected and solved potential problems which greatly speeded up the research
+● Publicized research through writing articles to introduce the research work and communicated with publications about the research work
+LEADERSHIP EXPERIENCE
+Hedge Fund Association Beijing, China
+President July,2019-Now
+● Open up a new course called Advanced Skills in Quant Industry in Guanghua School of Management, invited cofounder of AxiomQuant to be lecturer
+● Built an online platform for HFA and planning to expand HFA to all prestigious schools in China (pkuhfa.com),HFA now has more than 180 members
+Project GSM Inspire Beijing, China
+President February.2021-Now
+This program aims to bring high-quality learning resource to high-school students to help them learn more about Economics and Finance
+● Developed an online platform that has high-quality open course created by Guanghua School of Management with online Q&A and offline summer camp
+● The platform is used by Guanghua School of Management as an important tool to attract and recruit high school students
+SKILLS & INTERESTS
+● Technical: C++, Python, Matlab, R, Excel VBA | MS Office | Wind Database, Bloomberg
+● Languages: Mandarin (Native), English (Fluent, TOEFL: 110/120, GRE: V158+Q170+AW 3.5)
+● Interests: Shuang Sheng &Card Games (4th place in Freshman Bridge Cup of Peking University), Economics, Piano (Level 9), Travel

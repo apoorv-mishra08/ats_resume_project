@@ -1,0 +1,59 @@
+Haoting (David) DAI
+(+86)18688661826 | haotingdai@princeton.edu
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance, Quantitative Asset Management and Macroeconomic Forecasting Track Aug. 2021 – May 2023
+Certificate in Machine Learning
+ Anticipated Coursework: Asset Pricing, Financial Econometrics, Statistical Analysis of Financial Data, Machine
+Learning, Economic Dynamics, Chinese Financial and Monetary Systems
+Renmin University of China Beijing, China
+Bachelor of Economics in Finance Sept. 2016 – June 2020
+Bachelor of Science in Mathematics (Double Major)
+ GPA: 3.92/4.00
+ Relevant Coursework: Corporate Finance, Intermediate Macro/Microeconomics, Mathematical Analysis, Statistics
+and Probability, Optimization, Money and Banking, ODE, International Finance, Financial Time Series
+ Honors: Scholarship of Academic Excellence (1%), Overseas Visiting Student Fellowship (0.1%)
+Columbia University New York, NY
+Visiting Student with Fellowship Sept. 2018 – May 2019
+ GPA: 4.00/4.00
+ Relevant Coursework: Quantitative Risk Management, Numerical Methods in Finance, Stochastic Processes and
+Applications, Behavioral Finance, Capital Markets and Investments, Advanced Econometrics, PDE
+PROFESSIONAL EXPERIENCE
+Huatai Securities Shenzhen, China
+Financial Engineering/Quant Research Intern, Research Division Sept. 2020 – Mar. 2021
+ Designed target-date fund glide-paths for various buy-side clients, responsible for the entire workflow including asset
+allocation model construction, asset parameters modelling, and back-testing
+ Designed a target-risk fund with volatility, downside deviation and VaR limiting based on the risk parity strategy,
+and improved its Sharpe ratio by 34% by estimating the covariance matrix with EWMA and shrinkage methods
+ Conducted performance attribution analysis on 1,400+ fixed income mutual funds over the past 14 quarters using the
+Campisi model, analyzed attribution results statistically, and composed a research report summarizing findings
+ Researched a multi-asset market timing strategy using macro factors based on factor IC’s, Granger causality tests,
+etc., achieved annual return of 20.2% and Sharpe ratio of 0.73 on CSI 300 index over 14 years
+Tencent Financial Technology Shenzhen, China
+Off-Cycle Intern, Wealth Management Division June 2020 – Aug. 2020
+ Conducted KYC and KYP research using panel regression, fractional probit and logit model, and Kaplan-Meier
+survival analysis on daily transactional data of 600+ mutual funds spanning over three years, including raw data
+preprocessing and econometrical research on subscription, redemption, conversion rate and holding duration
+ Issued approval suggestions on funds pending biweekly review according to Brinson and Henriksson-Merton model
+analysis
+ Developed a money market fund investment strategy based on non-trading day returns, which enhanced annual return
+by about 40 bps compared to the market average
+Hong Kong Exchanges and Clearing Limited Hong Kong SAR
+Summer Intern, Markets Division July 2019 – Sept. 2019
+ Promoted HKEX’s inline warrants and weekly HSI and HSCEI options, supplied training sessions to brokers
+highlighting contract specifications and suitable Greeks related trading strategies
+ Created three Excel macro spreadsheets using VBA for analyzing turnover statistics of HKEX’s exchange
+participants for different securities and derivatives
+LEADERSHIP & EXTRACURRICULAR ACTIVITIES
+UBC-Sauder International Real Estate Case Competition Vancouver, BC
+Team Leader, group runner-up in the preliminary round Nov. 2019
+ Led a team of six to analyze a condominium development project and make investment recommendation
+ Managed quantitative modelling components (leases, mortgage, valuation, promote, etc.) of the case based on market
+analysis given by other team members, built a DCF sensitivity analysis toolkit using VBA
+Renmin University of China, Investment Banking & Consulting Association Beijing, China
+Vice President (Internal) Sept. 2017 – Dec. 2019
+ Responsible for organizing weekly lectures and activities of the association, serving 100+ members
+ADDITIONAL INFORMATION
+Technical Skills: Python, R, Stata, VBA, EViews, Office, Wind, Bloomberg
+Languages: Mandarin (native) and Cantonese (native)
+Certificates: CFA Level I (passed)

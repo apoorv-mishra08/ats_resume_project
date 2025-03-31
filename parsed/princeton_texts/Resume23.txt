@@ -1,0 +1,55 @@
+Luis Bento
+Bendheim Center for Finance | Princeton, NJ | luis.bento@princeton.edu | +55 19 98129-4535
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance Aug 2021 – May 2023
+· Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Corporate Finance and Financial Accounting,
+Financial Econometrics.
+Insper – Instituto de Ensino e Pesquisa São Paulo, BR
+Bachelor of Economics with Certificate in Data Science Jan 2015 – Dec 2018
+· Cumulative GPA: 9.13/10.00 (Ranking 1/95)
+· Coursework: Statistical Learning, Data Science, Asset Pricing, Optimization, Time Series Analysis, Macroeconomics, Game
+Theory, and Microeconometrics
+Columbia University in the City of New York New York, NY
+International Exchange Student Jan 2018 – May 2018
+· Coursework: Linear Algebra, Statistical Computing and Intro to Data Science, Behavior Finance, and Intro to Psychology
+WORK EXPERIENCE
+C6 Bank São Paulo, BR
+Investment Specialist Aug 2020–Aug 2021
+· Designed and implemented a portfolio optimization algorithm for a customized automatic portfolio construction product using
+the Black-Litterman model. This product is available for over 7 million clients and is projected to have an AuM close to R$
+850 million by the end of the year.
+· Wrote the proprietary Python libraries of financial mathematics, risk measurement, and backtesting of C6’s Quant Team.
+· Researched the effects of market regimes, rebalancing rules, and asset selection in the historical performance of rule-based
+asset class portfolios.
+· Developed systemic risk reports and analyzed global asset correlations evolution for the bank’s investment committee.
+Rio Bravo Investimentos São Paulo, BR
+Quantitative Analyst Dec 2019 – Aug 2020
+· Developed several factor strategies in Python and gave a subsequent presentation to the investment committee on Size, betting
+against beta, net operating assets (NOA), and time series momentum (TSM). NOA and TSM were included as strategies in the
+fund and TSM is still being used, having had a realized Sharpe ratio of 1.42 in its first 12 months.
+· Enhanced the risk parity algorithm in order to reduce the effects of momentum crashes.
+· Responsible for a factor investing literature follow-up. Read articles from academic journals and company white papers (AQR,
+GS, JPM) and prepared discussions to report findings with the portfolio manager and the director of liquid assets.
+Economic Research Analyst Jun 2018 – Dec 2019
+· Automated the database for the main economic indicators in Brazil, extracting the online data directly from statistical
+agencies using R. Additionally, I automated internal email reporting using RMarkdown and R.
+· Developed econometric models for the main indicators of the Brazilian economy. Our projections of the 1st quarter of 2020
+were awarded 3rd place in the Broadcast (Estadão) Ranking of Projections (out of 51 institutions).
+· Gave expert testimony to the largest media outlets in Brazil regarding economic outlook (Estadão, Valor Econômico, Reuters,
+O Globo).
+· Wrote a white paper about the structural dynamics of the Brazilian economy, discussing growth perspectives for the next
+10 years.
+AWARDS AND EXTRACURRICULARS
+· 2018 1st place undergraduate thesis – The relations between Politics and Public Credit – Insper
+· 2017 3rd place in the 2017 Brazilian Econometric Games (Olympiad)
+· 2017 Research assistant of Marco Bonomo – BNDES
+· 2017 White paper: A Herança do Futuro (The Heritage from the Future) – Bento, Bonomo, Ribeiro
+· 2020 White paper: A Terceira Década Perdida (The Third Lost Decade) – Rio Bravo Fronteiras
+· 2016 London School of Economics Summer Course – Intermediate Macroeconomics
+· 2016 President of Consilium Insper (Public Policy Student Organization)
+· 2013 CISV Iceland – Cultural exchange program
+SKILLS AND INTERESTS
+Languages: Portuguese (Native); TOEFL (116/120)
+Technical Skills: R, Python, Microsoft Office, Bloomberg, Google Cloud Platform (Storage, BigQuery), Git
+Interests: Triathlon, cinema, traveling and hiking

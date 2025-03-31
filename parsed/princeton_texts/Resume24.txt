@@ -1,0 +1,53 @@
+Yuezhou (Margaret) Cai
+Princeton, NJ | (+86) 18066101666 | yc7147@princeton.edu
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance, Bendheim Center for Finance Expected Jun 2023
+• Anticipated Coursework: Asset Pricing, Financial Econometrics, Cases in Financial Risk Management, Fixed Income Models &
+Applications, Statistical Analysis of Financial Data, etc.
+New York University Shanghai Shanghai, China
+Bachelor of Science in Business and Finance (Hons), Double Minor in Mathematics and Data Science Jun 2021
+Cumulative GPA: 3.88/4.0, Magna cum laude | Study Abroad: NYU New York, Stern School of Business, GPA: 3.9/4.0
+Honors: Dean’s List for 2017-2021 academic years; 2019-2020 Recognition Award; 2019 NYUSH Jiahua Global Talent Scholarship
+• Coursework: Machine Learning, Mathematics of Finance, Probability and Statistics, Data Structures and Algorithms, Ordinary
+Differential Equations, Debt Instruments and Markets, Econometrics, Portfolio Management, etc.
+PROFESSIONAL EXPERIENCE
+FC Capital Shanghai, China
+Analyst Intern Apr 2021 – Aug 2021
+• Wrote 20+ initial reviews for entrepreneurial firms by presenting key information such as current pipelines, ownership structure,
+financial condition from firms’ business proposals, and researching the healthcare industry, market size and competition structure
+• Completed a 77-page deck that includes summary of the project’s investment logic, analysis of potential risks, business valuation
+and return dynamics for the investment committee (IC) meeting
+• Completed a 41-page research report on the global orphan drug market to assist team’s investment decisions on a biopharma
+company focused on rare disease market
+• Completed 5+ case studies and presentation decks on topics including gene therapy, digital Elisa technology, microsphere
+preparation, and prepared 10+ question lists for management interviews
+GF securities Shanghai, China
+Equity Strategy Research Intern Mar 2021 – Apr 2021
+• Completed daily, weekly and monthly research reports regarding equity strategies in China’s A-share market by collecting industry
+news and financial ratios from the Wind database, and analyzing market trends
+Prophet Shanghai, China
+Summer Intern Apr 2019 – Aug 2019
+• Designed brand story board for top 50 firms in Prophet 2019 Brand Relevance Index by doing desktop research, especially reading
+company’s annual reports; Used Excel to analyze the data from over 8000 consumers
+• Edited and proofread 50+ whitepapers and case studies regarding business transformation and brand consulting
+RESEARCH EXPERIENCE
+NYU Shanghai, Business and Finance Department Shanghai, China
+Summer Dean’s Undergraduate Research Funding (DURF) scholarship Feb 2020 – Aug 2020
+• Used Python and created a CHS4 model (a 4-factor asset pricing model) that can better capture the return variation of China’s
+small stocks than many other factor pricing models such as the CAPM, FF5 the CH3 models
+• Applied the CHS4 model to explore the potential anomaly SOE (state ownership proportion), as well as stock performance after
+debt issuance, seasoned equity offerings (SEOs) and private placements. The model fully explains these anomalies
+NYU Shanghai, Business and Finance Department Shanghai, China
+Finance Honor thesis project in Asset Pricing in China’s Stock Market Sep 2020 – May 2021
+• Supervised by Prof. Carpenter of NYU Stern, collaborated with Prof. Whitelaw of NYU Stern
+• Examined characteristics of China A-shares by applying my CHS4 model to explain nine anomalies such as reversal, momentum,
+profitability, volatility, turnover, illiquidity, etc.
+• Used Python and Principal Component Analysis (PCA) to approach the puzzle of high information ratio among small stocks
+LEADERSHIP EXPERIENCE
+NYU Shanghai, Learning Assistant Program Shanghai, China
+Tutor for Foundations of Finance, Microeconomics and Econometrics Sep 2019 – May 2021
+• Provided office hours and weekly review sessions for 8 hours/week, received Most Tutoring Appointments Award
+SKILLS AND INTERESTS
+Computer: Microsoft Office, Python (Numpy & Pandas), Stata, Capital IQ, Wind database, Minitab, R
+Interests: Volleyball, Swimming, Debate, Creative Writing

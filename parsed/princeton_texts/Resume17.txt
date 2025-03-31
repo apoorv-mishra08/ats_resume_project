@@ -1,0 +1,54 @@
+JING WEN
+88 College Road West, Princeton, NJ, 609-216-5105, jw4698@princeton.edu
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance: Quantitative Asset Management & Macroeconomic Forecasting Track Expected May 2023
+• Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Financial Econometrics, Fixed Income Models and Applications,
+Corporate Finance and Financial Accounting, Quantitative Data Analysis in Finance, Portfolio Theory and Asset Management
+University of California, Berkeley Berkeley, CA
+Bachelor of Arts, Majors: Economics, Applied Mathematics, Data Science May 2021
+• Overall GPA: 3.97/4.00 Major GPA: 4.00/4.00
+• Relevant Courses: Econometrics, Financial Economics, Stochastic Processes, Behavioral Finance, Linear Algebra, Multivariable Calculus,
+Numerical Analysis, Probability Theory, Mathematical Economics, Game Theory
+• Teaching Assistantship: Tutored drop-in undergraduate students at the Student Learning Center; mainly responsible for linear algebra and
+probability theory related courses (Spring 2018 – Spring 2020)
+PROFESSIONAL EXPERIENCES
+CITIC Securities Beijing, China
+Intern, Alternative Investment Management Group July 2020 – September 2020
+• Catalogued all the U.S. treasury bond futures contracts provided by CME group, specifying contract unit, price quotation, settlement method of
+each product; compared and contrasted U.S. products with Chinese treasury bond futures contracts listed at the CFFE
+• Presented the econometric model of limit order execution times developed by Andrew Lo; emphasized the feasibility of sophisticated dynamic
+order submission strategies; explained the survival analysis that led to the conclusion
+• Studied several risk premia identified in commodity markets; presented how strategies based on carry, momentum, trend, curve, etc., can add
+value in live portfolios along with their performance in normal and equity market stress periods
+• Researched the main transaction models for Chinese treasury bond futures to inform trading decisions in this market
+First Capital Investment Management Beijing, China
+Summer Intern May 2019 - August 2019
+• Researched the hydrogen economy, “pork cycle” and other targeted industries; generated industry analysis and forecasting that influenced First
+Capital’s investments; demonstrated results such as huge governmental support and resulting overcapacity in the hydrogen energy market;
+created trend prediction and investment advice based on my market analysis
+• Illustrated the main mechanisms involved in the corporate reconstruction process, emphasizing the balance of interests between shareholders,
+creditors, and reorganizing party during negotiations and within cases of court rulings; gathered historical liquidation ratios of listed firms for
+data analysis purposes
+• Researched and reported how the government funds public projects, demonstrated the heavy use of the public-private partnership method by
+local governments to fund infrastructure; summarized the scale of government-owned fund management companies in major cities
+AVIC Securities Beijing, China
+Summer Intern May 2018 - July 2018
+• Monitored and created daily reports for pledge-style repo, bonds outright repo, fund matching, and lending transactions, learning the main
+mechanism behind such trading activities
+• Attended weekly meetings that reported and summarized market trends and activities
+• Archived transaction records and collected signatures from managers
+Research Experience
+Haas Business School Berkeley, CA
+Research Assistant January 2019 - May 2019
+• Recovered the effect of stress shocks from the 2008 financial crisis on CEO’s aging with the use of differences-in-differences analysis, including
+the experience of the financial crisis as a dummy variable to control for individual differences and retrieve the impact of stress shocks
+• Suggested the use of panel data to isolate the influence of time-invariant variables as confounding variables and implemented them with a
+longitudinal data set; avoided the potential covariation between effort invested in visual image and experienced stress by controlling for time-
+invariant factors for each data point
+• Generated preliminary regression and estimated an exact amount of aging induced by stress shocks after collecting and cleaning up data for
+layoffs, divorce records, and CEO visual images
+SKILLS & Interests
+• Technical Skills: Microsoft Office; Python; Latex; Matlab; SQL; Java; Photoshop
+• Languages: Chinese (native); German (conversational)
+• Activities: CAL Boxing member; Internal Manager & Photographer for Student Ambassador for the Arts at UC Berkeley

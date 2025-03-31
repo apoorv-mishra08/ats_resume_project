@@ -1,0 +1,58 @@
+Poorva Arora
+poorvaa@princeton.edu | (615) 513-1889
+EDUCATION
+Princeton University Princeton, NJ
+Masters in Finance August 2021 – May 2023
+Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Financial Econometrics, Forecasting and Time Series
+Analysis, Corporate Finance and Financial Accounting, Portfolio Theory and Asset Management
+Vanderbilt University Nashville, TN
+Bachelor of Engineering in Chemical Engineering, Summa Cum Laude August 2013 – May 2017
+Minors: Engineering Management, Mathematics, Chemistry
+Cumulative GPA: 3.95/4.00 | Cornelius Vanderbilt Scholarship Recipient: 4-year full tuition and summer program stipend
+WORK EXPERIENCE
+Goldman Sachs New York, NY | London, UK
+Associate – Strategic and Quantitative Asset Allocation, Investment Strategy Group (ISG) July 2019 – July 2021
+ Developed customized asset allocation solutions for Private Wealth Management’s (PWM) clients, including High-Net-
+Worth individuals and small to mid-size institutions.
+ Analyzed and optimized client portfolios using ISG’s quantitative multi-factor optimization model in Python, incorporating
+relevant parameters such as risk tolerance (volatility), performance targets, return uncertainties, and tax considerations.
+ Simulated the downside risks, including market and liquidity risks, and expected long-term performance of portfolios to help
+clients quantify their ability to meet their wealth objectives, net of inflation, spending, and other liabilities.
+ Collaborated with Private Wealth Advisors (PWAs) to present strategic portfolio research and asset allocation guidance at
+meetings with current and prospective clients.
+ Contributed to research initiatives on strategic portfolios via statistical methods such as: regression analysis, performance and
+benchmarking analysis, drawdown analysis, and Monte Carlo simulations.
+Goldman Sachs New York, NY
+Senior Analyst – Credit Trading, Market Risk Management and Analytics May – August 2016; July 2017 – June 2019
+ Analyzed market risk metrics in the Global Credit Trading business to identify and escalate significant exposures, risk
+concentrations, and emerging risks to the trading desks and senior risk leadership.
+ Performed stress test analysis on multi-asset portfolios to identify and quantify vulnerabilities in adverse market scenarios
+and lead discussions with the businesses on their risk profile and management.
+ Monitored macro and micro financial events and proactively quantified their potential impacts on profit and loss in the
+Credit Trading business.
+ Allocated risk capacity, enforced limits, and conducted hedge effectiveness analysis for Volcker compliance, per the firm’s
+risk appetite and the business’ market making opportunities.
+ Developed automated risk analysis tools via Slang (proprietary coding language) to comprehensively monitor risk factors
+and relevant market signals for the business’ exposures across credit products.
+RESEARCH EXPERIENCE
+Vanderbilt University Nashville, TN
+Research Assistant, Bardhan Nanophotonic Materials Research Laboratory January 2014 – April 2016
+ Publications: Plasmon Enhanced Water Splitting Mediated by Hybrid Bimetallic Au-Ag Core-Shell Nanostructures
+(Nanoscale 2014); Enhancement in Organic Photovoltaics Controlled by Interplay between Charge Transfer Excitons and
+Surface Plasmons (American Chemical Society Omega 2016)
+National University Singapore Singapore
+Summer Engineering Research Internship for US Students (SERIUS), Environmental Research Institute May – July 2015
+ Project: Anaerobic Digestion of Food Waste. Researched, designed, and built systems to convert food waste into biogas, a
+renewable form of energy, via biological processes.
+LEADERSHIP & COMMUNITY SERVICE
+Vanderbilt Student Volunteers for Science (VSVS) Nashville, TN
+Community Outreach Chair September 2013 – December 2016
+ Spearheaded a 5 member committee in planning and executing 15 annual Outreach events aimed at inspiring STEM careers
+for middle school students in the Nashville community via demonstrative science experiments.
+Vandy Karma (Hindu Culture Organization) Nashville, TN
+President January 2014 – April 2017
+ Represented Karma at Multicultural Leadership and Interfaith Councils, and Vanderbilt Religious Affairs Committee;
+interacted with and served spiritual needs of the Hindu population on campus.
+SKILLS & INTERESTS
+Technical Skills: Working knowledge of Python and Slang; Microsoft Office
+Languages: Hindi | Interests: Bollywood Dance, Writing (Fiction, Poetry), Travelling, Cooking

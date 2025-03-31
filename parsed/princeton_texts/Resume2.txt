@@ -1,0 +1,51 @@
+Andrew Elzayn
+Email: aelzayn@princeton.edu | Phone: (310) 923-4407
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance Expected
+ Anticipated coursework: Asset Pricing I, Statistical Analysis of Financial Data, Corporate Finance Aug. 2021 – May 2023
+and Financial Accounting, Asset Pricing II, and Financial Econometrics
+Columbia University New York, NY
+B.A. in Computer Science – Mathematics, Concentration in Economics, GPA: 4.13/4.00 Sept. 2017 – Feb. 2021
+ Summa cum Laude, Junior Phi Beta Kappa, Computer Science Scholarship Award, Dean’s List
+ Relevant coursework: Advanced Econometrics, Analysis of Algorithms I, Introduction to
+Probability and Statistics, Analysis and Optimization, Economics of Uncertainty and Information,
+Artificial Intelligence, Intermediate Microeconomics, Intermediate Macroeconomics, Modern
+Algebra I
+RESEARCH & WORK EXPERIENCE
+Columbia University New York, NY
+Research Assistant, Economics Department Feb. 2021 – July 2021
+ Wrote code in R to forecast industrial production and other macroeconomic variables during
+recessions using various machine learning and classical forecasting models
+ Compared random forest, factor-augmented regression, and LASSO models to baseline AR(4)
+ Developed tools to visualize inter-model differences for improved interpretability
+Aetna New York, NY
+Data Science Intern June 2020 – Aug. 2020
+ Spearheaded the push for personalized content by creating a repository of user segments
+ Worked with the product team to identify four different personalization features
+ Utilized unsupervised clustering algorithms such as K-Means and Agglomerative Clustering
+ Worked with the data engineering team to productionize models for use across the entire team
+ Used supervised learning models to expand functionality of clusters and eliminate the need to re-
+fit with models that lack ability to predict (supervised learning models achieved F1 scores > 0.98)
+ Optimized model pipeline using a distributed parallel processing engine for machine learning to
+reduce runtime from minutes to seconds
+Jam City Los Angeles, CA
+Data Science Intern June 2019 – Aug. 2019
+ Developed random forest and XGBoost models using player data in order to predict whether a
+player will make a purchase from the in-game store
+ Used segmentation techniques to segment players for more directed advertising and in-game offers
+ Developed and modified reinforcement learning models in order to find optimal level difficulties
+Avata Intelligence Los Angeles, CA
+Software Engineering Intern June 2018 – July 2018
+ Created programs using the Apache POI API to read documents and spreadsheets and input the
+data into JSON format to be used by the company’s proprietary NLP algorithms
+ Created a MySQL database and local server to process, store, and analyze the data
+ Utilized Python, Amazon Web Services, and AWS Lambda Functions to create a chat bot
+framework with Slack integration for the company’s future use
+LEADERSHIP & SERVICE
+Columbia University, Turath – Arab Students Association New York, NY
+Treasurer (2018-2019, 2019-2020) and Organizing Committee Member (2017-2018) Sept. 2017 – May 2020
+SKILLS
+Programming – R, Python, SQL, Java, C
+ Extensive experience programming in R, Python, SQL, and Java
+ Experience with C, C++, Apache Hive, and MySQL

@@ -1,0 +1,57 @@
+ALEX ARONOVICH
++1 (763) 639-9433 | alex.aronovich@princeton.edu
+EDUCATION
+Princeton University, Bendheim Center for Finance, Princeton, NJ Sep 2021 – May 2023 (expected)
+• Master in Finance
+• Anticipated Coursework: Asset Pricing I and II, Statistical Analysis of Financial Data, Financial Econometrics,
+Quantitative Data Analysis in Finance, Fixed Income Models and Applications, Corporate Finance
+The Wharton School, University of Pennsylvania, Philadelphia, PA Sep 2012 – May 2016
+• Bachelor of Science in Economics, Cumulative GPA: 3.90/4.00
+• Honors: Summa Cum Laude, Beta Gamma Sigma (top 10% of class); Study Abroad: FGV, São Paulo, Brazil
+Other Coursework in Mathematics and Statistics, Cumulative GPA: 4.00/4.00
+• George Washington University, Washington, DC Aug 2019 – May 2020
+• University of Minnesota, Minneapolis, MN Jan 2019 – May 2019
+PROFESSIONAL EXPERIENCE
+Federal Reserve Board, Monetary & Financial Market Analysis section, Washington, DC Jul 2019 – Jul 2021
+Senior Research Assistant
+• Supported analysis of U.S. fixed income and derivatives markets, including yield curve modeling and estimation
+• Produced original research using quantitative methods on large financial data sets; senior policymakers used results
+as an input to monetary policy decisions. Example projects included:
+Developed nonlinear regression model of the natural rate of interest (r-star) and inflation expectations that
+o
+enhances computational efficiency and metric frequency by >1000x compared to existing models
+Devised improved metrics to monitor Treasury market liquidity in the presence of high-frequency trading
+o
+Built an algorithm to automatically detect Treasury market stress events using high-frequency order book data
+o
+Created a novel data set of per-minute Treasury yields by benchmarking sources and constructing a data pipeline
+o
+• Led analysis and visualization of Treasury markets and monetary policy expectations for FOMC materials/briefings
+• Improved data ETL, model estimation, and visualization scripts in Python, R, SQL, MATLAB, and Linux/Bash
+• Selected to serve as fact-checker/editor of red-black draft of December 2020 FOMC statement
+Fulbright Program, U.S. Department of State, Caxias do Sul, Brazil Feb 2018 – Nov 2018
+Fellow
+• Served as a U.S. cultural ambassador in Brazil, leading presentations/workshops for 6 college-level English classes
+Censeo Consulting Group, Washington, DC Aug 2016 – Feb 2018
+Business Analyst
+• Performed data analysis and led presentations for 5+ client advisory projects including 200+ stakeholders
+• Assisted a data governance initiative at the SEC to develop a Commission-wide financial data set catalog
+• Presented $20M+ of cost savings recommendations for two federal agencies based on spending data analysis
+Wharton Small Business Development Center, Philadelphia, PA Sep 2013 – May 2016
+Practice Leader, Undergraduate Consultant
+• Led advisory projects with 9 firms by supervising analysis and client presentations for 6 MBA/undergraduate teams
+• Analyzed country remittance data to recommend 20 target emerging markets for a $2M+ money transfer firm
+• Built a predictive financial model in Excel evaluating optimal investments for a $13M+ toy company
+RESEARCH PUBLICATIONS
+“High-Frequency Estimates of the Natural Real Rate and Inflation Expectations”, 2021, Finance and Economics
+Discussion Series, with A. Meldrum.
+“The Treasury Market Flash Event of February 25, 2021”, 2021, FEDS Notes, with D. Dobrev and A. Meldrum.
+“New Financial Market Measures of the Neutral Real Rate and Inflation Expectations”, 2020, FEDS Notes, with A.
+Meldrum.
+“Just-in-Time Intermediation in Fast-Paced Electronic Markets: The Case of Treasury Market Liquidity During
+Episodes of Market Stress”, with D. Dobrev and A. Meldrum (forthcoming).
+“TIPS Inflation Compensation and Treasury Supply”, with K. Joergensen (work in progress).
+TECHNICAL SKILLS AND INTERESTS
+Technical Skills: Python, R, SQL, Linux/Bash, Git, MATLAB, Bloomberg Terminal
+Languages: Portuguese (fluent), Russian (fluent), Spanish (proficient)
+Interests: Languages, Literature, Cinema, Music/Radio DJing, Classical/Brazilian Guitar, History, Pickleball

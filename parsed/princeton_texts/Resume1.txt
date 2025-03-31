@@ -1,0 +1,55 @@
+Aditya Divekar
+Bendheim Center for Finance, 20 Washington Road, Princeton,NJ adivekar@princeton.edu
+EDUCATION
+Princeton University Princeton, NJ
+Masters in Finance Aug 2021- May 2023
+Anticipated Coursework: Fixed Income, Asset Pricing,Financial Econometrics, Options Futures and Derivatives,Behavioural Finance,
+Asian Capital Markets, Machine Learning and PatternRecognition
+Indian Institute of Technology Guwahati Guwahati, IN
+Bachelor of Technology, Mathematics and Computing,GPA: 9.18/10 June 2014- May 2018
+Coursework: Modern Algebra, Monte Carlo Simulation,Financial Engineering, Probability theory and RandomProcesses, Stochastic
+Calculus, Matrix Computations
+WORK EXPERIENCE
+Fusion Research Capital Pune, IN
+Quantitative Researcher/Developer Mar 2021 - Aug 2021
+● Designed and built a momentum trading strategy forindex options at NSE based on order book and indexfuture signals
+● Monitored live trading and performed comparative analysisof trades with backtests to improve profitabilityand
+reproducibility
+● Developed understanding of market microstructure anddesign techniques for low latency systematic trading
+Goldman Sachs Bengaluru, IN
+Associate, Equities One Delta Strategies - Americas Jun 2018 - Mar 2021
+● Worked on Smart Order Routing algorithms for optionsand equities. Developed spread option pricing constraintsand trading
+dual-currency listings on Canadian exchanges thatincreased business flow by over multi-million dollarsYoY
+● Involved in building Atlas, a low latency tradinginfrastructure. Included design and implementationof execution algorithms
+and venue connectivity with emphasis on zero-garbageand low latency
+● Independently calibrated and maintained venue rankingsfor passive routing across exchanges and dark pools
+● Promoted to Associate in December 2020
+Goldman Sachs Bengaluru, IN
+Summer Analyst, Equities One Delta Strategies - Americas May 2017 - Jul 2017
+● Analysed historical executions of trading algorithmsand developed performance metrics
+● Implemented improvements for warm-up of algorithmsreducing their startup time by 20% resulting in lowerimplementation
+shortfall
+Google Summer of Code Remote
+Student Developer May 2016 - Aug 2016
+● Designed and developed the implementation of the AuthenticatedReceived Chain protocol for email authenticationand
+security in GNU Mailman
+● Participated in onsite development with the GNU Mailmanteam at the Portland Pycon, 2016 on invitation forcollaboration
+PROJECTS & RESEARCH
+IIT Guwahati Department of Mathematics Guwahati, IN
+Corporate Credit Rating using Machine Learning Techniques:Thesis Jul 2017 - May 2018
+● Designed predictive AI models to assign credit ratingsbased on financial fundamentals and performed comparativeanalysis
+with classification techniques
+● Identified 12 key factors influencing credit ratingsfor US companies using S&P data for 400 companiesspanning 6 years
+● Achieved a benchmark accuracy of 92.13% with a novelapproach of kNC compared to existing literature
+Slice Sampling with Adaptive Multivariate Steps Mar 2016 - Apr 2016
+● Studied and implemented the Shrinking Rank methodfor sampling from multivariate distributions
+● Achieved improvement of 8% in accuracy over SliceSampling for generating random variates from multivariateGamma
+distribution
+SCHOLASTIC ACHIEVEMENTS
+Quant Market Volatility Modeling Challenge: Ranked3rd in the Quant challenge for the pricing of Barrieroptions in Quantify 2017,
+conducted by Goldman Sachs
+INSPIRE scholarship: Awarded by the Department ofScience and Technology, Govt. of India in 2014 forgraduating within 1% of
+science students across high schools in India
+SKILLS & INTERESTS
+Programming: Java, C++, Python, R, MATLAB
+Interests: Motorsports, Poker, Weight training

@@ -1,0 +1,1497 @@
+filename,resume_text,ats_score
+Resume1.txt,"Aditya Divekar
+Bendheim Center for Finance, 20 Washington Road, Princeton,NJ adivekar@princeton.edu
+EDUCATION
+Princeton University Princeton, NJ
+Masters in Finance Aug 2021- May 2023
+Anticipated Coursework: Fixed Income, Asset Pricing,Financial Econometrics, Options Futures and Derivatives,Behavioural Finance,
+Asian Capital Markets, Machine Learning and PatternRecognition
+Indian Institute of Technology Guwahati Guwahati, IN
+Bachelor of Technology, Mathematics and Computing,GPA: 9.18/10 June 2014- May 2018
+Coursework: Modern Algebra, Monte Carlo Simulation,Financial Engineering, Probability theory and RandomProcesses, Stochastic
+Calculus, Matrix Computations
+WORK EXPERIENCE
+Fusion Research Capital Pune, IN
+Quantitative Researcher/Developer Mar 2021 - Aug 2021
+● Designed and built a momentum trading strategy forindex options at NSE based on order book and indexfuture signals
+● Monitored live trading and performed comparative analysisof trades with backtests to improve profitabilityand
+reproducibility
+● Developed understanding of market microstructure anddesign techniques for low latency systematic trading
+Goldman Sachs Bengaluru, IN
+Associate, Equities One Delta Strategies - Americas Jun 2018 - Mar 2021
+● Worked on Smart Order Routing algorithms for optionsand equities. Developed spread option pricing constraintsand trading
+dual-currency listings on Canadian exchanges thatincreased business flow by over multi-million dollarsYoY
+● Involved in building Atlas, a low latency tradinginfrastructure. Included design and implementationof execution algorithms
+and venue connectivity with emphasis on zero-garbageand low latency
+● Independently calibrated and maintained venue rankingsfor passive routing across exchanges and dark pools
+● Promoted to Associate in December 2020
+Goldman Sachs Bengaluru, IN
+Summer Analyst, Equities One Delta Strategies - Americas May 2017 - Jul 2017
+● Analysed historical executions of trading algorithmsand developed performance metrics
+● Implemented improvements for warm-up of algorithmsreducing their startup time by 20% resulting in lowerimplementation
+shortfall
+Google Summer of Code Remote
+Student Developer May 2016 - Aug 2016
+● Designed and developed the implementation of the AuthenticatedReceived Chain protocol for email authenticationand
+security in GNU Mailman
+● Participated in onsite development with the GNU Mailmanteam at the Portland Pycon, 2016 on invitation forcollaboration
+PROJECTS & RESEARCH
+IIT Guwahati Department of Mathematics Guwahati, IN
+Corporate Credit Rating using Machine Learning Techniques:Thesis Jul 2017 - May 2018
+● Designed predictive AI models to assign credit ratingsbased on financial fundamentals and performed comparativeanalysis
+with classification techniques
+● Identified 12 key factors influencing credit ratingsfor US companies using S&P data for 400 companiesspanning 6 years
+● Achieved a benchmark accuracy of 92.13% with a novelapproach of kNC compared to existing literature
+Slice Sampling with Adaptive Multivariate Steps Mar 2016 - Apr 2016
+● Studied and implemented the Shrinking Rank methodfor sampling from multivariate distributions
+● Achieved improvement of 8% in accuracy over SliceSampling for generating random variates from multivariateGamma
+distribution
+SCHOLASTIC ACHIEVEMENTS
+Quant Market Volatility Modeling Challenge: Ranked3rd in the Quant challenge for the pricing of Barrieroptions in Quantify 2017,
+conducted by Goldman Sachs
+INSPIRE scholarship: Awarded by the Department ofScience and Technology, Govt. of India in 2014 forgraduating within 1% of
+science students across high schools in India
+SKILLS & INTERESTS
+Programming: Java, C++, Python, R, MATLAB
+Interests: Motorsports, Poker, Weight training",90
+Resume10.txt,"Xuechen Li
+xl3079@princeton.edu | (86)181-0392-9978 | linkedin.com/in/xuechen-li-princeton
+EDUCATION
+Princeton University Princeton, NJ
+Candidate for Master in Finance Expected July 2023
+Tsinghua University, School of Material Science and Engineering Beijing, China
+Bachelor of Engineering, Major in Material Science and Engineering, GPA: 3.93/4.00 | Ranking: 1/117 Aug 2017 – June 2021
+ Relevant Courses: Applied Stochastic Process, Convex Optimization, Numerical Analysis, Data Structures, C++ Programming,
+Machine Learning, Introduction to AI.
+ Awards: Scholarship of Comprehensive Excellence of Tsinghua University (3 times), Second Prize in 11th National
+Mathematics Competition of Undergraduates, Third Prize in 5th THU iCenter Quantitative Strategy Tournament
+Tsinghua University, School of Economics and Management Beijing, China
+Bachelor of Economics, Major in Economics (Finance), GPA: 4.00/4.00 Jun 2018 – June 2021
+ Relevant Courses: Econometrics, Fixed Income Securities Analysis, Investment, Corporate Finance
+PROFESSIONAL EXPERIENCE
+Ubiquant Investment Beijing, China
+Intern Data Analyst, IT Group Jun 2020 - Sept 2020
+ Completed several risk indicators and constructed stock concept portfolio control module for intraday trading risk control
+ Performed refactoring of the risk control system to meet the requirements of a data-computation splitting framework
+China Securities Beijing, China
+Intern Analyst, Derivatives Trading Department Jan 2020 - Feb 2020
+ Executed different numerical methods in Python to price barrier options accelerating price path simulation
+ Conducted research to beta-hedge long positions with ZZ500 stock index futures
+China Galaxy Securities Co., LTD. Beijing, China
+Intern Analyst, Sales and Trading Department Jun 2019 - Sept 2019
+ Improved script quality: applied Numba module to optimize Python scripts for pricing and designed test suites for them
+RESEARCH EXPERIENCE
+Tsinghua University, CSE Department Beijing, China
+Application of Deep Learning Models in Computer Vision Tasks Sept 2020 - Nov 2020
+ Combined classical computer vision models for the Tiny Image Dataset and ranked 5th in TinyImageNet Kaggle competition
+ Proposed a network based on UNet and ResNet to fit Steel Defect Dataset and got top 5% performance in Kaggle competition
+Tsinghua University, AI Lab Beijing, China
+iCenter Quantitative Strategy Tournament Jan 2020 - Jun 2020
+ Designed a timing strategy based on selected technical and morphological factors to train an XgBoost Decision Tree, which
+achieved good performance in Chinese market in the 5-year back test
+Stanford University (Online RA) Online
+Research Assistant, Application of Artificial Intelligence and Big Data in Quantitative Trading Sept 2018 - Jan 2019
+ Applied machine learning algorithms with Python to complete a multi-factor strategy including data processing, factor
+construction and selection, prediction, and back tests on more than 5 years of stock data in the China A-shares Market
+LEADERSHIP EXPERIENCE
+Tsinghua University, School of Material Science and Engineering, Student Union Beijing, China
+Group Leader, Social Practice Management Group Sept 2018 – Sept 2019
+ Organized more than 15 social practice teams and connected them with companies and governments
+ Led a social practice team and won first prize among more than 50 teams in the social practice program of Tsinghua University
+SKILLS
+ Programming: Python, C/C++, MATLAB, SQL, Latex/Markdown
+ Python Modules: SciPy, NumPy, Pandas, scikit-learn, PyTorch
+ Language: Chinese (Native)",90
+Resume11.txt,"ALEX ARONOVICH
++1 (763) 639-9433 | alex.aronovich@princeton.edu
+EDUCATION
+Princeton University, Bendheim Center for Finance, Princeton, NJ Sep 2021 – May 2023 (expected)
+• Master in Finance
+• Anticipated Coursework: Asset Pricing I and II, Statistical Analysis of Financial Data, Financial Econometrics,
+Quantitative Data Analysis in Finance, Fixed Income Models and Applications, Corporate Finance
+The Wharton School, University of Pennsylvania, Philadelphia, PA Sep 2012 – May 2016
+• Bachelor of Science in Economics, Cumulative GPA: 3.90/4.00
+• Honors: Summa Cum Laude, Beta Gamma Sigma (top 10% of class); Study Abroad: FGV, São Paulo, Brazil
+Other Coursework in Mathematics and Statistics, Cumulative GPA: 4.00/4.00
+• George Washington University, Washington, DC Aug 2019 – May 2020
+• University of Minnesota, Minneapolis, MN Jan 2019 – May 2019
+PROFESSIONAL EXPERIENCE
+Federal Reserve Board, Monetary & Financial Market Analysis section, Washington, DC Jul 2019 – Jul 2021
+Senior Research Assistant
+• Supported analysis of U.S. fixed income and derivatives markets, including yield curve modeling and estimation
+• Produced original research using quantitative methods on large financial data sets; senior policymakers used results
+as an input to monetary policy decisions. Example projects included:
+Developed nonlinear regression model of the natural rate of interest (r-star) and inflation expectations that
+o
+enhances computational efficiency and metric frequency by >1000x compared to existing models
+Devised improved metrics to monitor Treasury market liquidity in the presence of high-frequency trading
+o
+Built an algorithm to automatically detect Treasury market stress events using high-frequency order book data
+o
+Created a novel data set of per-minute Treasury yields by benchmarking sources and constructing a data pipeline
+o
+• Led analysis and visualization of Treasury markets and monetary policy expectations for FOMC materials/briefings
+• Improved data ETL, model estimation, and visualization scripts in Python, R, SQL, MATLAB, and Linux/Bash
+• Selected to serve as fact-checker/editor of red-black draft of December 2020 FOMC statement
+Fulbright Program, U.S. Department of State, Caxias do Sul, Brazil Feb 2018 – Nov 2018
+Fellow
+• Served as a U.S. cultural ambassador in Brazil, leading presentations/workshops for 6 college-level English classes
+Censeo Consulting Group, Washington, DC Aug 2016 – Feb 2018
+Business Analyst
+• Performed data analysis and led presentations for 5+ client advisory projects including 200+ stakeholders
+• Assisted a data governance initiative at the SEC to develop a Commission-wide financial data set catalog
+• Presented $20M+ of cost savings recommendations for two federal agencies based on spending data analysis
+Wharton Small Business Development Center, Philadelphia, PA Sep 2013 – May 2016
+Practice Leader, Undergraduate Consultant
+• Led advisory projects with 9 firms by supervising analysis and client presentations for 6 MBA/undergraduate teams
+• Analyzed country remittance data to recommend 20 target emerging markets for a $2M+ money transfer firm
+• Built a predictive financial model in Excel evaluating optimal investments for a $13M+ toy company
+RESEARCH PUBLICATIONS
+“High-Frequency Estimates of the Natural Real Rate and Inflation Expectations”, 2021, Finance and Economics
+Discussion Series, with A. Meldrum.
+“The Treasury Market Flash Event of February 25, 2021”, 2021, FEDS Notes, with D. Dobrev and A. Meldrum.
+“New Financial Market Measures of the Neutral Real Rate and Inflation Expectations”, 2020, FEDS Notes, with A.
+Meldrum.
+“Just-in-Time Intermediation in Fast-Paced Electronic Markets: The Case of Treasury Market Liquidity During
+Episodes of Market Stress”, with D. Dobrev and A. Meldrum (forthcoming).
+“TIPS Inflation Compensation and Treasury Supply”, with K. Joergensen (work in progress).
+TECHNICAL SKILLS AND INTERESTS
+Technical Skills: Python, R, SQL, Linux/Bash, Git, MATLAB, Bloomberg Terminal
+Languages: Portuguese (fluent), Russian (fluent), Spanish (proficient)
+Interests: Languages, Literature, Cinema, Music/Radio DJing, Classical/Brazilian Guitar, History, Pickleball",91
+Resume12.txt,"Zhuomin (Judy) Mao
+609-933-7887 judy.mao@princeton.edu linkedin.com/in/judymao Princeton, NJ
+Education
+Princeton University Princeton, NJ
+Master of Finance, Machine Learning Certificate Sep 2021 – May 2023 (Expected)
+Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Quantitative Data Analysis in
+Finance, Financial Econometrics, Financial Modeling, Fixed Income Models
+University of Toronto Toronto, ON
+Bachelor of Applied Science in Engineering Science with Specialization in Sep 2016 – May 2021
+Mathematics, Statistics and Finance, Minor in Artificial Intelligence, GPA: 3.95/4.00
+Relevant Coursework: Financial Optimization Models, Probability and Statistics, Multivariable Calculus,
+Differential Equations, Linear Algebra, Stochastic Processes, Computer Algorithms and Data Structures
+Business Experience
+Royal Bank of Canada Toronto, ON
+Business Data Analyst, Co-op Sep 2019 – Aug 2020
+• Drove production of a new acquisition model for predicting bankruptcy using regression and machine learning
+techniques, leveraging R, SQL and SAS.
+• Developed an efficiency-enhancing data cleaning and interpretation package using Python.
+• Redesigned Credit Limit Decrease program strategy by introducing new risk measures such as payment-based
+capacity, identifying over $1 million in exposed credit risk.
+Deloitte LLP Toronto, ON
+Summer Analyst May 2019 – Aug 2019
+• Created a fuzzy matching algorithm to identify over $500M in potential merger synergies leveraging Python.
+• Designed a custom database using data engineering to facilitate customer analytics.
+• Implemented a Microsoft Access UI tool as a key component of an on-going managed service.
+Research Experience
+University of Toronto, Department of Statistical Sciences Toronto, ON
+Research Assistant May 2021 – Present
+• Investigated reverse sensitivity analysis techniques in Python using the Wasserstein distance.
+• Developed reverse sensitivity analysis functions for R SWIM package.
+University of Toronto, Rotman School of Management Toronto, ON
+Thesis Student Sep 2020 – Apr 2021
+• Investigated contribution of optimism measures to any seasonality evidenced by NYSE bid-ask spreads.
+• Conducted seemingly unrelated regressions analysis leveraging Python.
+Leadership / Extracurricular Experience
+University of Toronto, Women in Science and Engineering Toronto, ON
+President May 2019 – Apr 2020
+• Led a team of over 50 students to succeed in various initiatives, including the two-day National Conference
+which boasted attendance of over 350 delegates from across the globe.
+University of Toronto, Institute of Electrical and Electronics Engineers Toronto, ON
+Marketing Chair May 2018 – Apr 2019
+• Organized marketing team to successfully promote various national events, including multiple hackathons.
+Skills
+Programming Languages: Python, R, C, SQL, MATLAB, SAS, Latex, HTML/CSS
+Languages: English (fluent), French (reading knowledge), Mandarin (conversational)
+Interests
+Jigsaw puzzles, archery, art.",92
+Resume13.txt,"SNEHA MOHAN
+sneham@princeton.edu| +91 9940122735
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance ( Machine Learning Track ) Expected 2021 - 2023
+● Expected Coursework : Asset Pricing, Statistical Analysis of Financial Data, Time Series Models, ComputationalFinance in
+C++, Financial Modelling, Financial Risk Management,Financial Econometrics, Fixed Income Models
+Indian Institute of Technology, Madras Chennai,India
+B.Tech in Mechanical Engineering;CGPA: 8.49/10 2015-2019
+● Relevant Courses: Linear Algebra for Data Analysis, Probability, Differential Equations, Machine Learning,Deep Learning for
+Imaging, Natural Language Processing, Data Structuresand Algorithms
+WORK EXPERIENCE
+JP Morgan Chase Mumbai, India
+Analyst Quantitative Research, Credit Electronic MarketMaking team July 2019 - May 2021
+● Analyzed large scale time series data to automaticallyextract insights for trading.
+● Developed computational frameworks to generate meaningfuldata.
+● Worked on the effort to automate trading.
+Citi Corp. Services India Pvt.Ltd Pune,India
+Summer Analyst, Kafka Browser and Spark Batching Service May- July 2018
+● Developed a web dashboard hosted in a Kafka serverto interact with payment data of the Russian Region.
+● Implemented features to create/delete messages, filterbased on date and keywords and entitlements to segregatedifferent
+category of users.
+PROJECTS AND RESEARCH EXPERIENCE
+Indian Institute of Technology, Madras Chennai,India
+Solving Partial Differential Equations using DeepNetworks January - May 2019
+Prof. Balaji Srinivasan
+● Developed a deep learning system to solve 1D and 2Dpartial differential equations. We achieved significantspeed up in
+solving the equation with no loss in accuracy whencompared to the traditional finite element methods.
+Indian Institute of Technology, Madras Chennai,India
+Representation Learning for articles using NeuralNetworks January - May 2019
+Prof. Sutanu Chakraborty
+● A neural network similar to the CBOW word2vec modelwas trained to learn document embeddings.
+● Compared the results of different architectures onsynthetic data sets and analysed the word and documentvectors obtained
+using this method.
+Indian Institute of Science, Bangalore Bangalore, India
+3D Reconstruction using Structured Light Patterns November 2016 - August 2017
+Prof. Ramsharan Rangarajan
+● Developed a 3D Reconstruction algorithm using imagescaptured by projecting structured light patterns.
+● Images taken from multiple poses were combined toget the reconstruction of the complete object.
+SCHOLASTIC ACHIEVEMENTS
+● 2017 - Awarded Summer Research Fellowship by IndianAcademy of Sciences.
+● 2015 - Awarded KVPY scholarship funded by the Department of Science and Technology, Government of India.
+● 2015 - All India Rank 41 in the admission merit listof Indian Institute of Space, Science and Technology.
+SKILLS AND INTERESTS
+Programming: Python, C++,OpenCV/C++,PyTorch
+Peer Advising: Academic Buddy and Mentor at IIT Madras - Directly mentored 6 first year students on theiracademic coursework.
+Interests: Running ,Cooking, Cycling",93
+Resume14.txt,"Sinan Ozbay
+51 White Pine Lane, Princeton, NJ 08540
+609-213-3955 | sozbay@princeton.edu
+EDUCATION
+Princeton University Princeton, NJ
+Candidate for Masters in Finance May 2023
+• Anticipated Coursework: Asset Pricing: Pricing Models and Derivatives, Statistical Analysis of Financial Data,
+Corporate and Financial Accounting, Stochastic Calculus, Financial Econometrics.
+Rutgers University, Johns Hopkins University, NYU Princeton, NJ
+Post-Baccalaureate Studies Sept. 2020 – May 2021
+• Relevant Coursework: Mathematical Theory of Probability, Linear Algebra and Applications, Differential Equations
+and Applications, Scientific Computing in Finance.
+• Extensive use of Python programming language. Portfolio optimization using Monte Carlo simulation, Fourier Series,
+SVD, PCA, linear programming, convex programming, and ODEs and PDEs.
+Princeton University Princeton, NJ
+Bachelor of Arts in Philosophy May 2019
+• GPA: 3.76 / 4.00, Major GPA: 3.95 / 4.00, GRE: 169 Q/168 V/5.5 A
+• Honors: Magna cum laude
+• Relevant Coursework: Real Analysis, Financial Investments, Mathematical Theory of Microeconomics, Radical
+Markets, Multivariable Calculus.
+WORK EXPERIENCE
+Bridgewater Associates Westport, CT
+Investment Associate, Fixed Income Desk Sept. 2019 – June 2020
+• Took rigorous nine-month Investment Associate Class in macroeconomics and global macro investing across asset
+classes, including fixed income and credit, equities, and currencies. Tested trading ideas using fundamental macro
+strategies.
+• Formed directional and contrarian bets on developed and emerging market government securities. Analyzed supply and
+demand trends to identify value in government bonds and inform the fixed income investment process.
+• Co-authored client memos on corporate balance sheet health, real estate markets and leverage, currency markets,
+inflation, and government policy in response to COVID-19 on Bridgewater Daily Observations team.
+Bridgewater Associates Westport, CT
+Investment Associate Intern, Fixed Income Desk June 2018 – August 2018
+• Investigated emerging market government bonds and modeled market participant buying.
+• Researched emerging market currencies, produced report presented to senior investment associates.
+LEADERSHIP EXPERIENCE
+Princeton University, Princeton Debate Panel Princeton, NJ
+President April 2017 – April 2018
+• Oversaw finances, logistics, and operation of an 80+ member organization and $60,000 budget.
+• Ran two of the largest debate tournaments in the country at a record profit.
+SELECTED AWARDS
+• 2018 World Universities Debating Championship: Runner-up. Came in 2nd place out of 315 teams at the world’s
+largest, most competitive collegiate debating competition.
+• 2016 American Parliamentary Debate Association: National Champion. Youngest National Champion in American
+university history.
+SKILLS & INTERESTS
+Technical Skills: Python, Excel, PowerPoint, Word.
+Other Activities: President of the Senate, Whig-Cliosophic Society; Writer, Nassau Weekly.",94
+Resume15.txt,"Zelong Qiu
+217-417-3233 | zelong430@gmail.com | www.linkedin.com/in/zelongq
+PROFESSIONAL EXPERIENCE
+Citadel Americas LLC New York City, NY
+Platform Engineering Team Apr 2019 - Present
+• Design and build the Citadel Task Service as a distributed, cloud native, asynchronous queue system that enables
+Commodity, Credit and Global Fixed Income quant research teams to train QR models at scale. Replace legacy task
+queues such as the MDL and the Orc Queue. Achieve significant cost saving and performance gain.
+• Implement all components for CTS such as controller, high-throughput data pipeline, failure detection, task status
+view server, auto re-queue etc. using Python, Kafka, Memcached, Datadog, Splunk, Nginx and MySQL.
+• Design and build the Citadel Kafka Service as the centralized messaging infrastructure for all post trade
+management, trading monitoring, risk control etc. across Citadel Asset Management and Citadel Security. Replace
+Citadel’s usage of third-party legacy data pipelines such as AMPS, Tibco, IBM MQ. Achieve significant cost saving
+and performance gain.
+• Automate the deployment and upgrade processes for Kafka clusters using Ansible Playbooks.
+• Build RestAPI, Service Manager UI, and command line tool for user to manage their CTS/CKS resources.
+• Build the monitoring and alerting system on key metrics and customized condition for CTS and CKS systems using
+Telegraf, Splunk and DataDog. Provide users with auto generated monitoring and alerting suits.
+• Act as primary owner of both CKS and CTS and first responder for daily operational tasks and occasional production
+issues. Supervise two junior engineers in the team as tech lead.
+Microsoft Redmond, WA
+Software Engineer Mar 2017 – Mar 2019
+• Designed and built Microsoft Machine Learning Server to enable users productionize customed ML models as
+micro-service with pre-defined APIs in Kubernetes system using RestAPI, Docker, .Net Framework, Python and R.
+• Designed and built server-side and client-side SDK features including:
+• Real-time Scoring: offered extremely low request-response latency and high concurrent throughput for large
+dataset. Achieved 10 to 100X performance gain.
+• Dedicated Service Pool: provided dedicated resources, initiated Python/R interpreter and pre-loaded
+dependencies for user selected ML models. Dramatic improved overall performance for large models.
+• Asynchronous Batch Execution: complemented the original Request-Response prediction paradigm with
+parallel row execution, asynchronous consumption and partial results. Greatly speeded up scoring time for
+large dataset with long running services.
+• Provided presentations and technical support to external and internal customers regarding new releases.
+• Conducted exploratory greenfield Proof of Concept projects including IoT edge device image recognition and
+large-scale natural language process with ML Server.
+Software Engineer Intern Jun 2016 – Aug 2016
+• Built a martingale-based time series anomaly detection module for Azure Machine Learning Studio.
+• Implemented algorithms for level changes detection, trend changes detection and seasonality identification.
+• Technical blog at https://msdn.microsoft.com/library/azure/96b98cc0-50df-46ff-bc18-c0665d69f3e3.
+EDUCATION
+Princeton University Aug 2021 – May 2023(Expected)
+Princeton, NJ
+Master of Finance
+Harvard University Aug 2015 - Mar 2017
+Cambridge, MA GPA 3.71/4.0
+M.S in Computational Science and Engineering
+University of Illinois Urbana Champaign Aug 2010 - May 2015
+Urbana, IL GPA 3.66/4.0
+B.S in Applied Mathematics [High Distinction]
+B.S in Industrial Engineering [Honor]",95
+Resume16.txt,"Ryan Slattery
+122 East Indiana Ave, Beach Haven Terrace, NJ 08008 | (908) 239-4246 | ryanps@princeton.edu
+EDUCATION
+PRINCETON UNIVERSITY Princeton, NJ
+Master in Finance Candidate, pursing Graduate Certificate in Machine Learning September 2021 – May 2023
+• Anticipated Coursework: Statistical Analysis of Financial Data, Financial Econometrics, Machine Learning and Pattern
+Recognition, Statistical Theory and Methods, Linear & Nonlinear Optimization, Statistical Foundations of Data Science
+PRINCETON UNIVERSITY Princeton, NJ
+Bachelor of Science in Engineering, Major in Operations Research & Financial Engineering (ORFE) September 2012 – May 2016
+Certificates (Minors) in Computer Science & Finance
+• Cumulative GPA: 3.9/4.0, Summa Cum Laude, ORFE Department’s Highest Honors
+• Honor Societies: Phi Beta Kappa (National Academic Honor Society), Tau Beta Pi (National Engineering Honor Society),
+Sigma Xi (Scientific Research Honor Society)
+• ORFE Coursework: Regression and Applied Time Series, Operations and Information Engineering, Financial Mathematics,
+Risk Analysis, Probability and Stochastic Systems, Queuing Theory, Optimization, Statistics
+• Computer Science Coursework: Algorithms and Data Structures, Computing and Optimization, Programming Systems
+• Math Coursework: Multivariable Calculus, Linear Algebra, Ordinary Differential Equations, Partial Differential Equations
+PROFESSIONAL EXPERIENCE
+GOLDMAN SACHS New York City, NY
+Strats (Quant) Associate, Equity Derivatives & Convertible Debt, Investment Banking March 2018 – April 2021
+• Responsible for modeling, pricing, and analyzing risks associated with a range of exotic equity derivatives deployed in
+GS’s proprietary securities database; products included share repurchase and share sale programs, convertible debt, and
+equity hedging instruments for corporate clients
+• Developed production models for bespoke derivatives for real-time risk calculations, utilizing backwards induction and
+Monte Carlo methodologies as well as various volatility models
+• Optimized and deployed execution strategies through the implementation of heuristics and gradient descent techniques for the
+buyback desk
+• Implemented machine learning algorithms that employed dimensionality reduction and gradient boosting methods as well as
+regression analysis to proactively identify candidates for derivative products; models utilized disparate datasets across trading
+characteristics, corporate fundamentals, and shareholder data
+Strats (Quant) Analyst, M&A and Corporate Finance, Investment Banking June 2015 – August 2015, July 2016 – February 2018
+• Quantified the impact of various strategic and financial decisions made by corporates on shareholder and enterprise value
+through the application of classical econometrics and time series analysis as well as modern machine learning and big data
+techniques; replicated research from relevant academic papers to answer questions posed by corporate institutions
+• Developed statistical analyses to measure the impact of changes in business profitability metrics on valuation, predict the
+likelihood of activist campaigns based on corporate fundamentals, and understand post-M&A announcement performance
+• Analyzed shareholder flows to measure and predict investor demand, reaction, and sentiment to corporate actions,
+especially in the context of transformative M&A transactions or major shifts in capital return policy; deployed internal
+applications to provide teams with real-time access to analytics
+• Optimized corporate capital structure and capital allocation plans through Monte Carlo simulations of relevant business factors
+that impact revenue and costs to understand leverage and cashflow risks
+RESEARCH EXPERIENCE
+PRINCETON UNIVERSITY Princeton, NJ
+Senior Thesis, “A Statistical Analysis of Delinquency and Prepayment Risk in Subprime MBSs” September 2015 – April 2016
+• Provided a statistical framework to quantify default and prepayment risks of mortgage-backed securities using monthly data on
+millions of loans from the early 2000s to assess the appropriateness of agency ratings in the wake of the 2008 Financial Crisis
+• Winner of the S.S. Wilks Memorial Prize for the best thesis on “statistics and its applications to solving societal problems”
+SKILLS & INTERESTS
+• Computer Languages: Python, R, SQL, Java, C, Tableau
+• Interests: Surfing, Sudoku, Long Distance Biking, Pickleball",96
+Resume17.txt,"JING WEN
+88 College Road West, Princeton, NJ, 609-216-5105, jw4698@princeton.edu
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance: Quantitative Asset Management & Macroeconomic Forecasting Track Expected May 2023
+• Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Financial Econometrics, Fixed Income Models and Applications,
+Corporate Finance and Financial Accounting, Quantitative Data Analysis in Finance, Portfolio Theory and Asset Management
+University of California, Berkeley Berkeley, CA
+Bachelor of Arts, Majors: Economics, Applied Mathematics, Data Science May 2021
+• Overall GPA: 3.97/4.00 Major GPA: 4.00/4.00
+• Relevant Courses: Econometrics, Financial Economics, Stochastic Processes, Behavioral Finance, Linear Algebra, Multivariable Calculus,
+Numerical Analysis, Probability Theory, Mathematical Economics, Game Theory
+• Teaching Assistantship: Tutored drop-in undergraduate students at the Student Learning Center; mainly responsible for linear algebra and
+probability theory related courses (Spring 2018 – Spring 2020)
+PROFESSIONAL EXPERIENCES
+CITIC Securities Beijing, China
+Intern, Alternative Investment Management Group July 2020 – September 2020
+• Catalogued all the U.S. treasury bond futures contracts provided by CME group, specifying contract unit, price quotation, settlement method of
+each product; compared and contrasted U.S. products with Chinese treasury bond futures contracts listed at the CFFE
+• Presented the econometric model of limit order execution times developed by Andrew Lo; emphasized the feasibility of sophisticated dynamic
+order submission strategies; explained the survival analysis that led to the conclusion
+• Studied several risk premia identified in commodity markets; presented how strategies based on carry, momentum, trend, curve, etc., can add
+value in live portfolios along with their performance in normal and equity market stress periods
+• Researched the main transaction models for Chinese treasury bond futures to inform trading decisions in this market
+First Capital Investment Management Beijing, China
+Summer Intern May 2019 - August 2019
+• Researched the hydrogen economy, “pork cycle” and other targeted industries; generated industry analysis and forecasting that influenced First
+Capital’s investments; demonstrated results such as huge governmental support and resulting overcapacity in the hydrogen energy market;
+created trend prediction and investment advice based on my market analysis
+• Illustrated the main mechanisms involved in the corporate reconstruction process, emphasizing the balance of interests between shareholders,
+creditors, and reorganizing party during negotiations and within cases of court rulings; gathered historical liquidation ratios of listed firms for
+data analysis purposes
+• Researched and reported how the government funds public projects, demonstrated the heavy use of the public-private partnership method by
+local governments to fund infrastructure; summarized the scale of government-owned fund management companies in major cities
+AVIC Securities Beijing, China
+Summer Intern May 2018 - July 2018
+• Monitored and created daily reports for pledge-style repo, bonds outright repo, fund matching, and lending transactions, learning the main
+mechanism behind such trading activities
+• Attended weekly meetings that reported and summarized market trends and activities
+• Archived transaction records and collected signatures from managers
+Research Experience
+Haas Business School Berkeley, CA
+Research Assistant January 2019 - May 2019
+• Recovered the effect of stress shocks from the 2008 financial crisis on CEO’s aging with the use of differences-in-differences analysis, including
+the experience of the financial crisis as a dummy variable to control for individual differences and retrieve the impact of stress shocks
+• Suggested the use of panel data to isolate the influence of time-invariant variables as confounding variables and implemented them with a
+longitudinal data set; avoided the potential covariation between effort invested in visual image and experienced stress by controlling for time-
+invariant factors for each data point
+• Generated preliminary regression and estimated an exact amount of aging induced by stress shocks after collecting and cleaning up data for
+layoffs, divorce records, and CEO visual images
+SKILLS & Interests
+• Technical Skills: Microsoft Office; Python; Latex; Matlab; SQL; Java; Photoshop
+• Languages: Chinese (native); German (conversational)
+• Activities: CAL Boxing member; Internal Manager & Photographer for Student Ambassador for the Arts at UC Berkeley",97
+Resume18.txt,"Die (Catherine) Wu
+Princeton, NJ wootieh@outlook.com | (+86) 136 0112 4500|
+EDUCATION
+Princeton University New Jersey, United States
+Bachelor of Arts, major in Finance, Guanghua School of Management Aug. 2021
+Peking University Beijing, China
+Bachelor of Arts, major in Finance, Guanghua School of Management Sept. 2017 - Jun. 2021
+● Cumulative GPA: 3.92/4.00 (Rank: 2/211)
+● Courses: Stochastic Analysis, Game theory, Mathematical Method in Finance, Econometrics, Advanced Mathematics, Probability and Statistics, Linear
+Algebra, Corporate Finance, Financial Statement Analysis, Time Series Analysis, Numerical Method, Macro Economics, Data Structure and Algorithm
+● Honors: National Award, Wusi Scholarship(2/211), Fengqi Scholarship(1/211), ICBC Star Scholarship (3/211), Merit Student of Peking University
+University of California, Berkeley Berkeley, United States
+BESAP Exchange Program, Department of Economics Aug.2019–Jan.2020
+● Cumulative GPA: 4.00/4.00
+● Courses: Ordinary Differential Equations, Intermediate Financial Economics Econometrics(PhD level)
+WORK EXPERIENCE
+Spring Capital Beijing, China
+Incoming Analyst Intern Jun.2021
+Citadel Securities Hongkong, China
+Trading Intern Jun.2020-Aug.2020
+● Designed a systematic trading monitoring system in Python to detect high-frequency tick data analysis on market volatility, trading frequency and one-direction
+trading; Enhanced the efficiency of all functions via matrix usage and the system was applied to optimize order timing
+● Reproduced the company’s live trading status using company’s high frequency data and order data. Developed a system for the lifecycle of an order to monitor
+multiple dimensions of order flow and instruct the company’s trading desk
+● Conducted in-depth research on Malaysian and Indonesian stock markets and delivered insights to facilitate trading in these markets
+TaiKang Asset Management Co. Ltd Beijing, China
+Analyst Intern Jan.2020
+● Established a risk control system based on 50ETF option trading and gave a presentation to the manager to illustrate how the system worked on the trading floor
+● Conducted in-depth research on soybean-soy soil-soybean meal future. Used cointegration test to analyze their price relationship and built a GARCH model for
+prediction and verifying the efficiency of the market.
+CICC Beijing, China
+Intern, Sales and Trading Jul.2019-Aug.2019
+● Took charge of tracking daily volatility of bond market; analyzed key dynamics elevating or weighing down yields; wrote daily commentary on the fluctuation
+of yield to maturity at both the short and the long end
+● Conducted research on Bank of Jiangsu’s convertible bonds and drafted a 30-page report based on analysis of the essential driving force of prices
+o Implemented a convertible bond pricing model by leveraging binomial tree in equity pricing and comparable analysis in bond pricing
+o Analyzed the decision-making of Bank of Jiangsu’s stockholders regarding capital raising and the terms of convertible bonds
+RESEARCH EXPERIENCE
+Peking University, Research Project on Foreign Exchange of the People's Bank of China Beijing, China
+Team leader, Advised by Prof. Michael Pettis
+● Conducted research by using CFETS SAFE BoP data, estimated FX inflow and outflow data through the country and studied the discrepancy
+● Devloped thorough understanding of the statistic system in China and discovered hidden intervention by PBoC
+Peking University, Transition Dynamics underlying Chinese Housing Return Premium Beijing, China
+Research Assistant, advised by Prof. Yu Zhang Jul.2019-Apr.2020
+● Assisted in developing the DSGE model to explain the dynamics of Chinese housing return premium; introduced the Arrow Security technique to improve the
+tractability and practicality of the model
+● Drafted an executive summary of cutting edge technical research; detected and solved potential problems which greatly speeded up the research
+● Publicized research through writing articles to introduce the research work and communicated with publications about the research work
+LEADERSHIP EXPERIENCE
+Hedge Fund Association Beijing, China
+President July,2019-Now
+● Open up a new course called Advanced Skills in Quant Industry in Guanghua School of Management, invited cofounder of AxiomQuant to be lecturer
+● Built an online platform for HFA and planning to expand HFA to all prestigious schools in China (pkuhfa.com),HFA now has more than 180 members
+Project GSM Inspire Beijing, China
+President February.2021-Now
+This program aims to bring high-quality learning resource to high-school students to help them learn more about Economics and Finance
+● Developed an online platform that has high-quality open course created by Guanghua School of Management with online Q&A and offline summer camp
+● The platform is used by Guanghua School of Management as an important tool to attract and recruit high school students
+SKILLS & INTERESTS
+● Technical: C++, Python, Matlab, R, Excel VBA | MS Office | Wind Database, Bloomberg
+● Languages: Mandarin (Native), English (Fluent, TOEFL: 110/120, GRE: V158+Q170+AW 3.5)
+● Interests: Shuang Sheng &Card Games (4th place in Freshman Bridge Cup of Peking University), Economics, Piano (Level 9), Travel",98
+Resume19.txt,"Dorothy Zhang
+825-437-0287 | dz0596@princeton.edu
+Education
+Princeton University Princeton, NJ
+Master in Finance, Certificate in Machine Learning Sept. 2021 – May 2023
+• Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Financial Econometrics, High
+Frequency Trading, Fixed Income Models and Applications, Quantitative Data Analysis in Finance
+University of Toronto Toronto, ON
+BASc in Engineering Mathematics, Statistics and Finance, Minor in Artificial Intelligence Sept. 2016 – May 2021
+• CGPA: 3.92/4.00
+• Coursework: Linear Algebra, Probability and Statistics, Multivariable Calculus, Differential Equations, Stochastic
+Processes, Financial Optimization Models, Computer Algorithms and Data Structures
+• Capstone Project: Multiperiod Robo-Investment Wizard (used robust MVO, CVaR, PCA, LSTM, HMM)
+• Certificate: C++ Programming for Financial Engineering with Distinction, Baruch College
+Professional Experience
+Borealis AI Waterloo, ON
+Research Intern May 2020 – Aug 2020
+• Priced callable swaps using Least Squares Monte Carlo simulation and the Vasicek model.
+• Used feed-forward neural networks to imitate Monte Carlo pricing, improving efficiency by orders of 104.
+• Wrote a technical report conducting literature reviews and detailing methodology and results.
+Royal Bank of Canada Toronto, ON
+Data Scientist Intern Sept 2019 – May 2020
+• Identified anomalous behaviour for insider trading using unsupervised KNN, improving efficiency by 102.
+• Built credit risk models with logistic regression, random forest, and xgboost.
+• Improved AUC of existing models by 10% by applying oversampling techniques to combat imbalanced data.
+Bank of Montreal Capital Markets Toronto, ON
+Quantitative Analyst Intern May 2019 – Aug 2019
+• Wrote a predictive trading algorithm based on technical indicators.
+• Generated labels using triple barriers and meta-labelling, created features including the Hurst exponent, RSI, and
+%K, and used combinatorial purged cross-validation to tune a random forest model.
+• Identified optimal strategy that had 1.5 times higher Sharpe ratio than the S&P500 index.
+Research Experience
+University of Toronto Rotman Finance Toronto, ON
+Research Associate Sept 2020 – present
+• Working with Prof. John C. Hull to generate synthetic market data with various deep generative models.
+• Using stylized facts for financial time series to measure the performance of variational autoencoders, restricted
+Boltzmann machines, and generative adversarial networks.
+• Hired as research associate upon completion of undergraduate thesis with team.
+University of Toronto Engineering Toronto, ON
+Undergraduate Researcher Sept 2019 – Sept 2020
+• Worked with Prof. Chi-Guhn Lee to apply quantum annealing graph algorithms to portfolio management,
+identifying asset correlations through clustering.
+• Compared the speed and quality of quantum and classical optimization algorithms for community detection.
+• Created multiplex networks to capture the change throughout time of asset correlations in the S&P500.
+Skills and Interests
+Languages: Python, C++, MATLAB, R, C, SQL, VBA, AMPL, Git
+Clubs: U of T Rotman Finance Lab (Lab Development Specialist), IEEE U of T (Finance Director), U of T Consulting
+Association (Finance Director), U of T Engineering Finance Association, Engineers Without Borders
+Interests: Table Tennis (Bronze Medalist, Canada Winter Games), Chinese Bridge, Collecting/Trading Virtual Dragons",99
+Resume2.txt,"Andrew Elzayn
+Email: aelzayn@princeton.edu | Phone: (310) 923-4407
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance Expected
+ Anticipated coursework: Asset Pricing I, Statistical Analysis of Financial Data, Corporate Finance Aug. 2021 – May 2023
+and Financial Accounting, Asset Pricing II, and Financial Econometrics
+Columbia University New York, NY
+B.A. in Computer Science – Mathematics, Concentration in Economics, GPA: 4.13/4.00 Sept. 2017 – Feb. 2021
+ Summa cum Laude, Junior Phi Beta Kappa, Computer Science Scholarship Award, Dean’s List
+ Relevant coursework: Advanced Econometrics, Analysis of Algorithms I, Introduction to
+Probability and Statistics, Analysis and Optimization, Economics of Uncertainty and Information,
+Artificial Intelligence, Intermediate Microeconomics, Intermediate Macroeconomics, Modern
+Algebra I
+RESEARCH & WORK EXPERIENCE
+Columbia University New York, NY
+Research Assistant, Economics Department Feb. 2021 – July 2021
+ Wrote code in R to forecast industrial production and other macroeconomic variables during
+recessions using various machine learning and classical forecasting models
+ Compared random forest, factor-augmented regression, and LASSO models to baseline AR(4)
+ Developed tools to visualize inter-model differences for improved interpretability
+Aetna New York, NY
+Data Science Intern June 2020 – Aug. 2020
+ Spearheaded the push for personalized content by creating a repository of user segments
+ Worked with the product team to identify four different personalization features
+ Utilized unsupervised clustering algorithms such as K-Means and Agglomerative Clustering
+ Worked with the data engineering team to productionize models for use across the entire team
+ Used supervised learning models to expand functionality of clusters and eliminate the need to re-
+fit with models that lack ability to predict (supervised learning models achieved F1 scores > 0.98)
+ Optimized model pipeline using a distributed parallel processing engine for machine learning to
+reduce runtime from minutes to seconds
+Jam City Los Angeles, CA
+Data Science Intern June 2019 – Aug. 2019
+ Developed random forest and XGBoost models using player data in order to predict whether a
+player will make a purchase from the in-game store
+ Used segmentation techniques to segment players for more directed advertising and in-game offers
+ Developed and modified reinforcement learning models in order to find optimal level difficulties
+Avata Intelligence Los Angeles, CA
+Software Engineering Intern June 2018 – July 2018
+ Created programs using the Apache POI API to read documents and spreadsheets and input the
+data into JSON format to be used by the company’s proprietary NLP algorithms
+ Created a MySQL database and local server to process, store, and analyze the data
+ Utilized Python, Amazon Web Services, and AWS Lambda Functions to create a chat bot
+framework with Slack integration for the company’s future use
+LEADERSHIP & SERVICE
+Columbia University, Turath – Arab Students Association New York, NY
+Treasurer (2018-2019, 2019-2020) and Organizing Committee Member (2017-2018) Sept. 2017 – May 2020
+SKILLS
+Programming – R, Python, SQL, Java, C
+ Extensive experience programming in R, Python, SQL, and Java
+ Experience with C, C++, Apache Hive, and MySQL",100
+Resume20.txt,"ERHAO ZHAO
++86 15911026103 | Bendheim Center for Finance, Princeton, NJ 08544 | ez1721@princeton.edu
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance 05/2023 (expected)
+• Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Financial Econometrics, Computational Finance in
+C++, Financial Risk and Wealth Management, Statistical Theory and Methods
+Cornell University Ithaca, NY
+Master of Engineering in Computer Science 05/2021
+Bachelor of Arts in Computer Science and Economics (with Distinction) 05/2020
+• GPA: 4.04/4.3 (3.93/4.0), Dean’s List (all semesters)
+• Relevant Coursework: OOP and Data Structures, Computer Architectures, Algorithms, Operating Systems, Systems Programming,
+Mathematical Analysis, Linear Algebra, Probability, Statistics, ODE, Stochastic Processes, Statistical Data Mining, Machine Learning
+for Intelligent Systems (TA), Large-Scale Machine Learning Systems (TA), Big Data Technologies, Computer Vision, NLP
+WORK EXPERIENCE
+Vanguard Malvern, PA
+Quantitative Research Intern, Quantitative Equity Group (Equity Alpha Strategies) 06/2020 – 08/2020
+• Conducted a research project on seeking alpha strategies using machine learning techniques with PyTorch and Scikit-Learn and
+statistical techniques such as ad-hoc signal regularization and industry contextualization and neutralization for signal noise reduction
+and financial forecasting with nonparametric panel dataset
+• Explored and built unstructured and non-linear multi-factor equity forecasting frameworks to identify potential complements to
+traditional linear-structured models commonly used in quantitative equity investment space
+• Experimented with various signal filtering and processing techniques and performed neural network architecture design,
+hyperparameter optimizations, fixed-window and extending-window rolling training, software optimizations, out-of-sample and in-
+sample backtesting on long/short portfolios constructed by models which outperformed the linear benchmark model
+CICC Beijing, China
+Investment Banking Intern, Energy Group, Investment Banking Division 06/2019 – 08/2019
+• Material Asset Restructuring M&A (600131.SH): Joined an on-site project team and worked closely with an A-share listed energy
+company on its restructuring, fundraising and acquisition of four energy-related technology companies
+• Potential NYSE Spin-off IPO: Conducted research and provided advisory on Spin-off IPO for an NYSE listed TMT company,
+performed financial statement analysis, built valuation models and prepared presentation materials and pitchbook
+CITIC Securities Beijing, China
+Fixed Income Research Intern, Research Group 06/2018 – 08/2018
+• Conducted quantitative and fundamental fixed income research and modeling with a focus on rate securities for internal and external
+distribution
+• Research Topics:
+- Statistical modeling such as degree of deviation of DR007 for macroeconomic forecasting
+- Divergence of high liquidity injection and low public credit level based on Chinese AFRE and M2 data
+- Depressed infrastructure and fixed-asset investment of 1HY of China with a focus on the electricity power industry
+PROJECTS AND RESEARCH
+Extending Diebold-Li Model to Yield Curve Forecasting Models using Machine Learning Ithaca, NY
+Research Project, Advised by Professor David Ruppert, Cornell University 09/2020 – 12/2020
+• Conducted research on building dynamic forecasting models for parameters in the Diebold-Li model using various machine learning
+techniques including feedforward neural network and LSTM
+Neural Question Answering Systems Ithaca, NY
+NLP Project, Cornell University 10/2020 – 12/2020
+• Designed two Question Answering NLP systems for the SQuAD 2.0 dataset with deep learning and DistilBERT fine-tuning for
+extracting answers for questions given relevant context texts
+Mixed Frequency Time Series Forecasting using LSTM-CNN Architecture Beijing, China
+Research Assistant, Beijing Institute of Big Data Research, Peking University 12/2019 – 01/2020
+• Built Mixed Frequency Time Series Forecasting models using LSTM-CNN architecture with PyTorch for macroeconomic and
+financial index forecasting with mixed-frequency dataset
+Equity Forecasting Based on Twitter Sentiment Analysis with Deep Learning Ithaca, NY
+Artificial Intelligence Practicum Project, Cornell University 09/2019 – 12/2019
+• Built an NLP model with deep neural network to perform real-time sentiment analysis on Twitter tweets for day trading decision
+making on large-cap stocks
+SKILLS AND INTERESTS
+Computer Skills: Python, C/C++, Java, SQL, R, OCaml, MATLAB, Stata, Latex, Excel, Word, PowerPoint, Wind, Bloomberg
+Languages: Mandarin (Native)
+Interests: Soccer (President of Cornell CDSC Soccer Club, Bronze Medal in 2018 Ivy Cup Soccer Tournament), Basketball,
+Tennis, Football, Poker, Fishing, Skiing",90
+Resume21.txt,"Hange (Cathy) Zhu
+415 South Street, Waltham, MA | hz7741@princeton.edu | +86-150-1106-5206
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance Candidate, Bendheim Center for Finance August 2021 – Expected May 2023
+• Anticipated Courses: Statistical Analysis of Financial Data; Financial Econometrics; Asset Pricing; Stochastic
+Calculus; Machine Learning and Pattern Recognition
+Brandeis University Waltham, MA
+Bachelor of Science in Applied Mathematics, Bachelor of Science in Economics August 2017 – December 2020
+• GPA: 3.92 / 4.0; Honors: Phi Beta Kappa, magna cum laude, Dean’s List
+• Fields of Study: Stochastic Processes and Models; Probability Theory; Differential Equations; Mathematical
+Statistics; Applied Linear Algebra; Advanced Programming Techniques in Java; Econometrics; Mathematics for
+Natural Sciences
+WORK EXPERIENCE
+Alibaba Group Company Beijing, China
+Data Analyst Remote Assistant, Business Intelligence Department June 2020 – August 2020
+• Researched fresh food e-commerce industry in both pre and post COVID periods in mainland China, including
+tracing fresh food industry development history and supply chain deficiencies, analyzing three modes’ (warehouse,
+community group buy, and O2O) leading companies and their performances, predicted how the industry and
+consumer behaviors would be influenced by COVID. Conducted cluster analysis of China’s cities by R.
+• Researched O2O chocolate candy industry development and major players in the field by looking through
+Euromonitor datasets, market research, and financial statements.
+• Participed in the the investment group and applied Deep Deterministic Policy Gradient (DDPG) algorithm to train
+the investment portfolio management model.
+Zhongtai Securities Co., LTD Beijing, China
+Summer Assistant, Investment Banking Department June 2019 – August 2019
+• Assisted with an M&A project in the sharing economy and conducted industry research on the bike sharing
+market, including the evaluation of two companies’ financial reports, analyzing the comparative companies’
+market shares, financial indexes, predicting future development directions and market share.
+• Participated in analyzing the acquired company’s valuation by researching its financing history and core
+technologies, identifyed key market leaders and competition.
+RESEARCH & COURSE PROJECTS
+Brandeis University, Applied Mathematics Department Waltham, MA
+Research Assistant, Chemical Oscillations Project January 2020 – August 2020
+• Analyzed PDEs models in biological supplements by collaborators from the Department of Chemistry to
+numerically convert them in weak formulation.
+• Dug into the relationship between nondimensionalized concentrations of HBrO and Ru(bipy) 3+, and the volume
+2 3
+fraction of polymer by analyzing and visualizing PDEs in MATLAB, FreeFem++ and Mathematica. Updated
+solution results to research team, including analyzing unexpected numerical fluctuations and blow-ups.
+• Hunted for the directional locomotion of the gel driven by autonomous propagation of pulse waves in 1D system
+and the periodic migration of the gel with illumination-induced instability in 2D system.
+Brandeis University, Applied Mathematics Department Waltham, MA
+Biodiversity Model and Its Application in Python Project December 2019
+• Modeled Python program based on the mathematical models from “The Measurement of Diversity in Different
+Types of Biological Collections” by E. C. Pielou.
+• Generated biodiversity trend in Finglandrigg National Reserve, UK by reconstructing and applying real-world
+dataset to the Python model in visualized format.
+Brandeis University, Business Department Waltham, MA
+Oracle and Salesforce Financial Analysis Project April 2019
+• Analyzed financial comparisons between Oracle and Salesforce by examining financial statements and indexes
+obtained from Capital IQ, including comparing asset profitability, equity profitability, and debt repayment ability.
+LEADERSHIP AND INVOLVEMENT
+Brandeis University, Chinese Student Association (BC3) Waltham, MA
+President September 2019 – May 2020
+• Organized activities associated with Chinese traditional festivals and collaborated events with other cultural clubs.
+SKILLS AND INTERESTS
+Technical Skills: Python, Java, R, MATLAB, SQL, Excel.
+Languages: Mandarin (Native)
+Interests: scuba diving, photographing, LEGO building.",91
+Resume22.txt,"Poorva Arora
+poorvaa@princeton.edu | (615) 513-1889
+EDUCATION
+Princeton University Princeton, NJ
+Masters in Finance August 2021 – May 2023
+Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Financial Econometrics, Forecasting and Time Series
+Analysis, Corporate Finance and Financial Accounting, Portfolio Theory and Asset Management
+Vanderbilt University Nashville, TN
+Bachelor of Engineering in Chemical Engineering, Summa Cum Laude August 2013 – May 2017
+Minors: Engineering Management, Mathematics, Chemistry
+Cumulative GPA: 3.95/4.00 | Cornelius Vanderbilt Scholarship Recipient: 4-year full tuition and summer program stipend
+WORK EXPERIENCE
+Goldman Sachs New York, NY | London, UK
+Associate – Strategic and Quantitative Asset Allocation, Investment Strategy Group (ISG) July 2019 – July 2021
+ Developed customized asset allocation solutions for Private Wealth Management’s (PWM) clients, including High-Net-
+Worth individuals and small to mid-size institutions.
+ Analyzed and optimized client portfolios using ISG’s quantitative multi-factor optimization model in Python, incorporating
+relevant parameters such as risk tolerance (volatility), performance targets, return uncertainties, and tax considerations.
+ Simulated the downside risks, including market and liquidity risks, and expected long-term performance of portfolios to help
+clients quantify their ability to meet their wealth objectives, net of inflation, spending, and other liabilities.
+ Collaborated with Private Wealth Advisors (PWAs) to present strategic portfolio research and asset allocation guidance at
+meetings with current and prospective clients.
+ Contributed to research initiatives on strategic portfolios via statistical methods such as: regression analysis, performance and
+benchmarking analysis, drawdown analysis, and Monte Carlo simulations.
+Goldman Sachs New York, NY
+Senior Analyst – Credit Trading, Market Risk Management and Analytics May – August 2016; July 2017 – June 2019
+ Analyzed market risk metrics in the Global Credit Trading business to identify and escalate significant exposures, risk
+concentrations, and emerging risks to the trading desks and senior risk leadership.
+ Performed stress test analysis on multi-asset portfolios to identify and quantify vulnerabilities in adverse market scenarios
+and lead discussions with the businesses on their risk profile and management.
+ Monitored macro and micro financial events and proactively quantified their potential impacts on profit and loss in the
+Credit Trading business.
+ Allocated risk capacity, enforced limits, and conducted hedge effectiveness analysis for Volcker compliance, per the firm’s
+risk appetite and the business’ market making opportunities.
+ Developed automated risk analysis tools via Slang (proprietary coding language) to comprehensively monitor risk factors
+and relevant market signals for the business’ exposures across credit products.
+RESEARCH EXPERIENCE
+Vanderbilt University Nashville, TN
+Research Assistant, Bardhan Nanophotonic Materials Research Laboratory January 2014 – April 2016
+ Publications: Plasmon Enhanced Water Splitting Mediated by Hybrid Bimetallic Au-Ag Core-Shell Nanostructures
+(Nanoscale 2014); Enhancement in Organic Photovoltaics Controlled by Interplay between Charge Transfer Excitons and
+Surface Plasmons (American Chemical Society Omega 2016)
+National University Singapore Singapore
+Summer Engineering Research Internship for US Students (SERIUS), Environmental Research Institute May – July 2015
+ Project: Anaerobic Digestion of Food Waste. Researched, designed, and built systems to convert food waste into biogas, a
+renewable form of energy, via biological processes.
+LEADERSHIP & COMMUNITY SERVICE
+Vanderbilt Student Volunteers for Science (VSVS) Nashville, TN
+Community Outreach Chair September 2013 – December 2016
+ Spearheaded a 5 member committee in planning and executing 15 annual Outreach events aimed at inspiring STEM careers
+for middle school students in the Nashville community via demonstrative science experiments.
+Vandy Karma (Hindu Culture Organization) Nashville, TN
+President January 2014 – April 2017
+ Represented Karma at Multicultural Leadership and Interfaith Councils, and Vanderbilt Religious Affairs Committee;
+interacted with and served spiritual needs of the Hindu population on campus.
+SKILLS & INTERESTS
+Technical Skills: Working knowledge of Python and Slang; Microsoft Office
+Languages: Hindi | Interests: Bollywood Dance, Writing (Fiction, Poetry), Travelling, Cooking",92
+Resume23.txt,"Luis Bento
+Bendheim Center for Finance | Princeton, NJ | luis.bento@princeton.edu | +55 19 98129-4535
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance Aug 2021 – May 2023
+· Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Corporate Finance and Financial Accounting,
+Financial Econometrics.
+Insper – Instituto de Ensino e Pesquisa São Paulo, BR
+Bachelor of Economics with Certificate in Data Science Jan 2015 – Dec 2018
+· Cumulative GPA: 9.13/10.00 (Ranking 1/95)
+· Coursework: Statistical Learning, Data Science, Asset Pricing, Optimization, Time Series Analysis, Macroeconomics, Game
+Theory, and Microeconometrics
+Columbia University in the City of New York New York, NY
+International Exchange Student Jan 2018 – May 2018
+· Coursework: Linear Algebra, Statistical Computing and Intro to Data Science, Behavior Finance, and Intro to Psychology
+WORK EXPERIENCE
+C6 Bank São Paulo, BR
+Investment Specialist Aug 2020–Aug 2021
+· Designed and implemented a portfolio optimization algorithm for a customized automatic portfolio construction product using
+the Black-Litterman model. This product is available for over 7 million clients and is projected to have an AuM close to R$
+850 million by the end of the year.
+· Wrote the proprietary Python libraries of financial mathematics, risk measurement, and backtesting of C6’s Quant Team.
+· Researched the effects of market regimes, rebalancing rules, and asset selection in the historical performance of rule-based
+asset class portfolios.
+· Developed systemic risk reports and analyzed global asset correlations evolution for the bank’s investment committee.
+Rio Bravo Investimentos São Paulo, BR
+Quantitative Analyst Dec 2019 – Aug 2020
+· Developed several factor strategies in Python and gave a subsequent presentation to the investment committee on Size, betting
+against beta, net operating assets (NOA), and time series momentum (TSM). NOA and TSM were included as strategies in the
+fund and TSM is still being used, having had a realized Sharpe ratio of 1.42 in its first 12 months.
+· Enhanced the risk parity algorithm in order to reduce the effects of momentum crashes.
+· Responsible for a factor investing literature follow-up. Read articles from academic journals and company white papers (AQR,
+GS, JPM) and prepared discussions to report findings with the portfolio manager and the director of liquid assets.
+Economic Research Analyst Jun 2018 – Dec 2019
+· Automated the database for the main economic indicators in Brazil, extracting the online data directly from statistical
+agencies using R. Additionally, I automated internal email reporting using RMarkdown and R.
+· Developed econometric models for the main indicators of the Brazilian economy. Our projections of the 1st quarter of 2020
+were awarded 3rd place in the Broadcast (Estadão) Ranking of Projections (out of 51 institutions).
+· Gave expert testimony to the largest media outlets in Brazil regarding economic outlook (Estadão, Valor Econômico, Reuters,
+O Globo).
+· Wrote a white paper about the structural dynamics of the Brazilian economy, discussing growth perspectives for the next
+10 years.
+AWARDS AND EXTRACURRICULARS
+· 2018 1st place undergraduate thesis – The relations between Politics and Public Credit – Insper
+· 2017 3rd place in the 2017 Brazilian Econometric Games (Olympiad)
+· 2017 Research assistant of Marco Bonomo – BNDES
+· 2017 White paper: A Herança do Futuro (The Heritage from the Future) – Bento, Bonomo, Ribeiro
+· 2020 White paper: A Terceira Década Perdida (The Third Lost Decade) – Rio Bravo Fronteiras
+· 2016 London School of Economics Summer Course – Intermediate Macroeconomics
+· 2016 President of Consilium Insper (Public Policy Student Organization)
+· 2013 CISV Iceland – Cultural exchange program
+SKILLS AND INTERESTS
+Languages: Portuguese (Native); TOEFL (116/120)
+Technical Skills: R, Python, Microsoft Office, Bloomberg, Google Cloud Platform (Storage, BigQuery), Git
+Interests: Triathlon, cinema, traveling and hiking",93
+Resume24.txt,"Yuezhou (Margaret) Cai
+Princeton, NJ | (+86) 18066101666 | yc7147@princeton.edu
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance, Bendheim Center for Finance Expected Jun 2023
+• Anticipated Coursework: Asset Pricing, Financial Econometrics, Cases in Financial Risk Management, Fixed Income Models &
+Applications, Statistical Analysis of Financial Data, etc.
+New York University Shanghai Shanghai, China
+Bachelor of Science in Business and Finance (Hons), Double Minor in Mathematics and Data Science Jun 2021
+Cumulative GPA: 3.88/4.0, Magna cum laude | Study Abroad: NYU New York, Stern School of Business, GPA: 3.9/4.0
+Honors: Dean’s List for 2017-2021 academic years; 2019-2020 Recognition Award; 2019 NYUSH Jiahua Global Talent Scholarship
+• Coursework: Machine Learning, Mathematics of Finance, Probability and Statistics, Data Structures and Algorithms, Ordinary
+Differential Equations, Debt Instruments and Markets, Econometrics, Portfolio Management, etc.
+PROFESSIONAL EXPERIENCE
+FC Capital Shanghai, China
+Analyst Intern Apr 2021 – Aug 2021
+• Wrote 20+ initial reviews for entrepreneurial firms by presenting key information such as current pipelines, ownership structure,
+financial condition from firms’ business proposals, and researching the healthcare industry, market size and competition structure
+• Completed a 77-page deck that includes summary of the project’s investment logic, analysis of potential risks, business valuation
+and return dynamics for the investment committee (IC) meeting
+• Completed a 41-page research report on the global orphan drug market to assist team’s investment decisions on a biopharma
+company focused on rare disease market
+• Completed 5+ case studies and presentation decks on topics including gene therapy, digital Elisa technology, microsphere
+preparation, and prepared 10+ question lists for management interviews
+GF securities Shanghai, China
+Equity Strategy Research Intern Mar 2021 – Apr 2021
+• Completed daily, weekly and monthly research reports regarding equity strategies in China’s A-share market by collecting industry
+news and financial ratios from the Wind database, and analyzing market trends
+Prophet Shanghai, China
+Summer Intern Apr 2019 – Aug 2019
+• Designed brand story board for top 50 firms in Prophet 2019 Brand Relevance Index by doing desktop research, especially reading
+company’s annual reports; Used Excel to analyze the data from over 8000 consumers
+• Edited and proofread 50+ whitepapers and case studies regarding business transformation and brand consulting
+RESEARCH EXPERIENCE
+NYU Shanghai, Business and Finance Department Shanghai, China
+Summer Dean’s Undergraduate Research Funding (DURF) scholarship Feb 2020 – Aug 2020
+• Used Python and created a CHS4 model (a 4-factor asset pricing model) that can better capture the return variation of China’s
+small stocks than many other factor pricing models such as the CAPM, FF5 the CH3 models
+• Applied the CHS4 model to explore the potential anomaly SOE (state ownership proportion), as well as stock performance after
+debt issuance, seasoned equity offerings (SEOs) and private placements. The model fully explains these anomalies
+NYU Shanghai, Business and Finance Department Shanghai, China
+Finance Honor thesis project in Asset Pricing in China’s Stock Market Sep 2020 – May 2021
+• Supervised by Prof. Carpenter of NYU Stern, collaborated with Prof. Whitelaw of NYU Stern
+• Examined characteristics of China A-shares by applying my CHS4 model to explain nine anomalies such as reversal, momentum,
+profitability, volatility, turnover, illiquidity, etc.
+• Used Python and Principal Component Analysis (PCA) to approach the puzzle of high information ratio among small stocks
+LEADERSHIP EXPERIENCE
+NYU Shanghai, Learning Assistant Program Shanghai, China
+Tutor for Foundations of Finance, Microeconomics and Econometrics Sep 2019 – May 2021
+• Provided office hours and weekly review sessions for 8 hours/week, received Most Tutoring Appointments Award
+SKILLS AND INTERESTS
+Computer: Microsoft Office, Python (Numpy & Pandas), Stata, Capital IQ, Wind database, Minitab, R
+Interests: Volleyball, Swimming, Debate, Creative Writing",94
+Resume25.txt,"JAI KRISHNA CHAPARALA
++91 81700 51443 | j aikrishna.chaparala@princeton.edu | L inkedIn:// j aikrishna-chaparala
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance, Bendheim Center for Finance S ept 2021 - Jun 2023
+Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Financial Econometrics, Machine Learning
+Indian Institute of Technology Kharagpur Kharagpur, India
+B.Tech. (Honours), Computer Science, C GPA: 8.93/10.0 J ul 2014 - May 2018
+Senior Thesis: C hatbots for Ecommerce, G rade: 10.0/10.0
+EXPERIENCE
+Goldman Sachs Bengaluru, India
+Associate, Market Risk Strats J ul 2018 - Jul 2021
+● Developed a PnL approximation algorithm to significantly speed-up Monte Carlo simulation-based VaR calculation.
+● Developed regression models, dimensionality reduction and error metrics to approximate daily VaR with < 2% error.
+● Saved $12MM/year in recurring costs by reducing ~1MM peak CPU hours usage per day by cutting down the number
+of scenarios priced daily for VaR from 16bn to 4bn, and 30k AWS cores were returned as a result.
+● Optimized IR risk factor VaR, stress test models using market data APIs, resulting in cost reduction of ~$5MM/year.
+● Developed the IMA pricing, risk calculation framework, and capital calculation models under FRTB regulations.
+● Developed IR and Inflation risk models, NII models and conducted quantitative impact studies for capital estimation.
+● Awarded the highest performance rating conferred on top-quartile performers globally and promoted to Associate.
+D.E. Shaw Hyderabad, India
+Quant Developer Intern, Long-Short Equity M ay 2017 - Jul 2017
+●Developed a model leveraging Natural Language Processing and Fuzzy Searching to extract geolocation and retail store
+identifier info using the description field of a huge proprietary American credit card dataset with > 4bn transactions.
+●Achieved 60% better identification of geotagging than the data vendor and > 95% extraction rate of store-id information.
+●Received an offer to join the Long-Short Equity Alternative Data team as a full-time quantitative developer.
+BigClozet Bengaluru, India
+Machine Learning Internship M ay 2016 - Jul 2016
+●Developed color segmentation and pattern recognition modules using open-cv and sklearn for apparel.
+●Used transfer learning on pre-trained GoogleNet architecture-based deep CNNs to classify footwear into sub-categories.
+RESEARCH AND PUBLICATIONS
+Indian Institute of Technology - Department of Computer Science Kharagpur, India
+Chatbots for Ecommerce: Senior thesis in collaboration with C apillary Technologies A ug 2017 - May 2018
+●Developed statistical and deep learning models to reduce user-interaction time with chatbots for optimal order placement.
+●Automated Q/A, search, review summarization, and feature specific sentiment analysis for Amazon’s electronics dataset.
+Publication: S rivastava Avikalp, Madhav Datt, Jaikrishna Chaparala, Shubham Mangla, and Priyadarshi Patnaik. ""Social
+Media Advertisement Outreach: Learning the Role of Aesthetics."" Proceedings of the 40th annual international A CM
+SIGIR Conference on Research and Development in Information Retrieval. ACM, 2017.
+AWARDS & HONOURS
+●2017 Amazon Code Wizard Challenge: Winner in the 3-stage countrywide Machine Learning hackathon by Amazon.
+●2017 Capillary Data Science Challenge: Winner in the 2-week ML competition held by Capillary Technologies.
+●2017 Microsoft Artificial Intelligence Hackathon: Runner-up (2nd place) among 200 participant teams.
+●2014 JEE Mains: Secured 13th place in India among 1.5 million participants with a score of 340/360.
+●International Olympiads: Qualified to India finals(Stage 3) in Astronomy(Top 20-India) and Junior Science(Top 40-India)
+●South Indian Mathematics Olympiad: Ranked 6th/~60,000 in the 2-stage national mathematics competition.
+●Scholarships: NTSE(Top 0.2% in India, Govt. of India), KVPY(Govt. of India).
+ADDITIONAL INFORMATION
+Languages: English, Hindi, Telugu, Malayalam.
+Programming Experience: C ++, Python, Java, SQL, NLTK, Sklearn, Scipy, Pandas, Statsmodels, etc.
+Interests: P oker, Cricket(NSO-IIT Kharagpur), Cryptocurrencies, Reading, Piano, Chess.
+Others: P rovided technical and career mentorship to students and early professionals across India through Scaler Academy.",95
+Resume26.txt,"CHASITY (QIAN) CHEN
+268 Hongguan Road Hongkou District, Shanghai, China | Tel: (917)374-9827 | Email: qian.chen@princeton.edu
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance Anticipated Sept 2021-June 2023
+New York University New York, NY
+Bachelor of Arts in Economics and Bachelor of Arts in Computer Science Sept 2017-May 2021
+• GPA: 3.91/4.00; GRE: 334 + 4.5; Phi Beta Kappa, Dean’s List
+WORK EXPERIENCE
+Huatai Securities Co., Ltd Shanghai, China
+Asset Management Intern, Asset Management Division June 2021-present
+• Designed and selected option strategies for asset management products based on analysis of the current market.
+• Assisted in the preparation and operation of asset management products series before, during, and after asset management periods.
+Donghai Securities Shanghai, China
+Quantitative Research Intern, Financial Engineering Group of Research Department Apr 2021-June 2021
+• Paricipated in the publication of the weekly derivatives report, and independently wrote the first version.
+• Designed the workflow of an automatic data processing system for the weekly derivatives report and implemented the system using
+Python. The system automatically retrieves data, cleans data, computes required indicators and generates 10 tables and 31 graphs.
+• Assisted in the research on building machine learning models with technical factors for stock selection. Collected, cleaned, and
+visualized data to analyze the characteristics of datasets and conduct outlier analysis.
+China International Capital Corporation Limited (CICC) Beijing, China
+Quantitative Investment Intern, Equity Sales Department Oct 2020-Nov 2020
+• Assisted in the research on the selection of factors in a multi-factor model for stock selection in Chinese A share stock market. Used
+Python to conduct back-testing to test the validity of 2 factors (PE ratio and monthly sales growth), created industry-neutral
+portfolios based on the value of the factor being tested and tracked the annualized returns using historical data.
+• Maintained trading data and generated daily reports on the strategy performance (Annualized Return Rate, Maximum Drawdown,
+Sharpe Ratio) using Python.
+PwC Management Consulting (Shanghai) Limited Shanghai, China
+Management Consulting PTA Sept 2020-Oct 2020
+• Participated in the digital transformation project for a well-known Chinese medicine retailer, researched the online medicine
+retailing industry in China, derived and summarized the consumption scenario of medicine in B2C and O2O e-commerce models.
+• Conducted case studies on omni-channel retailing, including strategies, operations, and the back-end supply chain of leading firms.
+• Participated in the design of pricing and marketing strategies for a fintech company, collected and analyzed the fintech strategies of
+15 commercial banks, and summarized the overall transformation trend and potential demands for fintech products.
+• Conducted research on the applications of machine learning in the Chinese banking industry (including anti-fraud, risk management,
+Robo-advisor, and AI marketing) and contributed to a published research report.
+PROJECT & RESEARCH EXPERIENCE
+New York University, Computer Science Department New York, NY
+Natural Language Processing Project: AH-SAR – Ad Hoc Sentiment Analysis on Ratemyprofessors.com Mar 2021-May 2021
+• Designed, implemented, and tested multiple solutions for the sentiment analysis on student comments from RateMyProfessors.com
+using different machine learning models; ended up with an easy-to-implement, fast-to-train system that outperforms mainstream
+models in NLP in terms of both sentiment recognition accuracy and system training and running speed.
+• Launched an RMP-sentiment-analysis application and published the project paper on Github.
+LEADERSHIP EXPERIENCE
+Echo Tide Kunming, China
+Co-Founder, Project Leader Dec 2016-Dec 2018
+• Coordinated the initiation and promotion of long-term weekend volunteer programs in cooperation with local NGOs
+• Organized the preparation and sale of self-made handicrafts to raise funds for local child welfare institutes.
+SKILLS & INTERESTS
+• Computer: Python, Java, SQL, Microsoft Word, Excel (Solver, Data Analysis tools), PowerPoint
+• Language: Chinese (native); English (advanced); Spanish (basic)
+• Interests: Scuba Diving, Tennis, Fruit Tea, Hotpot",96
+Resume27.txt,"Yuyang (Eric) Chen
+(+86) 135-8636-9008 | yuyang.chen@princeton.edu
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance, Bendheim Center for Finance Sep 2021 – May 2023
+ Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Financial Econometrics, Statistical Theory
+and Methods, Machine Learning
+Peking University, Guanghua School of Management Beijing, China
+Bachelor of Economics in Finance Sep 2017 – June 2021
+ GPA & Honors: 3.94/4.00 (1/160); National Scholarship (Top 1%), May 4th Scholarship (Top 1%), Arawana Scholarship
+(Top 1%), Freshman Scholarship (Top 5%), Merit Student of Peking University (Top 1%)
+ Relevant Coursework: Mathematical Methods in Finance, Stochastic Analysis, Time Series Analysis, Asymptotic Statistics,
+Data Structure & Algorithm, Fixed Income Securities, Financial Econometrics, Regression Analysis
+The University of Chicago Chicago, IL
+Exchange student Program, Selected by Peking University Sep 2019 – Dec 2019
+ GPA: 4.0/4.0; Coursework: Financial Instruments (A+), Option Pricing, Multivariate Data Analysis, Econometrics
+PROFESSIONAL EXPERIENCE
+Goldman Sachs Hong Kong, China
+Strats Summer Analyst, EQ Securitized Derivatives Strats, Global Markets Division July 2020 – Aug 2020
+ Developed programs in Python and Slang to automatically extract, organize, enrich and visualize the data of structured
+derivatives trading and created a dashboard to display the newly created dataset
+ Applied regression methods using Python to identify patterns in structured derivatives demand and gross credit, and explored
+their relationship with various variables including interest rates and market returns to provide insights for raising profits
+Trexquant Stamford, CT (Remote)
+Remote Intern, Global Alpha Researcher Jan 2020 – Apr 2020
+ Investigated recent academic research, and applied statistical techniques to develop market-neutral, medium-frequency
+Alphas from revenue, price target and EPS forecast data in sell-side databases (I/B/E/S)
+ Identified useful variables using US weather data for predicting policy losses of insurance companies, wrote downloading
+scripts for the data in Python, created data visualization, and conducted Alpha research based on them
+Wizard Quant Zhuhai, China
+Summer Analyst, Quantitative Research Jun 2019 – Aug 2019
+ Performed statistical analysis on financial statement data and identified signals for Chinese stocks with R and Python
+ Developed algorithms in Python for Alpha back-testing and performed in-depth study to improve the alpha performances
+PROJECTS & RESEARCH EXPERIENCE
+Peking University, Guanghua School of Management Beijing, China
+Research Assistant, Marginal Maximum Likelihood Estimates for Stochastic Volatility Models Mar 2019 – Apr 2021
+ Applied Ito-Taylor and Stratonovich-Taylor expansion on the Fisher information for the MMLE of SV model, developed
+programs in Mathematica and Python for its symbolic implementation, and derived its asymptotic properties
+UBS Global Markets Hackathon 2019: 2nd place Oct 2019 – Nov 2019
+ Constructed hedging strategies on a portfolio of bond assets, reducing the out-sample maximum drawdown by over 70%
+ Applied statistical and machine learning methods including PCA to optimize the performance of the hedged portfolio
+MCM/ICM Mathematical Contest in Modeling 2019: Meritorious Winner Jan 2019
+ Constructed a model of the energy consumption of a fictional dragon and the ecosystem using ODE and PDE by MATLAB
+to estimate the ecological requirements and growing process of the dragon and conducted sensitivity analysis on it
+Bain Cup Competition 2018: Led a team of 4 to conduct consulting case analysis, Top 4 of China May 2018
+LEADERSHIP
+Peking University Hedge Fund Association Beijing, China
+Quantitative Department President Sep 2020 - Present
+ Organized experience-sharing sessions and seminars on quantitative research and trading
+SKILLS & INTERESTS
+ Language: Chinese Mandarin (native), Chinese Shanghainese (fluent)
+ Technical: C/C++, Python, MATLAB, R, Mathematica | Microsoft Office | LaTeX
+ Interests: Football, tennis, movies, calligraphy (received 10+ awards above the municipal level)",97
+Resume28.txt,"Haoting (David) DAI
+(+86)18688661826 | haotingdai@princeton.edu
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance, Quantitative Asset Management and Macroeconomic Forecasting Track Aug. 2021 – May 2023
+Certificate in Machine Learning
+ Anticipated Coursework: Asset Pricing, Financial Econometrics, Statistical Analysis of Financial Data, Machine
+Learning, Economic Dynamics, Chinese Financial and Monetary Systems
+Renmin University of China Beijing, China
+Bachelor of Economics in Finance Sept. 2016 – June 2020
+Bachelor of Science in Mathematics (Double Major)
+ GPA: 3.92/4.00
+ Relevant Coursework: Corporate Finance, Intermediate Macro/Microeconomics, Mathematical Analysis, Statistics
+and Probability, Optimization, Money and Banking, ODE, International Finance, Financial Time Series
+ Honors: Scholarship of Academic Excellence (1%), Overseas Visiting Student Fellowship (0.1%)
+Columbia University New York, NY
+Visiting Student with Fellowship Sept. 2018 – May 2019
+ GPA: 4.00/4.00
+ Relevant Coursework: Quantitative Risk Management, Numerical Methods in Finance, Stochastic Processes and
+Applications, Behavioral Finance, Capital Markets and Investments, Advanced Econometrics, PDE
+PROFESSIONAL EXPERIENCE
+Huatai Securities Shenzhen, China
+Financial Engineering/Quant Research Intern, Research Division Sept. 2020 – Mar. 2021
+ Designed target-date fund glide-paths for various buy-side clients, responsible for the entire workflow including asset
+allocation model construction, asset parameters modelling, and back-testing
+ Designed a target-risk fund with volatility, downside deviation and VaR limiting based on the risk parity strategy,
+and improved its Sharpe ratio by 34% by estimating the covariance matrix with EWMA and shrinkage methods
+ Conducted performance attribution analysis on 1,400+ fixed income mutual funds over the past 14 quarters using the
+Campisi model, analyzed attribution results statistically, and composed a research report summarizing findings
+ Researched a multi-asset market timing strategy using macro factors based on factor IC’s, Granger causality tests,
+etc., achieved annual return of 20.2% and Sharpe ratio of 0.73 on CSI 300 index over 14 years
+Tencent Financial Technology Shenzhen, China
+Off-Cycle Intern, Wealth Management Division June 2020 – Aug. 2020
+ Conducted KYC and KYP research using panel regression, fractional probit and logit model, and Kaplan-Meier
+survival analysis on daily transactional data of 600+ mutual funds spanning over three years, including raw data
+preprocessing and econometrical research on subscription, redemption, conversion rate and holding duration
+ Issued approval suggestions on funds pending biweekly review according to Brinson and Henriksson-Merton model
+analysis
+ Developed a money market fund investment strategy based on non-trading day returns, which enhanced annual return
+by about 40 bps compared to the market average
+Hong Kong Exchanges and Clearing Limited Hong Kong SAR
+Summer Intern, Markets Division July 2019 – Sept. 2019
+ Promoted HKEX’s inline warrants and weekly HSI and HSCEI options, supplied training sessions to brokers
+highlighting contract specifications and suitable Greeks related trading strategies
+ Created three Excel macro spreadsheets using VBA for analyzing turnover statistics of HKEX’s exchange
+participants for different securities and derivatives
+LEADERSHIP & EXTRACURRICULAR ACTIVITIES
+UBC-Sauder International Real Estate Case Competition Vancouver, BC
+Team Leader, group runner-up in the preliminary round Nov. 2019
+ Led a team of six to analyze a condominium development project and make investment recommendation
+ Managed quantitative modelling components (leases, mortgage, valuation, promote, etc.) of the case based on market
+analysis given by other team members, built a DCF sensitivity analysis toolkit using VBA
+Renmin University of China, Investment Banking & Consulting Association Beijing, China
+Vice President (Internal) Sept. 2017 – Dec. 2019
+ Responsible for organizing weekly lectures and activities of the association, serving 100+ members
+ADDITIONAL INFORMATION
+Technical Skills: Python, R, Stata, VBA, EViews, Office, Wind, Bloomberg
+Languages: Mandarin (native) and Cantonese (native)
+Certificates: CFA Level I (passed)",98
+Resume3.txt,"Qingyang (Young) Gao
++86 159-6296-0721 | qg4580@princeton.edu
+EDUCATION
+Princeton University Princeton, NJ
+Master’s Degree in Financial Mathematics Aug 2021–May 2023 (Expected)
+• Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Energy and Commodities Markets
+• Pursuing Certificate in Machine Learning: Linear and Nonlinear Optimization, Statistical Foundations of Data Science
+Fudan University, School of Economics, School of Computer Science and Technology Shanghai, CN
+Bachelor’s Degree in Finance, with a Minor in Data Science Sep 2017–Jun 2021
+• Major GPA: 3.94/4.00; Rank: 2/80
+• Math Coursework: ODE, Stochastic Process, Stochastic Calculus in Finance, Time Series Analysis, Advanced Econometrics
+• Computer Science and Data Science Coursework: Python Programming, Application of Quantitative Analysis Software,
+Linux Operating System, Data Structure and Algorithm Analysis, Database Systems, Data Mining, Machine Learning
+• Finance Coursework: Financial Economics, Behavioral Finance, Financial Derivatives, Fixed Income Securities, Accounting
+University of Pennsylvania Philadelphia, PA
+International Guest Student Aug 2019–Dec 2019
+• GPA: 4.00/4.00. Relevant Coursework: Statistical Inference (A+), Mathematical Statistics (Graduate Level, A+), Calculus
+IV (Applied Partial Differential Equations) (A+), Computer Methods I (Numerical Analysis) (A+)
+WORK EXPERIENCE
+Ping An Technology Shanghai, CN
+Algorithm Engineer Intern, Knowledge Graph Team Oct 2020–Nov 2020
+• Built a pool of selective stocks based on analyst recommendations and rankings from 2015 to 2019; combined fundamental
+and technical factors to create a strategy achieving 26.5% annual return and 12.5% maximum drawdown
+• Authored model documentation for 30+ firm indicators, patterns, and signals for investments
+• Provided the firm with an established and systematic backtesting library using OOP in C++ to save over 95% of time
+Kaifeng Investment Management Shenzhen, CN
+Quantitative Research Intern, Quantitative Trading Department Apr 2020–Aug 2020
+• Created models based on hedging behavior of stock index futures and applied basis adjusted price-volume features to trading
+stock index futures using regression analysis, achieving an information coefficient (IC) of over 0.08
+• Analyzed and interpreted high-frequency data from the SSE Science and Technology Innovation Board (STAR) using Principal
+component analysis (PCA); discovered the significant intraday reversal effect of STAR market stocks
+• Developed and submitted 15+ market-neutral alphas with excellent performance; the alphas traded on the live market and
+achieved top 10% performance within the whole alpha pool
+Shanghai Luoshu Investment Shanghai, CN
+Quantitative Research Intern, Division of Investment and Research Jan 2020–Mar 2020
+• Identified statistically significant alphas in index futures overnight trading; spearheaded a team of interns to construct a factor
+model to obtain stronger alphas on index futures using Python
+• Applied machine learning techniques, including LASSO regression, ridge regression, decision tree, logistic regression, neural
+networks, and other models to predict overnight returns and evaluated factor performance
+• Implemented backtesting programs to calculate the Sharpe ratio, profit over turnover and other indicators; developed daily
+adjustment strategies with a Sharpe ratio above 3 and profit margin above 6.5 bps
+RESEARCH EXPERIENCE
+An Empirical Analysis of the Barillas-Shanken Six-Factor Asset Pricing Model in Chinese A-Share Market Shanghai, CN
+Research Assistant, Advisor: Professor Hongfei Zhu, Fudan University Apr 2021–Present
+• Studied the efficiency of Barillas-Shanken asset pricing factors including SMB, HML, and ROE using the Fama–MacBeth
+regression in R, compared the explaining effect of the cross-sectional return difference in stocks with other asset pricing models
+• Enhanced factor performance based on research of economic and financial interpretations in Fama and French (2016) etc.
+SSE 50ETF Option Implied Volatility Surface: Analysis of Stochastic Local Volatility Model Shanghai, CN
+Research Assistant, Advisor: Professor Xianglin Jiang, Fudan University Oct 2020–May 2021
+• Calibrated a stochastic local volatility model (SLV) to price the SSE 50 ETF option using the finite difference method and
+Monte Carlo simulation; predicted implied volatility of the SSE 50 ETF option
+• Built SSE 50 ETF option hedging strategy using SLV-projected delta; reduced hedging error by over 30% compared to the
+Heston stochastic volatility model in regard to Root Mean Square Error
+ADDITIONAL INFORMATION
+Computer skills: C++ (STL, Boost), Java, Python (pandas, scikit-learn, TensorFlow, PyTorch), R, MATLAB, SQL, LaTeX, Linux
+• Certificate with Distinction of C++ Programming for Financial Engineering from QuantNet Nov 2019
+Languages: Mandarin (native) Interests: Piano (Grade Examination of Piano Level 10 for Nonprofessionals), Fitness",99
+Resume4.txt,"Arjun Goyal
+Princeton, NJ | Tel: +852-9140-6745 | E-mail: ag8178@princeton.edu | linkedin.com/in/arjun-goyal/
+EDUCATION
+PRINCETON UNIVERSITY Princeton, NJ
+Master of Finance May 2023 (expected)
+• Anticipated Coursework: Asset Pricing I & II, Statistical Analysis of Financial Data, Fixed Income: Models and Applications
+NEW YORK UNIVERSITY, Leonard N. Stern School of Business New York, NY
+Bachelor of Science in Business concentrating in Statistics, Finance, with a minor in Mathematics May 2020
+• GPA: 3.936 / 4.0
+• Dean’s List: 2016-2020; Beta Gamma Sigma honors society member, for sustained academic excellence
+• Award for Academic Excellence in Finance for Class of 2020
+PROFESSIONAL EXPERIENCE
+MORGAN STANLEY Hong Kong SAR
+Analyst, Fixed Income Capital Markets July 2020 – Present
+• Formulated and modeled numerous FX, interest rate and commodity risk management solutions to compile pitches for corporate
+clients and sponsors in the Asia-Pacific region
+• Contributed to sourcing and executing multiple FX hedging transactions around liability issuances, particularly for Indian
+renewable energy companies
+• Assisted in internal risk assessment, execution and settlement of a deal contingent FX hedge surrounding an M&A transaction in
+a restricted currency market
+• Facilitated sourcing and execution of cross-border debt private placements for Asian clients, with a focus on EM currency
+denominated debt
+Summer Analyst, Fixed Income Capital Markets June 2019 – August 2019
+• Compiled more than 15 pitchbooks and discussion materials for potential debt issuances options for prospective clients
+• Created in-depth analysis of the US-China trade war’s effect on the shipping industry for a client engaged in a leveraged finance
+transaction; analysis helped form internal risk assessment decisions
+• Modeled and created discussion materials for fixed income derivative strategies for clients using instruments like swaps, options,
+commodity derivatives and cross-asset solutions
+MACQUARIE GROUP Singapore
+Intern, Commodities and Global Markets July 2018 – August 2018
+• Created multiple INR currency valuation model using macroeconomic inputs for fixed income trading team
+• Formulated an indicator to measure liquidity levels of inter-bank lending market in India and correlated it to corporate bond yields
+over time to research new debt trading strategies
+• Compiled world marine port database, with over 12,000+ ports, as part of a vessel tracking software that would be used by
+Commodities Structured Finance team; wrote Visual Basic code for prototype of this software for the quantitative strategy team
+RESEARCH EXPERIENCE
+Hot Racquet or not? An Exploration of Momentum in Grand Slam Tennis Matches July 2019 – July 2020
+• Collaborated with Professor Jeffrey Simonoff at NYU Stern to identify and analyze momentum trends in Grand Slam tennis
+matches; submission as part of senior honors thesis program
+• Applied Generalized Linear Mixed Effects models using R on set, game and point levels of match data since 2016
+• Formulated data scraping code on Python to compile and clean match data for analysis
+Stern Program for Undergraduate Research January 2018 – May 2018
+• Assisted Professor Sabrina Howell at NYU Stern and compiled quantitative ICO data for over 30 different cryptocurrencies,
+including funds raised and pricing strategy used during ICO process, to examine factors that lead to successful cryptocurrency
+launches
+LEADERSHIP, SOCIAL IMPACT & EXTRACURRICULAR ACTIVITIES
+• Executive Vice President of Internal Affairs and Leadership Director at NYU’s Net Impact Club, a student group focused on the
+intersection of business and social impact
+• Volunteering: Intern at Outreach and communications department of Yuva Parivartan in Mumbai (June - July, 2015); Intern at
+Safe Water Network India Trust (June 2018)
+• Editor and Writer at the Economics Review Publication at NYU
+• Languages: English (native), Hindi (native)
+• Software: Excel/VBA (Intermediate), R (Intermediate), Python (Intermediate, Web Scraping)
+• Interests: Drummer and music lover, travelling, photography, running, Bayern Munich, Chipotle bowls",100
+Resume5.txt,"Lina Huang, CFA
+360 E. 89th Street, New York, NY • lina.huang@princeton.edu • (630) 770-5101
+EDUCATION EXPERIENCE __
+Princeton University (Bendheim Center for Finance) Princeton, NJ
+Master in Finance Expected May 2023
+Columbia University (School of Engineering and Applied Science) New York, NY
+Bachelor’s Degree in Operations Research Sep. 2014 – May 2017
+GPA: 3.81 Honors: Magna Cum Laude, Tau Beta Pi Engineering Honor Society, Dean’s Lists
+WORK EXPERIENCE _
+AllianceBernstein Holding L.P. New York, NY
+Quantitative Researcher Sep. 2020 – Jul. 2021
+• Developed an Emerging Market Risk Indicator using machine learning classification algorithms; back-tested
+1000+ different combinations of parameters for a risk timing strategy against the Emerging Markets (EM)
+index. Constructed a trading strategy using a basket of liquid market EM Credit Default Swaps and CDX.
+• Created an EM Slope cross-sectional factor model using a combination of macroeconomic and technical factors,
+and risk indicators; backtested a trading strategy using the interest rate swaps of 13 liquid EM countries.
+• Revamped the global rates model to reduce portfolio turnover with transaction cost included in the optimization
+process; conducted research on 20+ potential new rate factors to be incorporated into the model.
+• Served on the leadership board of AB Asians, an employee resource group, to promote diversity since 2017.
+Currency Strategy Rotational Associate/Currency Strategist Jul. 2018 – Aug. 2020
+• Devised quantitative investment strategy for currency overlays of $30 billion Global Fixed Income portfolios,
+which derive 30-50% of total risk from FX, and $300 million currency-only unconstrained portfolios.
+• Lead the quantitative research team on developing new systematic FX strategies for all-country and G10-only
+universes by researching model factors and construction methods, followed by backtesting trading strategies.
+• Revamped the previous mean-variance portfolio optimization process using Python; increasing the capacity
+from optimizing one portfolio at a time to doing 80+ simultaneously.
+• Conducted analysis on optimal FX hedging strategy and ratios using Monte Carlo Simulation for Asian clients.
+Rates Trading Rotational Associate Jan. 2018 – Jun. 2018
+• Traded U.S. Treasuries, TIPS, G10 Interest Rate Swaps.
+• Developed short-term trading signals using market positioning data (CFTC futures, major bond funds betas).
+• Conducted research on the optimal time for duration month-end rebalancing and intraday trade opportunities
+Quantitative Research Rotational Associate Jun. 2017 – Dec. 2017
+• Created an Orthogonal Exponential Spline model to fit the U.S. Treasury yield curve and calculate the spread to
+splines of the treasury bonds. The model was used as a prototype to fit global government bond yield curves.
+• Developed a Treasury Relative Value Tool using the spline model to provide color for the Rates Trading team
+on market mispricing and for the portfolio managers to screen the cheapest/richest bonds within their portfolios;
+the tool is currently used as the primary tool for treasury bond selections.
+• Managed 3 paper portfolios for U.S. IG Credit that isolate and track the performance of quant signals;
+developed automated monthly rebalancing and performance tracking processes for the portfolios using R.
+• The paper portfolios served as a prototype of the Systematic U.S. IG Strategy that AB developed in 2019.
+Fixed Income Summer Rotational Intern Jun. 2016 – Aug. 2016
+Quantitative Research Rotation: developed a Credit Default Swap Index trading strategy
+Securitized Product Rotation: conducted industry level analyses in Commercial Real Estate and CMBS
+SKILLS AND INTERESTS _
+Skills: Python, R, SQL, Mandarin Chinese, Microsoft Office, Bloomberg Terminal
+Interests: traveling and experiencing different cultures, drawing since the age of 6, snowboarding, golfing",90
+Resume6.txt,"Zixun Huang
+zh7169@princeton.edu| (086) 15210267278
+EDUCATION
+Princeton University Princeton, NJ
+ Master in Finance 08/2021-05/2023
+ Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Corporate Finance and Financial
+Accounting, Financial Econometrics
+Brandeis University Waltham, MA
+Bachelor of Science in Economics, Applied Mathematics, Minor in International and Global Studies 08/2017-05/2021
+ Major GPA: 4.0/4.0; Cumulative GPA: 3.9/4.0; (Phi Beta Kappa, Magna Cum Laude, Dean’s List)
+ Relevant Coursework: Applied Linear Algebra, Multivariable Calculus, Fourier Series and PDEs, Probability,
+Statistics and Data Analysis, Real Analysis, Optimization, Advanced Programming in Java, Data Structures, Financial
+Economics, Advanced Econometrics, Game Theory, Option and Derivatives
+University of Oxford Oxford, England
+Study Abroad Program 10/2019-06/2020
+ Cumulative GPA: 3.9/4.0
+PROFESSIONAL EXPERIENCE
+Guotai Junan Securities Beijing, CN
+Equity Research Analyst 11/2020-03/2021
+ Analyzed the fundamentals and financial data of automotive electronics product suppliers in China, interpret industry
+trends using Excel and VBA, and write equity research report using relative and absolute valuation method
+ Compared the advantages of Huawei Harmony 2.0, Google Fuchsia and TencentOS tiny, and quantify the impact of
+the launch of the operating systems on the market position of Windows in the PC market
+AAN Advisor Beijing, CN
+Analyst 05/2020-07/2020
+ Completed consumer stock selection, individual company research reports, and a market emergencies coping strategy
+report according to data obtained from various channels (including WIND, annual reports, third-party research reports,
+and official information websites, etc.)
+ Compiled monthly reports on private equity funds in Chinese and English based on fund manager interviews and asset
+performance data analysis
+ Established the rudiment of a risk management model through VBA
+Delian Capital Beijing, CN
+Analyst 08/2019-09/2019
+ Analyzed the product values and advantages of small to medium sized American companies in the gene therapy
+industry, completed industry analysis reports, and built mathematical models to predict future M&A price trends in
+the industry
+ Researched the trend of the internet multicloud management industry, analyzed the technology and marketing patterns
+of FIT2CLOUD, and participated in writing project introductions and due diligence reports
+Beijing Sihai Management Consulting Ltd. Beijing, CN
+Analyst 05/2018-08/2018
+ Analyzed whether or not a technology company should enter the Middle East market, including the analysis of the
+corresponding industry development trends, industry competition, and enterprise positioning, and conducted a
+feasibility report based on the analysis
+RESEARCH EXPERIENCE
+Brandeis University,
+Optimization of Task Assignment Model Based on Satisfaction Maximization Boston, MA
+Project Member 10/2020-12/2020
+ Developed a model using Python that maximizes workers’ happiness index on the basis of meeting various skill
+requirements, and solved the original problem and the dual problem at the same time to measure the impact of different
+constraints on the results and determine the optimality of the solution
+Research on Markowitz’s Portfolio Selection (1952) Boston, MA
+Project Leader 02/2019-04/2019
+ Adopted Python to optimize the graphical interpretation of covariance when n=3, and analyzed prices of 53 different
+assets in 2,520 trading days from 2006 to 2016 to find an optimal allocation of assets
+LEADERSHIP EXPERIENCE
+Brandeis University, Archon Yearbook Boston, MA
+Co-editor 09/2017-05/2021
+ Responsible for the yearbook’s operation, including finance management, communications with relevant companies
+and school officers, photo collection from other clubs, etc.
+Oxfordshire County Council Oxford, UK
+Student Consultant 01/2020-05/2020
+ Presented a feasibility report on carbon sequestration for the County Council based on the analysis of the distribution
+of land ownership and the carbon interception on different surfaces
+SKILLS
+ Programming Languages: C++ (1 year), Java (2 years), Python (2 years), Bloomberg (1 year)
+ Language: Native in Mandarin, advanced in English (TOEFL 115)",91
+Resume7.txt,"Farouk Khlifi
+(cid:72)+336-66-08-69-34 • (cid:66)fk5093@priceton.edu • fl LinkeIn(cid:135) GitHub
+EDUCATION
+PrincetonUniversity Princeton,NewJersey
+MFinBendheimCenterforFinance September2021–May2022
+AnticipatedCoursework: StatisticsTheoryandMethods,Econometrics,HighFrequencyTradingandFinancialmicrostruc-
+ture,TheoreticalMachineLearning.
+EcolePolytechnique Palaiseau,France
+AppliedMathematics, MajorGPA–3.9 August2018–August2021
+Relevantcourses: Algorithmics,OperationsResearch,StatisticsandMachineLearning,Stochastics,Microeconomics.
+LycéeHenriPoincaré Nancy,France
+TheoreticalMathematicsandPhysicsMajor,ComputerScienceminor,GPA:4.0/4.0Rank1/80+ August2016–August2018
+RelevantCourses: LinearAlgebra,RealAnalysis,Physics,ComputerScience,Chemistry,Philosophy
+WORK EXPERIENCE
+EislerCapital London,UK
+QuantitativeResearchIntern April2021–August2021
+(cid:123) UsedinnovativeintegerandfractionalprogrammingtechniqueswithsparsityrestraintstocompressbooksofIRswaps;
+achieved85%notionalreductionandimplementedthesolutioninC++
+(cid:123) Calibrateddifferentstochasticvanillamodels(SABR,Heston)fromswaptionsandcapsandcomparedthemwithhistorical
+valuestouncovertradingopportunities.
+BBG Berlin,Germany
+DataAnalyst June2020–August2020
+(cid:123) GeneratedsalesforecastswithReinforcementLearning.
+(cid:123) BuiltaninnovativemodelforstockmanagementtoreduceOut-of-Stockandmaximizecashavailability.
+RESEARCH EXPERIENCE
+EcolePolytechnique Palaiseau,France
+ResearchprojectinOperationsResearchandOptimization September2020–December2020
+Advisor:StephaneGaubert
+(cid:123) Provedthataninnovativealgorithmdoesnotsolvelinearprogramminginastronglypolynomialtime(anopenquestion
+incomputationaloptimizationknownasSmale’s9thproblemaskswhethersuchalgorithmexists)
+(cid:123) Usedtropicalgeometry,Lagrangemultipliers,simulationsinJulia
+Napoleon-Capital Paris,France
+ResearchprojectinEconomics September2019–March2020
+(cid:123) UsedHiddenMarkovModelsandotherMachineLearningmodelstoclusterthefinancialmarketsintodifferentsegments,
+andevaluatedtheeffectofthissegmentationonpredictionsofreturns
+(cid:123) UsedScikit-learn,Pytorch&hmmlearnlibrariesinPythonwithdimensionalityreductiontechniques.
+HONORS AND ACHIEVEMENTS
+(cid:123) 2019: HonorablementioninSWERC(Europe’sbiggestcompetitiveprogrammingteamchallenge)forhavingsolvedone
+ofthehardestproblemsinthecompetition
+(cid:123) 2019: BestEconomicsgroupprojectatEcolePolytechnique.
+(cid:123) 2018: FranceExcellenceandOCPScholarships
+(cid:123) 2016: SecondPrizeintheMoroccanPhysicsOlympiad(1000+participants)
+MISCELLANEOUS
+Programminglanguages: Python(PyTorch,Tensorflow),C++(Intermediate),Java,Julia,OCaml(functionalprogram-
+ming)
+Interests: Geopoliticsandinternationalrelations(podcastanimator),Electromusic(composing),Philosophy,Rapmusic
+Sport: Rowing(EcolePolytechniqueteam),Tennis
+Languages French:(Native),Arabic:(Native),Spanish:(IntermediateProficiency)",92
+Resume8.txt,"Jingyi (Joy) LI
+PKU Street Yanyuan, Haidian District, Beijing, China, 100871 | (86) 180-1971-1040 | jl3308@princeton.edu
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance Expected May 2023
+l Anticipated Coursework: Machine Learning, Statistical Analysis of Financial Data, Computational Finance in C++, Statistical Theory
+and Methods, Financial Econometrics, Asset Pricing
+Peking University Beijing, China
+Bachelor’s in Finance, School of Economics Sept. 2017-July 2021
+l Cumulative GPA: 3.81/4.00 | Ranking: 5/152
+l Awards: 2018 Leo KoGuan Scholarship (Top 5%), The Merit Student of PKU (Top 5%)
+l Coursework: Econometrics, Financial Accounting, Fixed-Income Securities, Financial Economics, Stochastic Analysis, Data Analysis,
+Data Structure and Algorithm, Time Series Analysis, Numerical Methods, Python, Machine Learning (Coursera), Deep Learning (Coursera)
+University of California, Los Angeles Los Angeles, CA, US
+Exchange Student, Economics, Dean’s List Sept. 2019-Dec. 2019
+l Coursework: C++ Programming, Stochastic Process, Ordinary Differential Equation (A+), Mathematics Finance
+EXPERIENCE
+Probquant Shanghai, China
+Intern, HFT Quantitative Research Jan. 2021-June 2021
+l Built and maintained intraday and cross-day alpha library using tick-level stock depth data, trade data, and order data
+l Conducted research about parameter influence on backtesting stability and validity, concluded and unified backtesting parameters
+l Backtested and refined reversal factors by comparing different industry classification methods, including KNN
+l Improved factor performance by alpha filtering using accessory factors and factor cutting using trade, volatility, time information
+l Trained rolling linear and XGB Models on a one-year minute level dataset of 1500 stocks to generate prediction signals of different
+periods. Combined signals and achieved an average excess return rate of 0.16% in each daily trade on China’s A-share market
+l Applied feature selection on 258 features by weight, gain and cover on a rolling basis to reduce overfitting
+Goldman Sachs (Singapore) PTE LTD Singapore
+Commodity Strats (Quant) Summer Analyst, Global Markets July 2020-Aug. 2020
+l Desk Strats: Performed backtests on delta-neutral hedging strategies on DCE and offshore iron ore market, examined Gabillon model
+in offshore iron ore market by comparing realized vol and implied vol surfaces, researched the differences between DCE margining
+and equity/futures style margining
+l Sales Strats: Conducted market research about the SGP power market, examined correlations between tradable commodity prices and
+USEP, listed potential clients, and proposed hedging strategies
+l Datathon: Discovered overdraft patterns in accounts’ cash flow data using std of amount or a significant drop in amount value
+Shanghai iFund Asset Management Company Shanghai, China
+Summer Intern, Quantitative Research June 2019-Sept. 2019
+l Developed alpha strategies on China’s A-share market using theories and models from mathematics, economics, and physics, including
+cross-price elasticity, Fourier transform, and Adaptive Expectations Model
+l Employed factor rotation and dynamic factor timing methods to improve performance
+RESEARCH
+Stochastic Foreign Exchange Factor Modelling Beijing, China
+Advisor: Chenxu Li, Associate Prof. of Guanghua School of Management, Peking University July 2020- Nov. 2020
+l Derived closed-form formula for foreign exchange options of 3/4 factor models using affine structure and change of Numeraire
+l Calibrated Heston, CEV, Jump, and 3/4 factor models using Bloomberg data, plotted model fitness and local minimum using MATLAB
+l Conducted empirical tests on correlations between short-term yields, 5 countries’ exchange rates and their realized vol using Python
+l Presented results to China Bond Pricing Center
+ACTIVITIES
+National Mathematical Modeling Competition for College Students Beijing, China
+Placed Second Nationally, Higher Education Press, Group Leader Oct. 2019
+l Led team members to complete thesis on Pressure Control of High-Pressure Oil Pipe using methods of numerical simulation
+2018 International Monetary Forum Beijing, China
+Guest Speaker, School of Government Finance Renmin University Sept. 2019
+l Spoke on pros and cons of Sino-US trade war to an audience of alums from Harvard, Yale and other schools
+SKILLS AND INTERESTS
+l Languages: Mandarin (native), Shanghainese (basic)
+l Technical Skills: C++, Python, MATLAB, Stata; Wind, Bloomberg, Mathematica, Office, LaTeX, SPSS; CFA level I Candidate
+l Interests: Texas Hold'em Poker, Traveling, Photography, Badminton, Electric Piano (15 years)",93
+Resume9.txt,"Mengyuan Li
+4322 Queens St., Apt. 305, Long Island City, NY 11101 | 917-575-2053 | ml0761@princeton.edu
+EDUCATION
+Princeton University, Bendheim Center for Finance Princeton, NJ
+Candidate for Master in Finance May 2023 (Expected)
+▪ Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Computational Finance in C++, Fixed
+Income Models and Applications, Fintech
+Cornell University, College of Agriculture and Life Sciences Ithaca, NY
+B.S. in Biometry and Statistics, Business Minor, Operations Research & Management Science Minor May 2019
+▪ Cumulative GPA: 4.19/4.33
+▪ Honors: SUMMA CUM LAUDE, CALS Class of 2019 Banner Bearer
+WORK & RESEARCH EXPERIENCE
+PriceWaterhouseCoopers Advisory New York, NY
+Associate, Forensic Technology Solutions Aug 2019 – May 2021
+▪ Developed a web application via SQL, stored procedures to provide a 13-week forecast of cash flows under dynamically
+generated scenarios and real-time visibility on cash flows to help clients manage liquidity, resulting in revenues of $7 million
+▪ Investigated Payment Protection Program Loan Forgiveness (660K+records) to detect fraudulent behavior by resampling
+imbalanced data with SMOTE, implementing LightGBM in Python, tuning hyperparameters with grid search cross-
+validation, evaluating model performance on test data, and interpreting models via SHAP values, decreasing the model’s
+false-positive rate from 0.2% to 0.001%
+▪ Closed a $21 billion deal by employing Alteryx, SQL, VBScript, Excel and Tableau to prepare a quarterly and yearly refresh
+on “Management View” Trial Balance Reports and “Carve-Out” Financial Statements with reference to 10-K/10-Q
+▪ Built a marketing platform and an upscaled digital marketing campaign strategy based on big data on user behavior
+Cornell University, SC Johnson College of Business Ithaca, NY
+Data Science Research Assistant Feb 2017 – May 2019
+▪ Created a research-level panel dataset, constructed social network metrics, and predicted the likelihood of a class reunion
+event attendance by performing feature selection and regression diagnostics on panel data for 965 alumni to reveal the
+network effect and peer impact on alumni decision-making process
+▪ Established benchmark models for patent generality prediction on a dataset of 157K samples by running regression models,
+conducting model selection and prediction research by building ROC curves to visualize model performance in R
+PROJECT EXPERIENCE
+Options Delta Hedging Simulation Online
+Financial Markets Bootcamp March 2020
+▪ Tracked equity index ETF options with various expiration dates and calculated relevant Greeks using Black-Scholes model
+▪ Delta hedged the options after market close, summarized the PnL, and explained the PnL components using the relationship
+between Gamma-Theta PnL and the implied-realized volatility spread
+Variance Swap Portfolio Construction Online
+Financial Markets Bootcamp April 2020
+▪ Constructed a portfolio consisting of SPY call and put options, calculated the Delta, Gamma, and cumulative PnL of a Delta-
+Hedged portfolio as the underlying price changes over time
+LEADERSHIP EXPERIENCE
+Cornell Statistics Club Ithaca, NY
+Founder Aug 2018 – May 2019
+Alpha Phi Omega Ithaca, NY
+Project Chair Feb 2016 – May 2019
+SKILLS AND INTERESTS
+Languages: English (advanced), Mandarin Chinese (native)
+Skills: SQL, Python, R, Java, Alteryx, Tableau, VBScript, Excel, PowerPoint, G-suite
+Interests: Caligraphy, Yoga, Escape Room",94

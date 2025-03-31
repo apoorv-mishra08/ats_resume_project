@@ -1,0 +1,51 @@
+JAI KRISHNA CHAPARALA
++91 81700 51443 | j aikrishna.chaparala@princeton.edu | L inkedIn:// j aikrishna-chaparala
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance, Bendheim Center for Finance S ept 2021 - Jun 2023
+Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Financial Econometrics, Machine Learning
+Indian Institute of Technology Kharagpur Kharagpur, India
+B.Tech. (Honours), Computer Science, C GPA: 8.93/10.0 J ul 2014 - May 2018
+Senior Thesis: C hatbots for Ecommerce, G rade: 10.0/10.0
+EXPERIENCE
+Goldman Sachs Bengaluru, India
+Associate, Market Risk Strats J ul 2018 - Jul 2021
+● Developed a PnL approximation algorithm to significantly speed-up Monte Carlo simulation-based VaR calculation.
+● Developed regression models, dimensionality reduction and error metrics to approximate daily VaR with < 2% error.
+● Saved $12MM/year in recurring costs by reducing ~1MM peak CPU hours usage per day by cutting down the number
+of scenarios priced daily for VaR from 16bn to 4bn, and 30k AWS cores were returned as a result.
+● Optimized IR risk factor VaR, stress test models using market data APIs, resulting in cost reduction of ~$5MM/year.
+● Developed the IMA pricing, risk calculation framework, and capital calculation models under FRTB regulations.
+● Developed IR and Inflation risk models, NII models and conducted quantitative impact studies for capital estimation.
+● Awarded the highest performance rating conferred on top-quartile performers globally and promoted to Associate.
+D.E. Shaw Hyderabad, India
+Quant Developer Intern, Long-Short Equity M ay 2017 - Jul 2017
+●Developed a model leveraging Natural Language Processing and Fuzzy Searching to extract geolocation and retail store
+identifier info using the description field of a huge proprietary American credit card dataset with > 4bn transactions.
+●Achieved 60% better identification of geotagging than the data vendor and > 95% extraction rate of store-id information.
+●Received an offer to join the Long-Short Equity Alternative Data team as a full-time quantitative developer.
+BigClozet Bengaluru, India
+Machine Learning Internship M ay 2016 - Jul 2016
+●Developed color segmentation and pattern recognition modules using open-cv and sklearn for apparel.
+●Used transfer learning on pre-trained GoogleNet architecture-based deep CNNs to classify footwear into sub-categories.
+RESEARCH AND PUBLICATIONS
+Indian Institute of Technology - Department of Computer Science Kharagpur, India
+Chatbots for Ecommerce: Senior thesis in collaboration with C apillary Technologies A ug 2017 - May 2018
+●Developed statistical and deep learning models to reduce user-interaction time with chatbots for optimal order placement.
+●Automated Q/A, search, review summarization, and feature specific sentiment analysis for Amazon’s electronics dataset.
+Publication: S rivastava Avikalp, Madhav Datt, Jaikrishna Chaparala, Shubham Mangla, and Priyadarshi Patnaik. "Social
+Media Advertisement Outreach: Learning the Role of Aesthetics." Proceedings of the 40th annual international A CM
+SIGIR Conference on Research and Development in Information Retrieval. ACM, 2017.
+AWARDS & HONOURS
+●2017 Amazon Code Wizard Challenge: Winner in the 3-stage countrywide Machine Learning hackathon by Amazon.
+●2017 Capillary Data Science Challenge: Winner in the 2-week ML competition held by Capillary Technologies.
+●2017 Microsoft Artificial Intelligence Hackathon: Runner-up (2nd place) among 200 participant teams.
+●2014 JEE Mains: Secured 13th place in India among 1.5 million participants with a score of 340/360.
+●International Olympiads: Qualified to India finals(Stage 3) in Astronomy(Top 20-India) and Junior Science(Top 40-India)
+●South Indian Mathematics Olympiad: Ranked 6th/~60,000 in the 2-stage national mathematics competition.
+●Scholarships: NTSE(Top 0.2% in India, Govt. of India), KVPY(Govt. of India).
+ADDITIONAL INFORMATION
+Languages: English, Hindi, Telugu, Malayalam.
+Programming Experience: C ++, Python, Java, SQL, NLTK, Sklearn, Scipy, Pandas, Statsmodels, etc.
+Interests: P oker, Cricket(NSO-IIT Kharagpur), Cryptocurrencies, Reading, Piano, Chess.
+Others: P rovided technical and career mentorship to students and early professionals across India through Scaler Academy.

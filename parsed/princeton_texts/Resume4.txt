@@ -1,0 +1,54 @@
+Arjun Goyal
+Princeton, NJ | Tel: +852-9140-6745 | E-mail: ag8178@princeton.edu | linkedin.com/in/arjun-goyal/
+EDUCATION
+PRINCETON UNIVERSITY Princeton, NJ
+Master of Finance May 2023 (expected)
+• Anticipated Coursework: Asset Pricing I & II, Statistical Analysis of Financial Data, Fixed Income: Models and Applications
+NEW YORK UNIVERSITY, Leonard N. Stern School of Business New York, NY
+Bachelor of Science in Business concentrating in Statistics, Finance, with a minor in Mathematics May 2020
+• GPA: 3.936 / 4.0
+• Dean’s List: 2016-2020; Beta Gamma Sigma honors society member, for sustained academic excellence
+• Award for Academic Excellence in Finance for Class of 2020
+PROFESSIONAL EXPERIENCE
+MORGAN STANLEY Hong Kong SAR
+Analyst, Fixed Income Capital Markets July 2020 – Present
+• Formulated and modeled numerous FX, interest rate and commodity risk management solutions to compile pitches for corporate
+clients and sponsors in the Asia-Pacific region
+• Contributed to sourcing and executing multiple FX hedging transactions around liability issuances, particularly for Indian
+renewable energy companies
+• Assisted in internal risk assessment, execution and settlement of a deal contingent FX hedge surrounding an M&A transaction in
+a restricted currency market
+• Facilitated sourcing and execution of cross-border debt private placements for Asian clients, with a focus on EM currency
+denominated debt
+Summer Analyst, Fixed Income Capital Markets June 2019 – August 2019
+• Compiled more than 15 pitchbooks and discussion materials for potential debt issuances options for prospective clients
+• Created in-depth analysis of the US-China trade war’s effect on the shipping industry for a client engaged in a leveraged finance
+transaction; analysis helped form internal risk assessment decisions
+• Modeled and created discussion materials for fixed income derivative strategies for clients using instruments like swaps, options,
+commodity derivatives and cross-asset solutions
+MACQUARIE GROUP Singapore
+Intern, Commodities and Global Markets July 2018 – August 2018
+• Created multiple INR currency valuation model using macroeconomic inputs for fixed income trading team
+• Formulated an indicator to measure liquidity levels of inter-bank lending market in India and correlated it to corporate bond yields
+over time to research new debt trading strategies
+• Compiled world marine port database, with over 12,000+ ports, as part of a vessel tracking software that would be used by
+Commodities Structured Finance team; wrote Visual Basic code for prototype of this software for the quantitative strategy team
+RESEARCH EXPERIENCE
+Hot Racquet or not? An Exploration of Momentum in Grand Slam Tennis Matches July 2019 – July 2020
+• Collaborated with Professor Jeffrey Simonoff at NYU Stern to identify and analyze momentum trends in Grand Slam tennis
+matches; submission as part of senior honors thesis program
+• Applied Generalized Linear Mixed Effects models using R on set, game and point levels of match data since 2016
+• Formulated data scraping code on Python to compile and clean match data for analysis
+Stern Program for Undergraduate Research January 2018 – May 2018
+• Assisted Professor Sabrina Howell at NYU Stern and compiled quantitative ICO data for over 30 different cryptocurrencies,
+including funds raised and pricing strategy used during ICO process, to examine factors that lead to successful cryptocurrency
+launches
+LEADERSHIP, SOCIAL IMPACT & EXTRACURRICULAR ACTIVITIES
+• Executive Vice President of Internal Affairs and Leadership Director at NYU’s Net Impact Club, a student group focused on the
+intersection of business and social impact
+• Volunteering: Intern at Outreach and communications department of Yuva Parivartan in Mumbai (June - July, 2015); Intern at
+Safe Water Network India Trust (June 2018)
+• Editor and Writer at the Economics Review Publication at NYU
+• Languages: English (native), Hindi (native)
+• Software: Excel/VBA (Intermediate), R (Intermediate), Python (Intermediate, Web Scraping)
+• Interests: Drummer and music lover, travelling, photography, running, Bayern Munich, Chipotle bowls

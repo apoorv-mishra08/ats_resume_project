@@ -1,0 +1,53 @@
+Yuyang (Eric) Chen
+(+86) 135-8636-9008 | yuyang.chen@princeton.edu
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance, Bendheim Center for Finance Sep 2021 – May 2023
+ Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Financial Econometrics, Statistical Theory
+and Methods, Machine Learning
+Peking University, Guanghua School of Management Beijing, China
+Bachelor of Economics in Finance Sep 2017 – June 2021
+ GPA & Honors: 3.94/4.00 (1/160); National Scholarship (Top 1%), May 4th Scholarship (Top 1%), Arawana Scholarship
+(Top 1%), Freshman Scholarship (Top 5%), Merit Student of Peking University (Top 1%)
+ Relevant Coursework: Mathematical Methods in Finance, Stochastic Analysis, Time Series Analysis, Asymptotic Statistics,
+Data Structure & Algorithm, Fixed Income Securities, Financial Econometrics, Regression Analysis
+The University of Chicago Chicago, IL
+Exchange student Program, Selected by Peking University Sep 2019 – Dec 2019
+ GPA: 4.0/4.0; Coursework: Financial Instruments (A+), Option Pricing, Multivariate Data Analysis, Econometrics
+PROFESSIONAL EXPERIENCE
+Goldman Sachs Hong Kong, China
+Strats Summer Analyst, EQ Securitized Derivatives Strats, Global Markets Division July 2020 – Aug 2020
+ Developed programs in Python and Slang to automatically extract, organize, enrich and visualize the data of structured
+derivatives trading and created a dashboard to display the newly created dataset
+ Applied regression methods using Python to identify patterns in structured derivatives demand and gross credit, and explored
+their relationship with various variables including interest rates and market returns to provide insights for raising profits
+Trexquant Stamford, CT (Remote)
+Remote Intern, Global Alpha Researcher Jan 2020 – Apr 2020
+ Investigated recent academic research, and applied statistical techniques to develop market-neutral, medium-frequency
+Alphas from revenue, price target and EPS forecast data in sell-side databases (I/B/E/S)
+ Identified useful variables using US weather data for predicting policy losses of insurance companies, wrote downloading
+scripts for the data in Python, created data visualization, and conducted Alpha research based on them
+Wizard Quant Zhuhai, China
+Summer Analyst, Quantitative Research Jun 2019 – Aug 2019
+ Performed statistical analysis on financial statement data and identified signals for Chinese stocks with R and Python
+ Developed algorithms in Python for Alpha back-testing and performed in-depth study to improve the alpha performances
+PROJECTS & RESEARCH EXPERIENCE
+Peking University, Guanghua School of Management Beijing, China
+Research Assistant, Marginal Maximum Likelihood Estimates for Stochastic Volatility Models Mar 2019 – Apr 2021
+ Applied Ito-Taylor and Stratonovich-Taylor expansion on the Fisher information for the MMLE of SV model, developed
+programs in Mathematica and Python for its symbolic implementation, and derived its asymptotic properties
+UBS Global Markets Hackathon 2019: 2nd place Oct 2019 – Nov 2019
+ Constructed hedging strategies on a portfolio of bond assets, reducing the out-sample maximum drawdown by over 70%
+ Applied statistical and machine learning methods including PCA to optimize the performance of the hedged portfolio
+MCM/ICM Mathematical Contest in Modeling 2019: Meritorious Winner Jan 2019
+ Constructed a model of the energy consumption of a fictional dragon and the ecosystem using ODE and PDE by MATLAB
+to estimate the ecological requirements and growing process of the dragon and conducted sensitivity analysis on it
+Bain Cup Competition 2018: Led a team of 4 to conduct consulting case analysis, Top 4 of China May 2018
+LEADERSHIP
+Peking University Hedge Fund Association Beijing, China
+Quantitative Department President Sep 2020 - Present
+ Organized experience-sharing sessions and seminars on quantitative research and trading
+SKILLS & INTERESTS
+ Language: Chinese Mandarin (native), Chinese Shanghainese (fluent)
+ Technical: C/C++, Python, MATLAB, R, Mathematica | Microsoft Office | LaTeX
+ Interests: Football, tennis, movies, calligraphy (received 10+ awards above the municipal level)

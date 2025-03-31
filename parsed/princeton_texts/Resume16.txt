@@ -1,0 +1,50 @@
+Ryan Slattery
+122 East Indiana Ave, Beach Haven Terrace, NJ 08008 | (908) 239-4246 | ryanps@princeton.edu
+EDUCATION
+PRINCETON UNIVERSITY Princeton, NJ
+Master in Finance Candidate, pursing Graduate Certificate in Machine Learning September 2021 – May 2023
+• Anticipated Coursework: Statistical Analysis of Financial Data, Financial Econometrics, Machine Learning and Pattern
+Recognition, Statistical Theory and Methods, Linear & Nonlinear Optimization, Statistical Foundations of Data Science
+PRINCETON UNIVERSITY Princeton, NJ
+Bachelor of Science in Engineering, Major in Operations Research & Financial Engineering (ORFE) September 2012 – May 2016
+Certificates (Minors) in Computer Science & Finance
+• Cumulative GPA: 3.9/4.0, Summa Cum Laude, ORFE Department’s Highest Honors
+• Honor Societies: Phi Beta Kappa (National Academic Honor Society), Tau Beta Pi (National Engineering Honor Society),
+Sigma Xi (Scientific Research Honor Society)
+• ORFE Coursework: Regression and Applied Time Series, Operations and Information Engineering, Financial Mathematics,
+Risk Analysis, Probability and Stochastic Systems, Queuing Theory, Optimization, Statistics
+• Computer Science Coursework: Algorithms and Data Structures, Computing and Optimization, Programming Systems
+• Math Coursework: Multivariable Calculus, Linear Algebra, Ordinary Differential Equations, Partial Differential Equations
+PROFESSIONAL EXPERIENCE
+GOLDMAN SACHS New York City, NY
+Strats (Quant) Associate, Equity Derivatives & Convertible Debt, Investment Banking March 2018 – April 2021
+• Responsible for modeling, pricing, and analyzing risks associated with a range of exotic equity derivatives deployed in
+GS’s proprietary securities database; products included share repurchase and share sale programs, convertible debt, and
+equity hedging instruments for corporate clients
+• Developed production models for bespoke derivatives for real-time risk calculations, utilizing backwards induction and
+Monte Carlo methodologies as well as various volatility models
+• Optimized and deployed execution strategies through the implementation of heuristics and gradient descent techniques for the
+buyback desk
+• Implemented machine learning algorithms that employed dimensionality reduction and gradient boosting methods as well as
+regression analysis to proactively identify candidates for derivative products; models utilized disparate datasets across trading
+characteristics, corporate fundamentals, and shareholder data
+Strats (Quant) Analyst, M&A and Corporate Finance, Investment Banking June 2015 – August 2015, July 2016 – February 2018
+• Quantified the impact of various strategic and financial decisions made by corporates on shareholder and enterprise value
+through the application of classical econometrics and time series analysis as well as modern machine learning and big data
+techniques; replicated research from relevant academic papers to answer questions posed by corporate institutions
+• Developed statistical analyses to measure the impact of changes in business profitability metrics on valuation, predict the
+likelihood of activist campaigns based on corporate fundamentals, and understand post-M&A announcement performance
+• Analyzed shareholder flows to measure and predict investor demand, reaction, and sentiment to corporate actions,
+especially in the context of transformative M&A transactions or major shifts in capital return policy; deployed internal
+applications to provide teams with real-time access to analytics
+• Optimized corporate capital structure and capital allocation plans through Monte Carlo simulations of relevant business factors
+that impact revenue and costs to understand leverage and cashflow risks
+RESEARCH EXPERIENCE
+PRINCETON UNIVERSITY Princeton, NJ
+Senior Thesis, “A Statistical Analysis of Delinquency and Prepayment Risk in Subprime MBSs” September 2015 – April 2016
+• Provided a statistical framework to quantify default and prepayment risks of mortgage-backed securities using monthly data on
+millions of loans from the early 2000s to assess the appropriateness of agency ratings in the wake of the 2008 Financial Crisis
+• Winner of the S.S. Wilks Memorial Prize for the best thesis on “statistics and its applications to solving societal problems”
+SKILLS & INTERESTS
+• Computer Languages: Python, R, SQL, Java, C, Tableau
+• Interests: Surfing, Sudoku, Long Distance Biking, Pickleball

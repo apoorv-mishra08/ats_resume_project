@@ -1,0 +1,60 @@
+Hange (Cathy) Zhu
+415 South Street, Waltham, MA | hz7741@princeton.edu | +86-150-1106-5206
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance Candidate, Bendheim Center for Finance August 2021 – Expected May 2023
+• Anticipated Courses: Statistical Analysis of Financial Data; Financial Econometrics; Asset Pricing; Stochastic
+Calculus; Machine Learning and Pattern Recognition
+Brandeis University Waltham, MA
+Bachelor of Science in Applied Mathematics, Bachelor of Science in Economics August 2017 – December 2020
+• GPA: 3.92 / 4.0; Honors: Phi Beta Kappa, magna cum laude, Dean’s List
+• Fields of Study: Stochastic Processes and Models; Probability Theory; Differential Equations; Mathematical
+Statistics; Applied Linear Algebra; Advanced Programming Techniques in Java; Econometrics; Mathematics for
+Natural Sciences
+WORK EXPERIENCE
+Alibaba Group Company Beijing, China
+Data Analyst Remote Assistant, Business Intelligence Department June 2020 – August 2020
+• Researched fresh food e-commerce industry in both pre and post COVID periods in mainland China, including
+tracing fresh food industry development history and supply chain deficiencies, analyzing three modes’ (warehouse,
+community group buy, and O2O) leading companies and their performances, predicted how the industry and
+consumer behaviors would be influenced by COVID. Conducted cluster analysis of China’s cities by R.
+• Researched O2O chocolate candy industry development and major players in the field by looking through
+Euromonitor datasets, market research, and financial statements.
+• Participed in the the investment group and applied Deep Deterministic Policy Gradient (DDPG) algorithm to train
+the investment portfolio management model.
+Zhongtai Securities Co., LTD Beijing, China
+Summer Assistant, Investment Banking Department June 2019 – August 2019
+• Assisted with an M&A project in the sharing economy and conducted industry research on the bike sharing
+market, including the evaluation of two companies’ financial reports, analyzing the comparative companies’
+market shares, financial indexes, predicting future development directions and market share.
+• Participated in analyzing the acquired company’s valuation by researching its financing history and core
+technologies, identifyed key market leaders and competition.
+RESEARCH & COURSE PROJECTS
+Brandeis University, Applied Mathematics Department Waltham, MA
+Research Assistant, Chemical Oscillations Project January 2020 – August 2020
+• Analyzed PDEs models in biological supplements by collaborators from the Department of Chemistry to
+numerically convert them in weak formulation.
+• Dug into the relationship between nondimensionalized concentrations of HBrO and Ru(bipy) 3+, and the volume
+2 3
+fraction of polymer by analyzing and visualizing PDEs in MATLAB, FreeFem++ and Mathematica. Updated
+solution results to research team, including analyzing unexpected numerical fluctuations and blow-ups.
+• Hunted for the directional locomotion of the gel driven by autonomous propagation of pulse waves in 1D system
+and the periodic migration of the gel with illumination-induced instability in 2D system.
+Brandeis University, Applied Mathematics Department Waltham, MA
+Biodiversity Model and Its Application in Python Project December 2019
+• Modeled Python program based on the mathematical models from “The Measurement of Diversity in Different
+Types of Biological Collections” by E. C. Pielou.
+• Generated biodiversity trend in Finglandrigg National Reserve, UK by reconstructing and applying real-world
+dataset to the Python model in visualized format.
+Brandeis University, Business Department Waltham, MA
+Oracle and Salesforce Financial Analysis Project April 2019
+• Analyzed financial comparisons between Oracle and Salesforce by examining financial statements and indexes
+obtained from Capital IQ, including comparing asset profitability, equity profitability, and debt repayment ability.
+LEADERSHIP AND INVOLVEMENT
+Brandeis University, Chinese Student Association (BC3) Waltham, MA
+President September 2019 – May 2020
+• Organized activities associated with Chinese traditional festivals and collaborated events with other cultural clubs.
+SKILLS AND INTERESTS
+Technical Skills: Python, Java, R, MATLAB, SQL, Excel.
+Languages: Mandarin (Native)
+Interests: scuba diving, photographing, LEGO building.

@@ -1,0 +1,49 @@
+Dorothy Zhang
+825-437-0287 | dz0596@princeton.edu
+Education
+Princeton University Princeton, NJ
+Master in Finance, Certificate in Machine Learning Sept. 2021 – May 2023
+• Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Financial Econometrics, High
+Frequency Trading, Fixed Income Models and Applications, Quantitative Data Analysis in Finance
+University of Toronto Toronto, ON
+BASc in Engineering Mathematics, Statistics and Finance, Minor in Artificial Intelligence Sept. 2016 – May 2021
+• CGPA: 3.92/4.00
+• Coursework: Linear Algebra, Probability and Statistics, Multivariable Calculus, Differential Equations, Stochastic
+Processes, Financial Optimization Models, Computer Algorithms and Data Structures
+• Capstone Project: Multiperiod Robo-Investment Wizard (used robust MVO, CVaR, PCA, LSTM, HMM)
+• Certificate: C++ Programming for Financial Engineering with Distinction, Baruch College
+Professional Experience
+Borealis AI Waterloo, ON
+Research Intern May 2020 – Aug 2020
+• Priced callable swaps using Least Squares Monte Carlo simulation and the Vasicek model.
+• Used feed-forward neural networks to imitate Monte Carlo pricing, improving efficiency by orders of 104.
+• Wrote a technical report conducting literature reviews and detailing methodology and results.
+Royal Bank of Canada Toronto, ON
+Data Scientist Intern Sept 2019 – May 2020
+• Identified anomalous behaviour for insider trading using unsupervised KNN, improving efficiency by 102.
+• Built credit risk models with logistic regression, random forest, and xgboost.
+• Improved AUC of existing models by 10% by applying oversampling techniques to combat imbalanced data.
+Bank of Montreal Capital Markets Toronto, ON
+Quantitative Analyst Intern May 2019 – Aug 2019
+• Wrote a predictive trading algorithm based on technical indicators.
+• Generated labels using triple barriers and meta-labelling, created features including the Hurst exponent, RSI, and
+%K, and used combinatorial purged cross-validation to tune a random forest model.
+• Identified optimal strategy that had 1.5 times higher Sharpe ratio than the S&P500 index.
+Research Experience
+University of Toronto Rotman Finance Toronto, ON
+Research Associate Sept 2020 – present
+• Working with Prof. John C. Hull to generate synthetic market data with various deep generative models.
+• Using stylized facts for financial time series to measure the performance of variational autoencoders, restricted
+Boltzmann machines, and generative adversarial networks.
+• Hired as research associate upon completion of undergraduate thesis with team.
+University of Toronto Engineering Toronto, ON
+Undergraduate Researcher Sept 2019 – Sept 2020
+• Worked with Prof. Chi-Guhn Lee to apply quantum annealing graph algorithms to portfolio management,
+identifying asset correlations through clustering.
+• Compared the speed and quality of quantum and classical optimization algorithms for community detection.
+• Created multiplex networks to capture the change throughout time of asset correlations in the S&P500.
+Skills and Interests
+Languages: Python, C++, MATLAB, R, C, SQL, VBA, AMPL, Git
+Clubs: U of T Rotman Finance Lab (Lab Development Specialist), IEEE U of T (Finance Director), U of T Consulting
+Association (Finance Director), U of T Engineering Finance Association, Engineers Without Borders
+Interests: Table Tennis (Bronze Medalist, Canada Winter Games), Chinese Bridge, Collecting/Trading Virtual Dragons

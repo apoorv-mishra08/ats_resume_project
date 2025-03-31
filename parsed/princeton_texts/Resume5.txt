@@ -1,0 +1,46 @@
+Lina Huang, CFA
+360 E. 89th Street, New York, NY • lina.huang@princeton.edu • (630) 770-5101
+EDUCATION EXPERIENCE __
+Princeton University (Bendheim Center for Finance) Princeton, NJ
+Master in Finance Expected May 2023
+Columbia University (School of Engineering and Applied Science) New York, NY
+Bachelor’s Degree in Operations Research Sep. 2014 – May 2017
+GPA: 3.81 Honors: Magna Cum Laude, Tau Beta Pi Engineering Honor Society, Dean’s Lists
+WORK EXPERIENCE _
+AllianceBernstein Holding L.P. New York, NY
+Quantitative Researcher Sep. 2020 – Jul. 2021
+• Developed an Emerging Market Risk Indicator using machine learning classification algorithms; back-tested
+1000+ different combinations of parameters for a risk timing strategy against the Emerging Markets (EM)
+index. Constructed a trading strategy using a basket of liquid market EM Credit Default Swaps and CDX.
+• Created an EM Slope cross-sectional factor model using a combination of macroeconomic and technical factors,
+and risk indicators; backtested a trading strategy using the interest rate swaps of 13 liquid EM countries.
+• Revamped the global rates model to reduce portfolio turnover with transaction cost included in the optimization
+process; conducted research on 20+ potential new rate factors to be incorporated into the model.
+• Served on the leadership board of AB Asians, an employee resource group, to promote diversity since 2017.
+Currency Strategy Rotational Associate/Currency Strategist Jul. 2018 – Aug. 2020
+• Devised quantitative investment strategy for currency overlays of $30 billion Global Fixed Income portfolios,
+which derive 30-50% of total risk from FX, and $300 million currency-only unconstrained portfolios.
+• Lead the quantitative research team on developing new systematic FX strategies for all-country and G10-only
+universes by researching model factors and construction methods, followed by backtesting trading strategies.
+• Revamped the previous mean-variance portfolio optimization process using Python; increasing the capacity
+from optimizing one portfolio at a time to doing 80+ simultaneously.
+• Conducted analysis on optimal FX hedging strategy and ratios using Monte Carlo Simulation for Asian clients.
+Rates Trading Rotational Associate Jan. 2018 – Jun. 2018
+• Traded U.S. Treasuries, TIPS, G10 Interest Rate Swaps.
+• Developed short-term trading signals using market positioning data (CFTC futures, major bond funds betas).
+• Conducted research on the optimal time for duration month-end rebalancing and intraday trade opportunities
+Quantitative Research Rotational Associate Jun. 2017 – Dec. 2017
+• Created an Orthogonal Exponential Spline model to fit the U.S. Treasury yield curve and calculate the spread to
+splines of the treasury bonds. The model was used as a prototype to fit global government bond yield curves.
+• Developed a Treasury Relative Value Tool using the spline model to provide color for the Rates Trading team
+on market mispricing and for the portfolio managers to screen the cheapest/richest bonds within their portfolios;
+the tool is currently used as the primary tool for treasury bond selections.
+• Managed 3 paper portfolios for U.S. IG Credit that isolate and track the performance of quant signals;
+developed automated monthly rebalancing and performance tracking processes for the portfolios using R.
+• The paper portfolios served as a prototype of the Systematic U.S. IG Strategy that AB developed in 2019.
+Fixed Income Summer Rotational Intern Jun. 2016 – Aug. 2016
+Quantitative Research Rotation: developed a Credit Default Swap Index trading strategy
+Securitized Product Rotation: conducted industry level analyses in Commercial Real Estate and CMBS
+SKILLS AND INTERESTS _
+Skills: Python, R, SQL, Mandarin Chinese, Microsoft Office, Bloomberg Terminal
+Interests: traveling and experiencing different cultures, drawing since the age of 6, snowboarding, golfing

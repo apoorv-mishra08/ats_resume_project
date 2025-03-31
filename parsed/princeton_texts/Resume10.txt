@@ -1,0 +1,48 @@
+Xuechen Li
+xl3079@princeton.edu | (86)181-0392-9978 | linkedin.com/in/xuechen-li-princeton
+EDUCATION
+Princeton University Princeton, NJ
+Candidate for Master in Finance Expected July 2023
+Tsinghua University, School of Material Science and Engineering Beijing, China
+Bachelor of Engineering, Major in Material Science and Engineering, GPA: 3.93/4.00 | Ranking: 1/117 Aug 2017 – June 2021
+ Relevant Courses: Applied Stochastic Process, Convex Optimization, Numerical Analysis, Data Structures, C++ Programming,
+Machine Learning, Introduction to AI.
+ Awards: Scholarship of Comprehensive Excellence of Tsinghua University (3 times), Second Prize in 11th National
+Mathematics Competition of Undergraduates, Third Prize in 5th THU iCenter Quantitative Strategy Tournament
+Tsinghua University, School of Economics and Management Beijing, China
+Bachelor of Economics, Major in Economics (Finance), GPA: 4.00/4.00 Jun 2018 – June 2021
+ Relevant Courses: Econometrics, Fixed Income Securities Analysis, Investment, Corporate Finance
+PROFESSIONAL EXPERIENCE
+Ubiquant Investment Beijing, China
+Intern Data Analyst, IT Group Jun 2020 - Sept 2020
+ Completed several risk indicators and constructed stock concept portfolio control module for intraday trading risk control
+ Performed refactoring of the risk control system to meet the requirements of a data-computation splitting framework
+China Securities Beijing, China
+Intern Analyst, Derivatives Trading Department Jan 2020 - Feb 2020
+ Executed different numerical methods in Python to price barrier options accelerating price path simulation
+ Conducted research to beta-hedge long positions with ZZ500 stock index futures
+China Galaxy Securities Co., LTD. Beijing, China
+Intern Analyst, Sales and Trading Department Jun 2019 - Sept 2019
+ Improved script quality: applied Numba module to optimize Python scripts for pricing and designed test suites for them
+RESEARCH EXPERIENCE
+Tsinghua University, CSE Department Beijing, China
+Application of Deep Learning Models in Computer Vision Tasks Sept 2020 - Nov 2020
+ Combined classical computer vision models for the Tiny Image Dataset and ranked 5th in TinyImageNet Kaggle competition
+ Proposed a network based on UNet and ResNet to fit Steel Defect Dataset and got top 5% performance in Kaggle competition
+Tsinghua University, AI Lab Beijing, China
+iCenter Quantitative Strategy Tournament Jan 2020 - Jun 2020
+ Designed a timing strategy based on selected technical and morphological factors to train an XgBoost Decision Tree, which
+achieved good performance in Chinese market in the 5-year back test
+Stanford University (Online RA) Online
+Research Assistant, Application of Artificial Intelligence and Big Data in Quantitative Trading Sept 2018 - Jan 2019
+ Applied machine learning algorithms with Python to complete a multi-factor strategy including data processing, factor
+construction and selection, prediction, and back tests on more than 5 years of stock data in the China A-shares Market
+LEADERSHIP EXPERIENCE
+Tsinghua University, School of Material Science and Engineering, Student Union Beijing, China
+Group Leader, Social Practice Management Group Sept 2018 – Sept 2019
+ Organized more than 15 social practice teams and connected them with companies and governments
+ Led a social practice team and won first prize among more than 50 teams in the social practice program of Tsinghua University
+SKILLS
+ Programming: Python, C/C++, MATLAB, SQL, Latex/Markdown
+ Python Modules: SciPy, NumPy, Pandas, scikit-learn, PyTorch
+ Language: Chinese (Native)

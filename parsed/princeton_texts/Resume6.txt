@@ -1,0 +1,66 @@
+Zixun Huang
+zh7169@princeton.edu| (086) 15210267278
+EDUCATION
+Princeton University Princeton, NJ
+ Master in Finance 08/2021-05/2023
+ Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Corporate Finance and Financial
+Accounting, Financial Econometrics
+Brandeis University Waltham, MA
+Bachelor of Science in Economics, Applied Mathematics, Minor in International and Global Studies 08/2017-05/2021
+ Major GPA: 4.0/4.0; Cumulative GPA: 3.9/4.0; (Phi Beta Kappa, Magna Cum Laude, Dean’s List)
+ Relevant Coursework: Applied Linear Algebra, Multivariable Calculus, Fourier Series and PDEs, Probability,
+Statistics and Data Analysis, Real Analysis, Optimization, Advanced Programming in Java, Data Structures, Financial
+Economics, Advanced Econometrics, Game Theory, Option and Derivatives
+University of Oxford Oxford, England
+Study Abroad Program 10/2019-06/2020
+ Cumulative GPA: 3.9/4.0
+PROFESSIONAL EXPERIENCE
+Guotai Junan Securities Beijing, CN
+Equity Research Analyst 11/2020-03/2021
+ Analyzed the fundamentals and financial data of automotive electronics product suppliers in China, interpret industry
+trends using Excel and VBA, and write equity research report using relative and absolute valuation method
+ Compared the advantages of Huawei Harmony 2.0, Google Fuchsia and TencentOS tiny, and quantify the impact of
+the launch of the operating systems on the market position of Windows in the PC market
+AAN Advisor Beijing, CN
+Analyst 05/2020-07/2020
+ Completed consumer stock selection, individual company research reports, and a market emergencies coping strategy
+report according to data obtained from various channels (including WIND, annual reports, third-party research reports,
+and official information websites, etc.)
+ Compiled monthly reports on private equity funds in Chinese and English based on fund manager interviews and asset
+performance data analysis
+ Established the rudiment of a risk management model through VBA
+Delian Capital Beijing, CN
+Analyst 08/2019-09/2019
+ Analyzed the product values and advantages of small to medium sized American companies in the gene therapy
+industry, completed industry analysis reports, and built mathematical models to predict future M&A price trends in
+the industry
+ Researched the trend of the internet multicloud management industry, analyzed the technology and marketing patterns
+of FIT2CLOUD, and participated in writing project introductions and due diligence reports
+Beijing Sihai Management Consulting Ltd. Beijing, CN
+Analyst 05/2018-08/2018
+ Analyzed whether or not a technology company should enter the Middle East market, including the analysis of the
+corresponding industry development trends, industry competition, and enterprise positioning, and conducted a
+feasibility report based on the analysis
+RESEARCH EXPERIENCE
+Brandeis University,
+Optimization of Task Assignment Model Based on Satisfaction Maximization Boston, MA
+Project Member 10/2020-12/2020
+ Developed a model using Python that maximizes workers’ happiness index on the basis of meeting various skill
+requirements, and solved the original problem and the dual problem at the same time to measure the impact of different
+constraints on the results and determine the optimality of the solution
+Research on Markowitz’s Portfolio Selection (1952) Boston, MA
+Project Leader 02/2019-04/2019
+ Adopted Python to optimize the graphical interpretation of covariance when n=3, and analyzed prices of 53 different
+assets in 2,520 trading days from 2006 to 2016 to find an optimal allocation of assets
+LEADERSHIP EXPERIENCE
+Brandeis University, Archon Yearbook Boston, MA
+Co-editor 09/2017-05/2021
+ Responsible for the yearbook’s operation, including finance management, communications with relevant companies
+and school officers, photo collection from other clubs, etc.
+Oxfordshire County Council Oxford, UK
+Student Consultant 01/2020-05/2020
+ Presented a feasibility report on carbon sequestration for the County Council based on the analysis of the distribution
+of land ownership and the carbon interception on different surfaces
+SKILLS
+ Programming Languages: C++ (1 year), Java (2 years), Python (2 years), Bloomberg (1 year)
+ Language: Native in Mandarin, advanced in English (TOEFL 115)

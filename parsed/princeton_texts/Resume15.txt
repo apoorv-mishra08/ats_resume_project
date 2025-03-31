@@ -1,0 +1,50 @@
+Zelong Qiu
+217-417-3233 | zelong430@gmail.com | www.linkedin.com/in/zelongq
+PROFESSIONAL EXPERIENCE
+Citadel Americas LLC New York City, NY
+Platform Engineering Team Apr 2019 - Present
+• Design and build the Citadel Task Service as a distributed, cloud native, asynchronous queue system that enables
+Commodity, Credit and Global Fixed Income quant research teams to train QR models at scale. Replace legacy task
+queues such as the MDL and the Orc Queue. Achieve significant cost saving and performance gain.
+• Implement all components for CTS such as controller, high-throughput data pipeline, failure detection, task status
+view server, auto re-queue etc. using Python, Kafka, Memcached, Datadog, Splunk, Nginx and MySQL.
+• Design and build the Citadel Kafka Service as the centralized messaging infrastructure for all post trade
+management, trading monitoring, risk control etc. across Citadel Asset Management and Citadel Security. Replace
+Citadel’s usage of third-party legacy data pipelines such as AMPS, Tibco, IBM MQ. Achieve significant cost saving
+and performance gain.
+• Automate the deployment and upgrade processes for Kafka clusters using Ansible Playbooks.
+• Build RestAPI, Service Manager UI, and command line tool for user to manage their CTS/CKS resources.
+• Build the monitoring and alerting system on key metrics and customized condition for CTS and CKS systems using
+Telegraf, Splunk and DataDog. Provide users with auto generated monitoring and alerting suits.
+• Act as primary owner of both CKS and CTS and first responder for daily operational tasks and occasional production
+issues. Supervise two junior engineers in the team as tech lead.
+Microsoft Redmond, WA
+Software Engineer Mar 2017 – Mar 2019
+• Designed and built Microsoft Machine Learning Server to enable users productionize customed ML models as
+micro-service with pre-defined APIs in Kubernetes system using RestAPI, Docker, .Net Framework, Python and R.
+• Designed and built server-side and client-side SDK features including:
+• Real-time Scoring: offered extremely low request-response latency and high concurrent throughput for large
+dataset. Achieved 10 to 100X performance gain.
+• Dedicated Service Pool: provided dedicated resources, initiated Python/R interpreter and pre-loaded
+dependencies for user selected ML models. Dramatic improved overall performance for large models.
+• Asynchronous Batch Execution: complemented the original Request-Response prediction paradigm with
+parallel row execution, asynchronous consumption and partial results. Greatly speeded up scoring time for
+large dataset with long running services.
+• Provided presentations and technical support to external and internal customers regarding new releases.
+• Conducted exploratory greenfield Proof of Concept projects including IoT edge device image recognition and
+large-scale natural language process with ML Server.
+Software Engineer Intern Jun 2016 – Aug 2016
+• Built a martingale-based time series anomaly detection module for Azure Machine Learning Studio.
+• Implemented algorithms for level changes detection, trend changes detection and seasonality identification.
+• Technical blog at https://msdn.microsoft.com/library/azure/96b98cc0-50df-46ff-bc18-c0665d69f3e3.
+EDUCATION
+Princeton University Aug 2021 – May 2023(Expected)
+Princeton, NJ
+Master of Finance
+Harvard University Aug 2015 - Mar 2017
+Cambridge, MA GPA 3.71/4.0
+M.S in Computational Science and Engineering
+University of Illinois Urbana Champaign Aug 2010 - May 2015
+Urbana, IL GPA 3.66/4.0
+B.S in Applied Mathematics [High Distinction]
+B.S in Industrial Engineering [Honor]

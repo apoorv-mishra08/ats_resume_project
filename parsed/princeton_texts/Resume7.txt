@@ -1,0 +1,48 @@
+Farouk Khlifi
+(cid:72)+336-66-08-69-34 • (cid:66)fk5093@priceton.edu • fl LinkeIn(cid:135) GitHub
+EDUCATION
+PrincetonUniversity Princeton,NewJersey
+MFinBendheimCenterforFinance September2021–May2022
+AnticipatedCoursework: StatisticsTheoryandMethods,Econometrics,HighFrequencyTradingandFinancialmicrostruc-
+ture,TheoreticalMachineLearning.
+EcolePolytechnique Palaiseau,France
+AppliedMathematics, MajorGPA–3.9 August2018–August2021
+Relevantcourses: Algorithmics,OperationsResearch,StatisticsandMachineLearning,Stochastics,Microeconomics.
+LycéeHenriPoincaré Nancy,France
+TheoreticalMathematicsandPhysicsMajor,ComputerScienceminor,GPA:4.0/4.0Rank1/80+ August2016–August2018
+RelevantCourses: LinearAlgebra,RealAnalysis,Physics,ComputerScience,Chemistry,Philosophy
+WORK EXPERIENCE
+EislerCapital London,UK
+QuantitativeResearchIntern April2021–August2021
+(cid:123) UsedinnovativeintegerandfractionalprogrammingtechniqueswithsparsityrestraintstocompressbooksofIRswaps;
+achieved85%notionalreductionandimplementedthesolutioninC++
+(cid:123) Calibrateddifferentstochasticvanillamodels(SABR,Heston)fromswaptionsandcapsandcomparedthemwithhistorical
+valuestouncovertradingopportunities.
+BBG Berlin,Germany
+DataAnalyst June2020–August2020
+(cid:123) GeneratedsalesforecastswithReinforcementLearning.
+(cid:123) BuiltaninnovativemodelforstockmanagementtoreduceOut-of-Stockandmaximizecashavailability.
+RESEARCH EXPERIENCE
+EcolePolytechnique Palaiseau,France
+ResearchprojectinOperationsResearchandOptimization September2020–December2020
+Advisor:StephaneGaubert
+(cid:123) Provedthataninnovativealgorithmdoesnotsolvelinearprogramminginastronglypolynomialtime(anopenquestion
+incomputationaloptimizationknownasSmale’s9thproblemaskswhethersuchalgorithmexists)
+(cid:123) Usedtropicalgeometry,Lagrangemultipliers,simulationsinJulia
+Napoleon-Capital Paris,France
+ResearchprojectinEconomics September2019–March2020
+(cid:123) UsedHiddenMarkovModelsandotherMachineLearningmodelstoclusterthefinancialmarketsintodifferentsegments,
+andevaluatedtheeffectofthissegmentationonpredictionsofreturns
+(cid:123) UsedScikit-learn,Pytorch&hmmlearnlibrariesinPythonwithdimensionalityreductiontechniques.
+HONORS AND ACHIEVEMENTS
+(cid:123) 2019: HonorablementioninSWERC(Europe’sbiggestcompetitiveprogrammingteamchallenge)forhavingsolvedone
+ofthehardestproblemsinthecompetition
+(cid:123) 2019: BestEconomicsgroupprojectatEcolePolytechnique.
+(cid:123) 2018: FranceExcellenceandOCPScholarships
+(cid:123) 2016: SecondPrizeintheMoroccanPhysicsOlympiad(1000+participants)
+MISCELLANEOUS
+Programminglanguages: Python(PyTorch,Tensorflow),C++(Intermediate),Java,Julia,OCaml(functionalprogram-
+ming)
+Interests: Geopoliticsandinternationalrelations(podcastanimator),Electromusic(composing),Philosophy,Rapmusic
+Sport: Rowing(EcolePolytechniqueteam),Tennis
+Languages French:(Native),Arabic:(Native),Spanish:(IntermediateProficiency)

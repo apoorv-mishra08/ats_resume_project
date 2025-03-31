@@ -1,0 +1,47 @@
+SNEHA MOHAN
+sneham@princeton.edu| +91 9940122735
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance ( Machine Learning Track ) Expected 2021 - 2023
+● Expected Coursework : Asset Pricing, Statistical Analysis of Financial Data, Time Series Models, ComputationalFinance in
+C++, Financial Modelling, Financial Risk Management,Financial Econometrics, Fixed Income Models
+Indian Institute of Technology, Madras Chennai,India
+B.Tech in Mechanical Engineering;CGPA: 8.49/10 2015-2019
+● Relevant Courses: Linear Algebra for Data Analysis, Probability, Differential Equations, Machine Learning,Deep Learning for
+Imaging, Natural Language Processing, Data Structuresand Algorithms
+WORK EXPERIENCE
+JP Morgan Chase Mumbai, India
+Analyst Quantitative Research, Credit Electronic MarketMaking team July 2019 - May 2021
+● Analyzed large scale time series data to automaticallyextract insights for trading.
+● Developed computational frameworks to generate meaningfuldata.
+● Worked on the effort to automate trading.
+Citi Corp. Services India Pvt.Ltd Pune,India
+Summer Analyst, Kafka Browser and Spark Batching Service May- July 2018
+● Developed a web dashboard hosted in a Kafka serverto interact with payment data of the Russian Region.
+● Implemented features to create/delete messages, filterbased on date and keywords and entitlements to segregatedifferent
+category of users.
+PROJECTS AND RESEARCH EXPERIENCE
+Indian Institute of Technology, Madras Chennai,India
+Solving Partial Differential Equations using DeepNetworks January - May 2019
+Prof. Balaji Srinivasan
+● Developed a deep learning system to solve 1D and 2Dpartial differential equations. We achieved significantspeed up in
+solving the equation with no loss in accuracy whencompared to the traditional finite element methods.
+Indian Institute of Technology, Madras Chennai,India
+Representation Learning for articles using NeuralNetworks January - May 2019
+Prof. Sutanu Chakraborty
+● A neural network similar to the CBOW word2vec modelwas trained to learn document embeddings.
+● Compared the results of different architectures onsynthetic data sets and analysed the word and documentvectors obtained
+using this method.
+Indian Institute of Science, Bangalore Bangalore, India
+3D Reconstruction using Structured Light Patterns November 2016 - August 2017
+Prof. Ramsharan Rangarajan
+● Developed a 3D Reconstruction algorithm using imagescaptured by projecting structured light patterns.
+● Images taken from multiple poses were combined toget the reconstruction of the complete object.
+SCHOLASTIC ACHIEVEMENTS
+● 2017 - Awarded Summer Research Fellowship by IndianAcademy of Sciences.
+● 2015 - Awarded KVPY scholarship funded by the Department of Science and Technology, Government of India.
+● 2015 - All India Rank 41 in the admission merit listof Indian Institute of Space, Science and Technology.
+SKILLS AND INTERESTS
+Programming: Python, C++,OpenCV/C++,PyTorch
+Peer Advising: Academic Buddy and Mentor at IIT Madras - Directly mentored 6 first year students on theiracademic coursework.
+Interests: Running ,Cooking, Cycling

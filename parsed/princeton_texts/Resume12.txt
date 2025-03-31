@@ -1,0 +1,47 @@
+Zhuomin (Judy) Mao
+609-933-7887 judy.mao@princeton.edu linkedin.com/in/judymao Princeton, NJ
+Education
+Princeton University Princeton, NJ
+Master of Finance, Machine Learning Certificate Sep 2021 – May 2023 (Expected)
+Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Quantitative Data Analysis in
+Finance, Financial Econometrics, Financial Modeling, Fixed Income Models
+University of Toronto Toronto, ON
+Bachelor of Applied Science in Engineering Science with Specialization in Sep 2016 – May 2021
+Mathematics, Statistics and Finance, Minor in Artificial Intelligence, GPA: 3.95/4.00
+Relevant Coursework: Financial Optimization Models, Probability and Statistics, Multivariable Calculus,
+Differential Equations, Linear Algebra, Stochastic Processes, Computer Algorithms and Data Structures
+Business Experience
+Royal Bank of Canada Toronto, ON
+Business Data Analyst, Co-op Sep 2019 – Aug 2020
+• Drove production of a new acquisition model for predicting bankruptcy using regression and machine learning
+techniques, leveraging R, SQL and SAS.
+• Developed an efficiency-enhancing data cleaning and interpretation package using Python.
+• Redesigned Credit Limit Decrease program strategy by introducing new risk measures such as payment-based
+capacity, identifying over $1 million in exposed credit risk.
+Deloitte LLP Toronto, ON
+Summer Analyst May 2019 – Aug 2019
+• Created a fuzzy matching algorithm to identify over $500M in potential merger synergies leveraging Python.
+• Designed a custom database using data engineering to facilitate customer analytics.
+• Implemented a Microsoft Access UI tool as a key component of an on-going managed service.
+Research Experience
+University of Toronto, Department of Statistical Sciences Toronto, ON
+Research Assistant May 2021 – Present
+• Investigated reverse sensitivity analysis techniques in Python using the Wasserstein distance.
+• Developed reverse sensitivity analysis functions for R SWIM package.
+University of Toronto, Rotman School of Management Toronto, ON
+Thesis Student Sep 2020 – Apr 2021
+• Investigated contribution of optimism measures to any seasonality evidenced by NYSE bid-ask spreads.
+• Conducted seemingly unrelated regressions analysis leveraging Python.
+Leadership / Extracurricular Experience
+University of Toronto, Women in Science and Engineering Toronto, ON
+President May 2019 – Apr 2020
+• Led a team of over 50 students to succeed in various initiatives, including the two-day National Conference
+which boasted attendance of over 350 delegates from across the globe.
+University of Toronto, Institute of Electrical and Electronics Engineers Toronto, ON
+Marketing Chair May 2018 – Apr 2019
+• Organized marketing team to successfully promote various national events, including multiple hackathons.
+Skills
+Programming Languages: Python, R, C, SQL, MATLAB, SAS, Latex, HTML/CSS
+Languages: English (fluent), French (reading knowledge), Mandarin (conversational)
+Interests
+Jigsaw puzzles, archery, art.

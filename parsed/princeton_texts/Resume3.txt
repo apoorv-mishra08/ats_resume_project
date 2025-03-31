@@ -1,0 +1,57 @@
+Qingyang (Young) Gao
++86 159-6296-0721 | qg4580@princeton.edu
+EDUCATION
+Princeton University Princeton, NJ
+Master’s Degree in Financial Mathematics Aug 2021–May 2023 (Expected)
+• Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Energy and Commodities Markets
+• Pursuing Certificate in Machine Learning: Linear and Nonlinear Optimization, Statistical Foundations of Data Science
+Fudan University, School of Economics, School of Computer Science and Technology Shanghai, CN
+Bachelor’s Degree in Finance, with a Minor in Data Science Sep 2017–Jun 2021
+• Major GPA: 3.94/4.00; Rank: 2/80
+• Math Coursework: ODE, Stochastic Process, Stochastic Calculus in Finance, Time Series Analysis, Advanced Econometrics
+• Computer Science and Data Science Coursework: Python Programming, Application of Quantitative Analysis Software,
+Linux Operating System, Data Structure and Algorithm Analysis, Database Systems, Data Mining, Machine Learning
+• Finance Coursework: Financial Economics, Behavioral Finance, Financial Derivatives, Fixed Income Securities, Accounting
+University of Pennsylvania Philadelphia, PA
+International Guest Student Aug 2019–Dec 2019
+• GPA: 4.00/4.00. Relevant Coursework: Statistical Inference (A+), Mathematical Statistics (Graduate Level, A+), Calculus
+IV (Applied Partial Differential Equations) (A+), Computer Methods I (Numerical Analysis) (A+)
+WORK EXPERIENCE
+Ping An Technology Shanghai, CN
+Algorithm Engineer Intern, Knowledge Graph Team Oct 2020–Nov 2020
+• Built a pool of selective stocks based on analyst recommendations and rankings from 2015 to 2019; combined fundamental
+and technical factors to create a strategy achieving 26.5% annual return and 12.5% maximum drawdown
+• Authored model documentation for 30+ firm indicators, patterns, and signals for investments
+• Provided the firm with an established and systematic backtesting library using OOP in C++ to save over 95% of time
+Kaifeng Investment Management Shenzhen, CN
+Quantitative Research Intern, Quantitative Trading Department Apr 2020–Aug 2020
+• Created models based on hedging behavior of stock index futures and applied basis adjusted price-volume features to trading
+stock index futures using regression analysis, achieving an information coefficient (IC) of over 0.08
+• Analyzed and interpreted high-frequency data from the SSE Science and Technology Innovation Board (STAR) using Principal
+component analysis (PCA); discovered the significant intraday reversal effect of STAR market stocks
+• Developed and submitted 15+ market-neutral alphas with excellent performance; the alphas traded on the live market and
+achieved top 10% performance within the whole alpha pool
+Shanghai Luoshu Investment Shanghai, CN
+Quantitative Research Intern, Division of Investment and Research Jan 2020–Mar 2020
+• Identified statistically significant alphas in index futures overnight trading; spearheaded a team of interns to construct a factor
+model to obtain stronger alphas on index futures using Python
+• Applied machine learning techniques, including LASSO regression, ridge regression, decision tree, logistic regression, neural
+networks, and other models to predict overnight returns and evaluated factor performance
+• Implemented backtesting programs to calculate the Sharpe ratio, profit over turnover and other indicators; developed daily
+adjustment strategies with a Sharpe ratio above 3 and profit margin above 6.5 bps
+RESEARCH EXPERIENCE
+An Empirical Analysis of the Barillas-Shanken Six-Factor Asset Pricing Model in Chinese A-Share Market Shanghai, CN
+Research Assistant, Advisor: Professor Hongfei Zhu, Fudan University Apr 2021–Present
+• Studied the efficiency of Barillas-Shanken asset pricing factors including SMB, HML, and ROE using the Fama–MacBeth
+regression in R, compared the explaining effect of the cross-sectional return difference in stocks with other asset pricing models
+• Enhanced factor performance based on research of economic and financial interpretations in Fama and French (2016) etc.
+SSE 50ETF Option Implied Volatility Surface: Analysis of Stochastic Local Volatility Model Shanghai, CN
+Research Assistant, Advisor: Professor Xianglin Jiang, Fudan University Oct 2020–May 2021
+• Calibrated a stochastic local volatility model (SLV) to price the SSE 50 ETF option using the finite difference method and
+Monte Carlo simulation; predicted implied volatility of the SSE 50 ETF option
+• Built SSE 50 ETF option hedging strategy using SLV-projected delta; reduced hedging error by over 30% compared to the
+Heston stochastic volatility model in regard to Root Mean Square Error
+ADDITIONAL INFORMATION
+Computer skills: C++ (STL, Boost), Java, Python (pandas, scikit-learn, TensorFlow, PyTorch), R, MATLAB, SQL, LaTeX, Linux
+• Certificate with Distinction of C++ Programming for Financial Engineering from QuantNet Nov 2019
+Languages: Mandarin (native) Interests: Piano (Grade Examination of Piano Level 10 for Nonprofessionals), Fitness

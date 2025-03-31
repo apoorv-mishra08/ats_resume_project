@@ -1,0 +1,57 @@
+Jingyi (Joy) LI
+PKU Street Yanyuan, Haidian District, Beijing, China, 100871 | (86) 180-1971-1040 | jl3308@princeton.edu
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance Expected May 2023
+l Anticipated Coursework: Machine Learning, Statistical Analysis of Financial Data, Computational Finance in C++, Statistical Theory
+and Methods, Financial Econometrics, Asset Pricing
+Peking University Beijing, China
+Bachelor’s in Finance, School of Economics Sept. 2017-July 2021
+l Cumulative GPA: 3.81/4.00 | Ranking: 5/152
+l Awards: 2018 Leo KoGuan Scholarship (Top 5%), The Merit Student of PKU (Top 5%)
+l Coursework: Econometrics, Financial Accounting, Fixed-Income Securities, Financial Economics, Stochastic Analysis, Data Analysis,
+Data Structure and Algorithm, Time Series Analysis, Numerical Methods, Python, Machine Learning (Coursera), Deep Learning (Coursera)
+University of California, Los Angeles Los Angeles, CA, US
+Exchange Student, Economics, Dean’s List Sept. 2019-Dec. 2019
+l Coursework: C++ Programming, Stochastic Process, Ordinary Differential Equation (A+), Mathematics Finance
+EXPERIENCE
+Probquant Shanghai, China
+Intern, HFT Quantitative Research Jan. 2021-June 2021
+l Built and maintained intraday and cross-day alpha library using tick-level stock depth data, trade data, and order data
+l Conducted research about parameter influence on backtesting stability and validity, concluded and unified backtesting parameters
+l Backtested and refined reversal factors by comparing different industry classification methods, including KNN
+l Improved factor performance by alpha filtering using accessory factors and factor cutting using trade, volatility, time information
+l Trained rolling linear and XGB Models on a one-year minute level dataset of 1500 stocks to generate prediction signals of different
+periods. Combined signals and achieved an average excess return rate of 0.16% in each daily trade on China’s A-share market
+l Applied feature selection on 258 features by weight, gain and cover on a rolling basis to reduce overfitting
+Goldman Sachs (Singapore) PTE LTD Singapore
+Commodity Strats (Quant) Summer Analyst, Global Markets July 2020-Aug. 2020
+l Desk Strats: Performed backtests on delta-neutral hedging strategies on DCE and offshore iron ore market, examined Gabillon model
+in offshore iron ore market by comparing realized vol and implied vol surfaces, researched the differences between DCE margining
+and equity/futures style margining
+l Sales Strats: Conducted market research about the SGP power market, examined correlations between tradable commodity prices and
+USEP, listed potential clients, and proposed hedging strategies
+l Datathon: Discovered overdraft patterns in accounts’ cash flow data using std of amount or a significant drop in amount value
+Shanghai iFund Asset Management Company Shanghai, China
+Summer Intern, Quantitative Research June 2019-Sept. 2019
+l Developed alpha strategies on China’s A-share market using theories and models from mathematics, economics, and physics, including
+cross-price elasticity, Fourier transform, and Adaptive Expectations Model
+l Employed factor rotation and dynamic factor timing methods to improve performance
+RESEARCH
+Stochastic Foreign Exchange Factor Modelling Beijing, China
+Advisor: Chenxu Li, Associate Prof. of Guanghua School of Management, Peking University July 2020- Nov. 2020
+l Derived closed-form formula for foreign exchange options of 3/4 factor models using affine structure and change of Numeraire
+l Calibrated Heston, CEV, Jump, and 3/4 factor models using Bloomberg data, plotted model fitness and local minimum using MATLAB
+l Conducted empirical tests on correlations between short-term yields, 5 countries’ exchange rates and their realized vol using Python
+l Presented results to China Bond Pricing Center
+ACTIVITIES
+National Mathematical Modeling Competition for College Students Beijing, China
+Placed Second Nationally, Higher Education Press, Group Leader Oct. 2019
+l Led team members to complete thesis on Pressure Control of High-Pressure Oil Pipe using methods of numerical simulation
+2018 International Monetary Forum Beijing, China
+Guest Speaker, School of Government Finance Renmin University Sept. 2019
+l Spoke on pros and cons of Sino-US trade war to an audience of alums from Harvard, Yale and other schools
+SKILLS AND INTERESTS
+l Languages: Mandarin (native), Shanghainese (basic)
+l Technical Skills: C++, Python, MATLAB, Stata; Wind, Bloomberg, Mathematica, Office, LaTeX, SPSS; CFA level I Candidate
+l Interests: Texas Hold'em Poker, Traveling, Photography, Badminton, Electric Piano (15 years)

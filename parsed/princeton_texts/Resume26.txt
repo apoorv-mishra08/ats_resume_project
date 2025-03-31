@@ -1,0 +1,52 @@
+CHASITY (QIAN) CHEN
+268 Hongguan Road Hongkou District, Shanghai, China | Tel: (917)374-9827 | Email: qian.chen@princeton.edu
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance Anticipated Sept 2021-June 2023
+New York University New York, NY
+Bachelor of Arts in Economics and Bachelor of Arts in Computer Science Sept 2017-May 2021
+• GPA: 3.91/4.00; GRE: 334 + 4.5; Phi Beta Kappa, Dean’s List
+WORK EXPERIENCE
+Huatai Securities Co., Ltd Shanghai, China
+Asset Management Intern, Asset Management Division June 2021-present
+• Designed and selected option strategies for asset management products based on analysis of the current market.
+• Assisted in the preparation and operation of asset management products series before, during, and after asset management periods.
+Donghai Securities Shanghai, China
+Quantitative Research Intern, Financial Engineering Group of Research Department Apr 2021-June 2021
+• Paricipated in the publication of the weekly derivatives report, and independently wrote the first version.
+• Designed the workflow of an automatic data processing system for the weekly derivatives report and implemented the system using
+Python. The system automatically retrieves data, cleans data, computes required indicators and generates 10 tables and 31 graphs.
+• Assisted in the research on building machine learning models with technical factors for stock selection. Collected, cleaned, and
+visualized data to analyze the characteristics of datasets and conduct outlier analysis.
+China International Capital Corporation Limited (CICC) Beijing, China
+Quantitative Investment Intern, Equity Sales Department Oct 2020-Nov 2020
+• Assisted in the research on the selection of factors in a multi-factor model for stock selection in Chinese A share stock market. Used
+Python to conduct back-testing to test the validity of 2 factors (PE ratio and monthly sales growth), created industry-neutral
+portfolios based on the value of the factor being tested and tracked the annualized returns using historical data.
+• Maintained trading data and generated daily reports on the strategy performance (Annualized Return Rate, Maximum Drawdown,
+Sharpe Ratio) using Python.
+PwC Management Consulting (Shanghai) Limited Shanghai, China
+Management Consulting PTA Sept 2020-Oct 2020
+• Participated in the digital transformation project for a well-known Chinese medicine retailer, researched the online medicine
+retailing industry in China, derived and summarized the consumption scenario of medicine in B2C and O2O e-commerce models.
+• Conducted case studies on omni-channel retailing, including strategies, operations, and the back-end supply chain of leading firms.
+• Participated in the design of pricing and marketing strategies for a fintech company, collected and analyzed the fintech strategies of
+15 commercial banks, and summarized the overall transformation trend and potential demands for fintech products.
+• Conducted research on the applications of machine learning in the Chinese banking industry (including anti-fraud, risk management,
+Robo-advisor, and AI marketing) and contributed to a published research report.
+PROJECT & RESEARCH EXPERIENCE
+New York University, Computer Science Department New York, NY
+Natural Language Processing Project: AH-SAR – Ad Hoc Sentiment Analysis on Ratemyprofessors.com Mar 2021-May 2021
+• Designed, implemented, and tested multiple solutions for the sentiment analysis on student comments from RateMyProfessors.com
+using different machine learning models; ended up with an easy-to-implement, fast-to-train system that outperforms mainstream
+models in NLP in terms of both sentiment recognition accuracy and system training and running speed.
+• Launched an RMP-sentiment-analysis application and published the project paper on Github.
+LEADERSHIP EXPERIENCE
+Echo Tide Kunming, China
+Co-Founder, Project Leader Dec 2016-Dec 2018
+• Coordinated the initiation and promotion of long-term weekend volunteer programs in cooperation with local NGOs
+• Organized the preparation and sale of self-made handicrafts to raise funds for local child welfare institutes.
+SKILLS & INTERESTS
+• Computer: Python, Java, SQL, Microsoft Word, Excel (Solver, Data Analysis tools), PowerPoint
+• Language: Chinese (native); English (advanced); Spanish (basic)
+• Interests: Scuba Diving, Tennis, Fruit Tea, Hotpot

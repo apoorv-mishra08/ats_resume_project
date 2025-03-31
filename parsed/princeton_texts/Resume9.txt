@@ -1,0 +1,49 @@
+Mengyuan Li
+4322 Queens St., Apt. 305, Long Island City, NY 11101 | 917-575-2053 | ml0761@princeton.edu
+EDUCATION
+Princeton University, Bendheim Center for Finance Princeton, NJ
+Candidate for Master in Finance May 2023 (Expected)
+▪ Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Computational Finance in C++, Fixed
+Income Models and Applications, Fintech
+Cornell University, College of Agriculture and Life Sciences Ithaca, NY
+B.S. in Biometry and Statistics, Business Minor, Operations Research & Management Science Minor May 2019
+▪ Cumulative GPA: 4.19/4.33
+▪ Honors: SUMMA CUM LAUDE, CALS Class of 2019 Banner Bearer
+WORK & RESEARCH EXPERIENCE
+PriceWaterhouseCoopers Advisory New York, NY
+Associate, Forensic Technology Solutions Aug 2019 – May 2021
+▪ Developed a web application via SQL, stored procedures to provide a 13-week forecast of cash flows under dynamically
+generated scenarios and real-time visibility on cash flows to help clients manage liquidity, resulting in revenues of $7 million
+▪ Investigated Payment Protection Program Loan Forgiveness (660K+records) to detect fraudulent behavior by resampling
+imbalanced data with SMOTE, implementing LightGBM in Python, tuning hyperparameters with grid search cross-
+validation, evaluating model performance on test data, and interpreting models via SHAP values, decreasing the model’s
+false-positive rate from 0.2% to 0.001%
+▪ Closed a $21 billion deal by employing Alteryx, SQL, VBScript, Excel and Tableau to prepare a quarterly and yearly refresh
+on “Management View” Trial Balance Reports and “Carve-Out” Financial Statements with reference to 10-K/10-Q
+▪ Built a marketing platform and an upscaled digital marketing campaign strategy based on big data on user behavior
+Cornell University, SC Johnson College of Business Ithaca, NY
+Data Science Research Assistant Feb 2017 – May 2019
+▪ Created a research-level panel dataset, constructed social network metrics, and predicted the likelihood of a class reunion
+event attendance by performing feature selection and regression diagnostics on panel data for 965 alumni to reveal the
+network effect and peer impact on alumni decision-making process
+▪ Established benchmark models for patent generality prediction on a dataset of 157K samples by running regression models,
+conducting model selection and prediction research by building ROC curves to visualize model performance in R
+PROJECT EXPERIENCE
+Options Delta Hedging Simulation Online
+Financial Markets Bootcamp March 2020
+▪ Tracked equity index ETF options with various expiration dates and calculated relevant Greeks using Black-Scholes model
+▪ Delta hedged the options after market close, summarized the PnL, and explained the PnL components using the relationship
+between Gamma-Theta PnL and the implied-realized volatility spread
+Variance Swap Portfolio Construction Online
+Financial Markets Bootcamp April 2020
+▪ Constructed a portfolio consisting of SPY call and put options, calculated the Delta, Gamma, and cumulative PnL of a Delta-
+Hedged portfolio as the underlying price changes over time
+LEADERSHIP EXPERIENCE
+Cornell Statistics Club Ithaca, NY
+Founder Aug 2018 – May 2019
+Alpha Phi Omega Ithaca, NY
+Project Chair Feb 2016 – May 2019
+SKILLS AND INTERESTS
+Languages: English (advanced), Mandarin Chinese (native)
+Skills: SQL, Python, R, Java, Alteryx, Tableau, VBScript, Excel, PowerPoint, G-suite
+Interests: Caligraphy, Yoga, Escape Room

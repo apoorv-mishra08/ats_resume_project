@@ -1,0 +1,61 @@
+ERHAO ZHAO
++86 15911026103 | Bendheim Center for Finance, Princeton, NJ 08544 | ez1721@princeton.edu
+EDUCATION
+Princeton University Princeton, NJ
+Master in Finance 05/2023 (expected)
+• Anticipated Coursework: Asset Pricing, Statistical Analysis of Financial Data, Financial Econometrics, Computational Finance in
+C++, Financial Risk and Wealth Management, Statistical Theory and Methods
+Cornell University Ithaca, NY
+Master of Engineering in Computer Science 05/2021
+Bachelor of Arts in Computer Science and Economics (with Distinction) 05/2020
+• GPA: 4.04/4.3 (3.93/4.0), Dean’s List (all semesters)
+• Relevant Coursework: OOP and Data Structures, Computer Architectures, Algorithms, Operating Systems, Systems Programming,
+Mathematical Analysis, Linear Algebra, Probability, Statistics, ODE, Stochastic Processes, Statistical Data Mining, Machine Learning
+for Intelligent Systems (TA), Large-Scale Machine Learning Systems (TA), Big Data Technologies, Computer Vision, NLP
+WORK EXPERIENCE
+Vanguard Malvern, PA
+Quantitative Research Intern, Quantitative Equity Group (Equity Alpha Strategies) 06/2020 – 08/2020
+• Conducted a research project on seeking alpha strategies using machine learning techniques with PyTorch and Scikit-Learn and
+statistical techniques such as ad-hoc signal regularization and industry contextualization and neutralization for signal noise reduction
+and financial forecasting with nonparametric panel dataset
+• Explored and built unstructured and non-linear multi-factor equity forecasting frameworks to identify potential complements to
+traditional linear-structured models commonly used in quantitative equity investment space
+• Experimented with various signal filtering and processing techniques and performed neural network architecture design,
+hyperparameter optimizations, fixed-window and extending-window rolling training, software optimizations, out-of-sample and in-
+sample backtesting on long/short portfolios constructed by models which outperformed the linear benchmark model
+CICC Beijing, China
+Investment Banking Intern, Energy Group, Investment Banking Division 06/2019 – 08/2019
+• Material Asset Restructuring M&A (600131.SH): Joined an on-site project team and worked closely with an A-share listed energy
+company on its restructuring, fundraising and acquisition of four energy-related technology companies
+• Potential NYSE Spin-off IPO: Conducted research and provided advisory on Spin-off IPO for an NYSE listed TMT company,
+performed financial statement analysis, built valuation models and prepared presentation materials and pitchbook
+CITIC Securities Beijing, China
+Fixed Income Research Intern, Research Group 06/2018 – 08/2018
+• Conducted quantitative and fundamental fixed income research and modeling with a focus on rate securities for internal and external
+distribution
+• Research Topics:
+- Statistical modeling such as degree of deviation of DR007 for macroeconomic forecasting
+- Divergence of high liquidity injection and low public credit level based on Chinese AFRE and M2 data
+- Depressed infrastructure and fixed-asset investment of 1HY of China with a focus on the electricity power industry
+PROJECTS AND RESEARCH
+Extending Diebold-Li Model to Yield Curve Forecasting Models using Machine Learning Ithaca, NY
+Research Project, Advised by Professor David Ruppert, Cornell University 09/2020 – 12/2020
+• Conducted research on building dynamic forecasting models for parameters in the Diebold-Li model using various machine learning
+techniques including feedforward neural network and LSTM
+Neural Question Answering Systems Ithaca, NY
+NLP Project, Cornell University 10/2020 – 12/2020
+• Designed two Question Answering NLP systems for the SQuAD 2.0 dataset with deep learning and DistilBERT fine-tuning for
+extracting answers for questions given relevant context texts
+Mixed Frequency Time Series Forecasting using LSTM-CNN Architecture Beijing, China
+Research Assistant, Beijing Institute of Big Data Research, Peking University 12/2019 – 01/2020
+• Built Mixed Frequency Time Series Forecasting models using LSTM-CNN architecture with PyTorch for macroeconomic and
+financial index forecasting with mixed-frequency dataset
+Equity Forecasting Based on Twitter Sentiment Analysis with Deep Learning Ithaca, NY
+Artificial Intelligence Practicum Project, Cornell University 09/2019 – 12/2019
+• Built an NLP model with deep neural network to perform real-time sentiment analysis on Twitter tweets for day trading decision
+making on large-cap stocks
+SKILLS AND INTERESTS
+Computer Skills: Python, C/C++, Java, SQL, R, OCaml, MATLAB, Stata, Latex, Excel, Word, PowerPoint, Wind, Bloomberg
+Languages: Mandarin (Native)
+Interests: Soccer (President of Cornell CDSC Soccer Club, Bronze Medal in 2018 Ivy Cup Soccer Tournament), Basketball,
+Tennis, Football, Poker, Fishing, Skiing
