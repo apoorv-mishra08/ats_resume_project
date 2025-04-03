@@ -38,7 +38,7 @@ def predict_resume_score(resume_text, model, vectorizer):
 
 if __name__ == "__main__":
     # Step 1: Define file name here
-    test_resume_path = "CV_Guidelines.pdf"  
+    test_resume_path = "Siddarth Ambastha.pdf"  
 
     # Step 2: Load the model and vectorizer
     model_path = "models/resume_score_model.pkl"
