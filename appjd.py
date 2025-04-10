@@ -36,8 +36,6 @@ job_role = st.text_input("Enter the Job Role (e.g., Data Analyst)")
 job_description = st.text_area("Paste the Job Description below")
 
 
-
-
 if uploaded_file is not None and job_description.strip():
     try:
         resume_text = extract_text_from_pdf(uploaded_file)
